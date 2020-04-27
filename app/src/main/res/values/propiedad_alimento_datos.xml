@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="propiedades_alimento">
+        <item>@array/achicoria_propiedades</item>
+        <item>@array/ajo_propiedades</item>
+        <item>@array/alcachofa_propiedades</item>
+        <item>@array/alfalfa_propiedades</item>
+        <item>@array/anacahuita_propiedades</item>
+        <item>@array/amargon_propiedades</item>
+        <item>@array/ambay_propiedades</item>
+        <item>@array/angelica_propiedades</item>
+        <item>@array/anis_verde_propiedades</item>
+        <item>@array/apio_cimarron_propiedades</item>
+        <item>@array/arandano_propiedades</item>
+        <item>@array/bardana_propiedades</item>
+        <item>@array/boldo_propiedades</item>
+        <item>@array/borraja_propiedades</item>
+        <item>@array/rusco_propiedades</item>
+        <item>@array/cabotoril_propiedades</item>
+        <item>@array/calendula_propiedades</item>
+        <item>@array/canchalagua_propiedades</item>
+        <item>@array/cardo_mariano_propiedades</item>
+        <item>@array/carqueja_propiedades</item>
+        <item>@array/cascara_sagrada_propiedades</item>
+        <item>@array/castano_de_indias_propiedades</item>
+        <item>@array/cedron_propiedades</item>
+        <item>@array/centella_asiatica_propiedades</item>
+        <item>@array/chanar_propiedades</item>
+        <item>@array/chia_propiedades</item>
+    '<!--'<item>@array/cimicifuga_propiedades</item> '-->'
+        <item>@array/cola_de_caballo_propiedades</item>
+        <item>@array/congorosa_propiedades</item>
+        <item>@array/contrayerba_propiedades</item>
+        <item>@array/crataegus_propiedades</item>
+        <item>@array/cuasia_propiedades</item>
+        <item>@array/damiana_propiedades</item>
+        <item>@array/doradilla_propiedades</item>
+        <item>@array/enebro_propiedades</item>
+        <item>@array/equinacea_propiedades</item>
+        <item>@array/estigma_de_maiz_propiedades</item>
+        <item>@array/eucalipto_propiedades</item>
+        <item>@array/fresno_propiedades</item>
+        <item>@array/fucus_propiedades</item>
+        <item>@array/fumaria_propiedades</item>
+        <item>@array/garcinia_propiedades</item>
+        <item>@array/ginkgo_biloba_propiedades</item>
+        <item>@array/ginseng_propiedades</item>
+
+    </array>
+
+    '<!--'
+        Campo 1: alimento_id
+        Campo 2..N: propiedad_id
+    '-->'
+
+    <array name="achicoria_propiedades">
+        <item>1</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>99</item>
+    </array>
+
+    <array name="ajo_propiedades">
+        <item>2</item>
+        <item>2</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </array>
+
+    <array name="alcachofa_propiedades">
+        <item>3</item>
+        <item>8</item>
+        <item>13</item>
+        <item>53</item>
+    </array>
+
+    <array name="alfalfa_propiedades">
+        <item>4</item>
+        <item>1</item>
+        <item>2</item>
+        <item>11</item>
+        <item>12</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+    </array>
+
+    <array name="anacahuita_propiedades">
+        <item>5</item>
+        <item>3</item>
+        <item>4</item>
+        <item>15</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>53</item>
+    </array>
+
+    <array name="amargon_propiedades">
+        <item>6</item>
+        <item>1</item>
+        <item>11</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>53</item>
+    </array>
+
+    <array name="ambay_propiedades">
+        <item>7</item>
+        <item>2</item>
+        <item>9</item>
+        <item>14</item>
+        <item>24</item>
+        <item>25</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>53</item>
+    </array>
+
+    <array name="angelica_propiedades">
+        <item>8</item>
+        <item>14</item>
+        <item>25</item>
+        <item>27</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>53</item>
+    </array>
+
+    <array name="anis_verde_propiedades">
+        <item>9</item>
+        <item>15</item>
+        <item>24</item>
+        <item>25</item>
+        <item>32</item>
+        <item>34</item>
+        <item>35</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>53</item>
+    </array>
+
+    <array name="apio_cimarron_propiedades">
+        <item>10</item>
+        <item>2</item>
+        <item>3</item>
+        <item>8</item>
+        <item>11</item>
+        <item>17</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>30</item>
+        <item>34</item>
+        <item>41</item>
+        <item>53</item>
+    </array>
+
+    <array name="arandano_propiedades">
+        <item>11</item>
+        <item>2</item>
+        <item>4</item>
+        <item>33</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+    </array>
+
+    <array name="bardana_propiedades">
+        <item>12</item>
+        <item>1</item>
+        <item>3</item>
+        <item>7</item>
+        <item>8</item>
+        <item>15</item>
+        <item>17</item>
+        <item>22</item>
+        <item>43</item>
+        <item>46</item>
+        <item>53</item>
+    </array>
+
+    <array name="boldo_propiedades">
+        <item>13</item>
+        <item>4</item>
+        <item>8</item>
+        <item>13</item>
+        <item>27</item>
+        <item>34</item>
+        <item>40</item>
+        <item>53</item>
+        <item>55</item>
+    </array>
+
+    <array name="borraja_propiedades">
+        <item>14</item>
+        <item>8</item>
+        <item>20</item>
+        <item>46</item>
+        <item>47</item>
+        <item>53</item>
+    </array>
+
+    <array name="rusco_propiedades">
+        <item>15</item>
+        <item>30</item>
+        <item>48</item>
+        <item>49</item>
+        <item>53</item>
+    </array>
+
+    <array name="cabotoril_propiedades">
+        <item>16</item>
+        <item>15</item>
+        <item>16</item>
+        <item>33</item>
+        <item>50</item>
+        <item>51</item>
+    </array>
+
+    <array name="calendula_propiedades">
+        <item>17</item>
+        <item>3</item>
+        <item>23</item>
+
+    </array>
+
+    <array name="canchalagua_propiedades">
+        <item>18</item>
+        <item>8</item>
+        <item>26</item>
+        <item>46</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+    </array>
+
+    <array name="cardo_mariano_propiedades">
+        <item>19</item>
+        <item>2</item>
+        <item>5</item>
+        <item>11</item>
+        <item>15</item>
+        <item>40</item>
+    </array>
+
+    <array name="carqueja_propiedades">
+        <item>20</item>
+        <item>7</item>
+        <item>28</item>
+        <item>52</item>
+        <item>53</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+    </array>
+
+    <array name="cascara_sagrada_propiedades">
+        <item>21</item>
+        <item>1</item>
+        <item>58</item>
+
+    </array>
+
+    <array name="castano_de_indias_propiedades">
+        <item>22</item>
+        <item>15</item>
+        <item>25</item>
+        <item>33</item>
+        <item>59</item>
+        <item>60</item>
+    </array>
+
+    <array name="cedron_propiedades">
+        <item>23</item>
+        <item>4</item>
+        <item>11</item>
+        <item>14</item>
+        <item>15</item>
+        <item>24</item>
+        <item>34</item>
+        <item>35</item>
+    </array>
+
+    <array name="centella_asiatica_propiedades">
+        <item>24</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>15</item>
+        <item>17</item>
+        <item>29</item>
+        <item>34</item>
+        <item>53</item>
+        <item>61</item>
+        <item>62</item>
+        <item>63</item>
+        <item>64</item>
+        <item>65</item>
+        <item>66</item>
+        <item>67</item>
+        <item>68</item>
+        <item>69</item>
+    </array>
+
+    <array name="chanar_propiedades">
+        <item>25</item>
+        <item>15</item>
+        <item>25</item>
+        <item>27</item>
+        <item>32</item>
+    </array>
+
+    <array name="chia_propiedades">
+        <item>26</item>
+        <item>8</item>
+        <item>15</item>
+
+    </array>
+
+    <array name="cola_de_caballo_propiedades">
+        <item>28</item>
+        <item>3</item>
+        <item>15</item>
+        <item>19</item>
+        <item>23</item>
+        <item>29</item>
+        <item>33</item>
+        <item>42</item>
+        <item>53</item>
+    </array>
+
+    <array name="congorosa_propiedades">
+        <item>29</item>
+        <item>1</item>
+        <item>4</item>
+        <item>11</item>
+        <item>12</item>
+        <item>24</item>
+        <item>27</item>
+        <item>34</item>
+        <item>53</item>
+        <item>57</item>
+        <item>70</item>
+        <item>71</item>
+        <item>72</item>
+    </array>
+
+    <array name="contrayerba_propiedades">
+        <item>30</item>
+        <item>1</item>
+        <item>26</item>
+        <item>46</item>
+        <item>53</item>
+        <item>73</item>
+        <item>98</item>
+        <item>101</item>
+    </array>
+
+    <array name="crataegus_propiedades">
+        <item>31</item>
+        <item>16</item>
+        <item>24</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>53</item>
+        <item>98</item>
+        <item>100</item>
+    </array>
+
+    <array name="cuasia_propiedades">
+        <item>32</item>
+        <item>11</item>
+        <item>28</item>
+        <item>54</item>
+        <item>74</item>
+        <item>75</item>
+    </array>
+
+    <array name="damiana_propiedades">
+        <item>33</item>
+        <item>1</item>
+        <item>4</item>
+        <item>17</item>
+        <item>25</item>
+        <item>53</item>
+        <item>72</item>
+        <item>76</item>
+        <item>98</item>
+        <item>101</item>
+    </array>
+
+    <array name="doradilla_propiedades">
+        <item>34</item>
+        <item>5</item>
+        <item>13</item>
+        <item>25</item>
+        <item>28</item>
+        <item>32</item>
+        <item>33</item>
+        <item>53</item>
+        <item>77</item>
+        <item>101</item>
+    </array>
+
+    <array name="enebro_propiedades">
+        <item>35</item>
+        <item>3</item>
+        <item>4</item>
+        <item>8</item>
+        <item>11</item>
+        <item>19</item>
+        <item>24</item>
+        <item>25</item>
+        <item>29</item>
+        <item>33</item>
+        <item>35</item>
+        <item>36</item>
+        <item>46</item>
+        <item>53</item>
+        <item>78</item>
+        <item>79</item>
+    </array>
+
+    <array name="equinacea_propiedades">
+        <item>36</item>
+        <item>3</item>
+        <item>4</item>
+        <item>7</item>
+        <item>15</item>
+        <item>41</item>
+        <item>80</item>
+    </array>
+
+    <array name="estigma_de_maiz_propiedades">
+        <item>37</item>
+        <item>8</item>
+        <item>15</item>
+        <item>34</item>
+        <item>53</item>
+        <item>81</item>
+    </array>
+
+    <array name="eucalipto_propiedades">
+        <item>38</item>
+        <item>3</item>
+        <item>4</item>
+        <item>8</item>
+        <item>9</item>
+        <item>15</item>
+        <item>17</item>
+        <item>19</item>
+        <item>20</item>
+        <item>24</item>
+        <item>25</item>
+        <item>27</item>
+        <item>43</item>
+        <item>53</item>
+        <item>54</item>
+        <item>73</item>
+        <item>78</item>
+        <item>79</item>
+        <item>82</item>
+        <item>83</item>
+        <item>84</item>
+    </array>
+
+    <array name="fresno_propiedades">
+        <item>39</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>14</item>
+        <item>15</item>
+        <item>27</item>
+        <item>33</item>
+        <item>53</item>
+        <item>75</item>
+        <item>85</item>
+    </array>
+
+    <array name="fucus_propiedades">
+        <item>40</item>
+        <item>11</item>
+        <item>15</item>
+        <item>27</item>
+        <item>70</item>
+        <item>86</item>
+        <item>99</item>
+    </array>
+
+    <array name="fumaria_propiedades">
+        <item>41</item>
+        <item>1</item>
+        <item>8</item>
+        <item>15</item>
+        <item>47</item>
+        <item>53</item>
+        <item>87</item>
+        <item>88</item>
+        <item>89</item>
+        <item>101</item>
+        <item>102</item>
+    </array>
+
+    <array name="garcinia_propiedades">
+        <item>42</item>
+        <item>4</item>
+        <item>15</item>
+        <item>17</item>
+        <item>27</item>
+        <item>29</item>
+        <item>33</item>
+        <item>90</item>
+    </array>
+
+    <array name="ginkgo_biloba_propiedades">
+        <item>43</item>
+        <item>2</item>
+        <item>53</item>
+        <item>91</item>
+        <item>92</item>
+        <item>93</item>
+        <item>94</item>
+        <item>95</item>
+        <item>96</item>
+        <item>97</item>
+    </array>
+
+    <array name="ginseng_propiedades">
+        <item>44</item>
+        <item>2</item>
+        <item>15</item>
+        <item>29</item>
+        <item>80</item>
+    </array>
+</resources>

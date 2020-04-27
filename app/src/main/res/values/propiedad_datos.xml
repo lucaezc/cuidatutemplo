@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="propiedades">
+        <item>@array/laxante</item>
+        <item>@array/antioxidante</item>
+        <item>@array/cicatrizante</item>
+        <item>@array/antiseptico</item>
+        <item>@array/hipotensor</item>
+        <item>@array/circulatorio</item>
+        <item>@array/antibiotico</item>
+        <item>@array/depurativo</item>
+        <item>@array/descongestivo</item>
+        <item>@array/anticoagulante</item>
+        <item>@array/digestivo</item>
+        <item>@array/anticancerigeno</item>
+        <item>@array/coleretico</item>
+        <item>@array/antipiretico</item>
+        <item>@array/antiinflamatorio</item>
+        <item>@array/tonico_cardiaco</item>
+        <item>@array/antibacteriano</item>
+        <item>@array/emetico</item>
+        <item>@array/antirreumatico</item>
+        <item>@array/antiviral</item>
+        <item>@array/fungicida</item>
+        <item>@array/antidiabetico</item>
+        <item>@array/antihemorragico</item>
+        <item>@array/antiespasmodico</item>
+        <item>@array/expectorante</item>
+        <item>@array/emenagogo</item>
+        <item>@array/analgesico</item>
+        <item>@array/hepatico</item>
+        <item>@array/desintoxicante</item>
+        <item>@array/aperitivo</item>
+        <item>@array/antiescorbutico</item>
+        <item>@array/antitusivo</item>
+        <item>@array/astringente</item>
+        <item>@array/sedante</item>
+        <item>@array/carminativo</item>
+        <item>@array/relajante</item>
+        <item>@array/tonificante</item>
+        <item>@array/dispeptico</item>
+        <item>@array/galactogeno</item>
+        <item>@array/hepatoprotector</item>
+        <item>@array/diaforetico</item>
+        <item>@array/antiseptico_vias_urinarias</item>
+        <item>@array/hipoglucemiante</item>
+        <item>@array/antidiarreico</item>
+        <item>@array/gastroprotector</item>
+        <item>@array/sudorifico</item>
+        <item>@array/emoliente</item>
+        <item>@array/vasoconstrictora</item>
+        <item>@array/antiedematosa</item>
+        <item>@array/normotensor</item>
+        <item>@array/antidepresivo</item>
+        <item>@array/antiacido</item>
+        <item>@array/diuretico</item>
+        <item>@array/febrifugo</item>
+        <item>@array/colagogo</item>
+        <item>@array/antianemica</item>
+        <item>@array/antiasmatica</item>
+        <item>@array/purgante</item>
+        <item>@array/reforzador_capilar</item>
+        <item>@array/vasoprotector</item>
+        <item>@array/eutrofico</item>
+        <item>@array/regenerador_cutaneo</item>
+        <item>@array/dermoprotector</item>
+        <item>@array/vasodilatador_cerebral</item>
+        <item>@array/ansiolitico</item>
+        <item>@array/antiulceroso</item>
+        <item>@array/inmunomoduladora</item>
+        <item>@array/angiogenica</item>
+        <item>@array/anticonceptiva</item>
+        <item>@array/bactericida</item>
+        <item>@array/antipeptico</item>
+        <item>@array/afrodisiaco</item>
+        <item>@array/vermifugo</item>
+        <item>@array/tonico_estomacal</item>
+        <item>@array/antiparasitario</item>
+        <item>@array/mucolitico</item>
+        <item>@array/hipoviscosizante</item>
+        <item>@array/vulneario</item>
+        <item>@array/rubefaciente</item>
+        <item>@array/energizante</item>
+        <item>@array/cardiovascular</item>
+        <item>@array/anticatarral</item>
+        <item>@array/balsamico</item>
+        <item>@array/fluidificante</item>
+        <item>@array/antihelmintico</item>
+        <item>@array/depurativo_sanguineo</item>
+        <item>@array/antihistaminico</item>
+        <item>@array/hipostenica</item>
+        <item>@array/hepatorregulador</item>
+        <item>@array/revitalizante</item>
+        <item>@array/neuroprotector</item>
+        <item>@array/vasodilatador_periferico</item>
+        <item>@array/antihemorroidal</item>
+        <item>@array/tonico_renal</item>
+        <item>@array/antialergico</item>
+        <item>@array/revulsivo_sexual</item>
+        <item>@array/antiagregante_plaquetario</item>
+        <item>@array/bioestimulante</item>
+        <item>@array/desinfectante</item>
+
+    </array>
+    '<!--'
+        Campo 1: propiedad_id
+        Campo 2: propiedad_nombre
+        Campo 3: propiedad_descripcion
+    '-->'
+    <array name="laxante">
+        <item>1</item>
+        <item>Laxante</item>
+        <item>Provoca la defecación o la eliminación de las heces o evacuación intestinal mediante un efecto suave.</item>
+    </array>
+
+    <array name="antioxidante">
+        <item>2</item>
+        <item>Antioxidante</item>
+        <item>Ayuda a detener o limitar el daño causado por los radicales libres, y reducen el estrés oxidativo (producción de radicales libres).
+            Los radicales libres son elementos naturales o artificiales, que pueden ser: productos químicos que nuestro cuerpo produce al convertir los alimentos en energía; toxinas ambientales, como el tabaco, el alcohol y la contaminación; rayos ultravioletas; sustancias que se encuentran en los alimentos procesados.
+            Antioxidantes más habituales contenidos en los alimentos: polifenoles, carotenoides, vitaminas C y E.</item>
+    </array>
+
+    <array name="cicatrizante">
+        <item>3</item>
+        <item>Cicatrizante</item>
+        <item>Ayuda a reparar los tejidos de las heridas.</item>
+    </array>
+
+    <array name="antiseptico">
+        <item>4</item>
+        <item>Antiséptico</item>
+        <item>Reduce la posibilidad de infección, sepsis o putrefacción.</item>
+    </array>
+
+    <array name="hipotensor">
+        <item>5</item>
+        <item>Hipotensor</item>
+        <item>Reduce la presión arterial.</item>
+    </array>
+
+    <array name="circulatorio">
+        <item>6</item>
+        <item>Circulatorio</item>
+        <item>Promueve la circulación de la sangre.</item>
+    </array>
+
+    <array name="antibiotico">
+        <item>7</item>
+        <item>Antibiótico</item>
+        <item>Ayuda a combatir las infecciones bacterianas.</item>
+    </array>
+
+    <array name="depurativo">
+        <item>8</item>
+        <item>Depurativo</item>
+        <item>Depura o purifica los líquidos del cuerpo, en especial la sangre.</item>
+    </array>
+
+    <array name="descongestivo">
+        <item>9</item>
+        <item>Descongestivo</item>
+        <item>Evita la congestión nasal.</item>
+    </array>
+
+    <array name="anticoagulante">
+        <item>10</item>
+        <item>Anticoagulante</item>
+        <item>Desacelera el proceso de formación de coágulos (agrupación de células sanguíneas llamadas plaquetas que se aglomeran para formar un coágulo) en el cuerpo.</item>
+    </array>
+
+    <array name="digestivo">
+        <item>11</item>
+        <item>Digestivo</item>
+        <item>Facilita la digestión.</item>
+    </array>
+
+    <array name="anticancerigeno">
+        <item>12</item>
+        <item>Anticancerígeno</item>
+        <item>Previene o retrasa la aparación de cáncer.</item>
+    </array>
+
+    <array name="coleretico">
+        <item>13</item>
+        <item>Colerético</item>
+        <item>Activa la producción de la bilis como función hepática.</item>
+    </array>
+
+    <array name="antipiretico">
+        <item>14</item>
+        <item>Antipirético</item>
+        <item>Disminuye la fiebre.</item>
+    </array>
+
+    <array name="antiinflamatorio">
+        <item>15</item>
+        <item>Antiinflamatorio</item>
+        <item>Previene o disminuye la inflamación de los tejidos.</item>
+    </array>
+
+    <array name="tonico_cardiaco">
+        <item>16</item>
+        <item>Tónico cardíaco</item>
+        <item>Estimula y refuerza la actividad del corazón.</item>
+    </array>
+
+    <array name="antibacteriano">
+        <item>17</item>
+        <item>Antibacteriano</item>
+        <item>Sirve para combatir las infecciones causadas por bacterias.</item>
+    </array>
+
+    <array name="emetico">
+        <item>18</item>
+        <item>Emético</item>
+        <item>Provoca o estimula el vómito.</item>
+    </array>
+
+    <array name="antirreumatico">
+        <item>19</item>
+        <item>Antirreumático</item>
+        <item>Sirve para curar o combatir el reuma.</item>
+    </array>
+
+    <array name="antiviral">
+        <item>20</item>
+        <item>Antiviral</item>
+        <item>Se usan para tratar las infecciones producidas por virus.</item>
+    </array>
+
+    <array name="fungicida">
+        <item>21</item>
+        <item>Fungicida</item>
+        <item>Sirve para destruir los hongos parásitos que causan enfermedades o daños.</item>
+    </array>
+
+    <array name="antidiabetico">
+        <item>22</item>
+        <item>Antidiabético</item>
+        <item>Previene o combate la diabetes.</item>
+    </array>
+
+    <array name="antihemorragico">
+        <item>23</item>
+        <item>Antihemorrágico</item>
+        <item>Ejerce un efecto hemostático y detiene una hemorragia.</item>
+    </array>
+
+    <array name="antiespasmodico">
+        <item>24</item>
+        <item>Antiespasmódico</item>
+        <item>Calma los espasmos y el dolor de tipo cólico.</item>
+    </array>
+
+    <array name="expectorante">
+        <item>25</item>
+        <item>Expectorante</item>
+        <item>Provoca o promueve la expulsión de las secreciones bronquiales acumuladas.</item>
+    </array>
+
+    <array name="emenagogo">
+        <item>26</item>
+        <item>Emenagogo</item>
+        <item>Provoca o favorece la menstruación.</item>
+    </array>
+
+    <array name="analgesico">
+        <item>27</item>
+        <item>Analgésico</item>
+        <item>Reduce o alivia dolores.</item>
+    </array>
+
+    <array name="hepatico">
+        <item>28</item>
+        <item>Hepático</item>
+        <item>Favorece el funcionamiento del hígado.</item>
+    </array>
+
+    <array name="desintoxicante">
+        <item>29</item>
+        <item>Desintoxicante</item>
+        <item>Remueve substancias tóxicas del cuerpo.</item>
+    </array>
+
+    <array name="aperitivo">
+        <item>30</item>
+        <item>Aperitivo</item>
+        <item>Sirve para abrir el apetito. Abre las vías a los líquidos orgánicos en los aparatos digestivo, biliar, urinario, etc.</item>
+    </array>
+
+    <array name="antiescorbutico">
+        <item>31</item>
+        <item>Antiescorbútico</item>
+        <item>Sirve para combatir el escorbuto (avitaminosis producida por el déficit de vitamica C).</item>
+    </array>
+
+    <array name="antitusivo">
+        <item>32</item>
+        <item>Antitusivo</item>
+        <item>Previene, reduce o elimina la tos.</item>
+    </array>
+
+    <array name="astringente">
+        <item>33</item>
+        <item>Astringente</item>
+        <item>Produce desecación y contracción de los tejidos del vientre y dificulta la evacuación de los excrementos.</item>
+    </array>
+
+    <array name="sedante">
+        <item>34</item>
+        <item>Sedante</item>
+        <item>Calma los dolores o disminuye la excitación nerviosa.</item>
+    </array>
+
+    <array name="carminativo">
+        <item>35</item>
+        <item>Carminativo</item>
+        <item>Favorece la expulsión de los gases del tubo digestivo.</item>
+    </array>
+
+    <array name="relajante">
+        <item>36</item>
+        <item>Relajante</item>
+        <item>Induce a la relajación muscular.</item>
+    </array>
+
+    <array name="tonificante">
+        <item>37</item>
+        <item>Tonificante</item>
+        <item>Da vigor al cuerpo o a una de sus partes.</item>
+    </array>
+
+    <array name="dispeptico">
+        <item>38</item>
+        <item>Dispéptico</item>
+        <item>Alivia la indigestión.</item>
+    </array>
+
+    <array name="galactogeno">
+        <item>39</item>
+        <item>Galactógeno</item>
+        <item>Estimula la producción de leche en las glándulas mamarias de la mujer.</item>
+    </array>
+
+    <array name="hepatoprotector">
+        <item>40</item>
+        <item>Hepatoprotector</item>
+        <item>Protege el hígado y previene su daño.</item>
+    </array>
+
+    <array name="diaforetico">
+        <item>41</item>
+        <item>Diaforético</item>
+        <item>Provoca la secreción de sudor.</item>
+    </array>
+
+    <array name="antiseptico_vias_urinarias">
+        <item>42</item>
+        <item>Antiséptico (vías urinarias)</item>
+        <item>Reduce la posibilidad de infección en las vías urinarias.</item>
+    </array>
+
+    <array name="hipoglucemiante">
+        <item>43</item>
+        <item>Hipoglucemiante</item>
+        <item>Disminuye los niveles de azúcar en sangre.</item>
+    </array>
+
+    <array name="antidiarreico">
+        <item>44</item>
+        <item>Antidiarréico</item>
+        <item>Sirve para combatir la diarrea.</item>
+    </array>
+
+    <array name="gastroprotector">
+        <item>45</item>
+        <item>Gastroprotector</item>
+        <item>Protege la mucosa gástrica de agentes agresivos o irritantes.</item>
+    </array>
+
+    <array name="sudorifico">
+        <item>46</item>
+        <item>Sudorífico</item>
+        <item>Provoca la secreción de sudor.</item>
+    </array>
+
+    <array name="emoliente">
+        <item>47</item>
+        <item>Emoliente</item>
+        <item>Ablanda o relaja una dureza o una inflamación.</item>
+    </array>
+
+    <array name="vasoconstrictora">
+        <item>48</item>
+        <item>Vasoconstrictora</item>
+        <item>Estrecha los vasos sanguíneos: aumenta la resistencia al paso de la sangre y por tanto disminuye el flujo de sangre en el vaso afectado.</item>
+    </array>
+
+    <array name="antiedematosa">
+        <item>49</item>
+        <item>Antiedematosa</item>
+        <item>Ayuda a reducir o eliminar los síntomas de un edema (exceso de líquido en algún órgano o tejido del cuerpo).</item>
+    </array>
+
+    <array name="normotensor">
+        <item>50</item>
+        <item>Normotensor</item>
+        <item>Regula la presión sanguínea.</item>
+    </array>
+
+    <array name="antidepresivo">
+        <item>51</item>
+        <item>Antidepresivo</item>
+        <item>Estimula la actividad del sistema nervioso y se utiliza en el tratamiento de la depresión.</item>
+    </array>
+
+    <array name="antiacido">
+        <item>52</item>
+        <item>Antiácido</item>
+        <item>Ayuda a tratar la acidez gástrica (indigestión).</item>
+    </array>
+
+    <array name="diuretico">
+        <item>53</item>
+        <item>Diurético</item>
+        <item>Ayuda a eliminar la sal (el sodio) y el agua del cuerpo.</item>
+    </array>
+
+    <array name="febrifugo">
+        <item>54</item>
+        <item>Febrífugo</item>
+        <item>Sirve para reducir la fiebre.</item>
+    </array>
+
+    <array name="colagogo">
+        <item>55</item>
+        <item>Colagogo</item>
+        <item>Facilita la expulsión de la bilis retenida en la vesícula biliar. Casi siempre acompañado de una acción purgante intestinal.</item>
+    </array>
+
+    <array name="antianemica">
+        <item>56</item>
+        <item>Antianémica</item>
+        <item>Restablece los mecanismos normales de producción de hemoglobina y la formación de hematíes.</item>
+    </array>
+
+    <array name="antiasmatica">
+        <item>57</item>
+        <item>Antiasmática</item>
+        <item>Trata el asma.</item>
+    </array>
+
+    <array name="purgante">
+        <item>58</item>
+        <item>Purgante</item>
+        <item>Sirve para purgar o limpiar el aparato digestivo facilitando la evacuación intestinal.</item>
+    </array>
+
+    <array name="reforzador_capilar">
+        <item>59</item>
+        <item>Reforzador capilar</item>
+        <item>Fortalece el cabello débil y estimula el crecimiento de cabello nuevo.</item>
+    </array>
+
+    <array name="vasoprotector">
+        <item>60</item>
+        <item>Vasoprotector</item>
+        <item>Protege los vasos sanguíneos.</item>
+    </array>
+
+    <array name="eutrofico">
+        <item>61</item>
+        <item>Eutrófico</item>
+        <item>Promueve un buen estado nutritivo.</item>
+    </array>
+
+    <array name="regenerador_cutaneo">
+        <item>62</item>
+        <item>Regenerador cutáneo</item>
+        <item>Repara los tejidos de la piel.</item>
+    </array>
+
+    <array name="dermoprotector">
+        <item>63</item>
+        <item>Dermoprotector</item>
+        <item>Protege la piel de las condiciones extremas (frío, calor, humedad) y mantiene su equilibrio natural.</item>
+    </array>
+
+    <array name="vasodilatador_cerebral">
+        <item>64</item>
+        <item>Vasodilatador cerebral</item>
+        <item>Abre (dilata) los vasos sanguíneos del cerebro: la sangre fluye por los vasos sanguíneos con mayor facilidad.</item>
+    </array>
+
+    <array name="ansiolitico">
+        <item>65</item>
+        <item>Ansiolítico</item>
+        <item>Disminuye o elimina los síntomas de la ansiedad.</item>
+    </array>
+
+    <array name="antiulceroso">
+        <item>66</item>
+        <item>Antiulceroso</item>
+        <item>Cura o facilita la cicatrización de una úlcera.</item>
+    </array>
+
+    <array name="inmunomoduladora">
+        <item>67</item>
+        <item>Inmunomoduladora</item>
+        <item>Regula el sistema inmune, mediante el aumento o la disminución de la capacidad de producir anticuerpos.</item>
+    </array>
+
+    <array name="angiogenica">
+        <item>68</item>
+        <item>Angiogénica</item>
+        <item>Promueve la formación de vasos sanguíneos nuevos a partir de los vasos preexistentes.</item>
+    </array>
+
+    <array name="anticonceptiva">
+        <item>69</item>
+        <item>Anticonceptiva</item>
+        <item>Impide o reduce las posibilidades de que se produzca un embarazo.</item>
+    </array>
+
+    <array name="bactericida">
+        <item>70</item>
+        <item>Bactericida</item>
+        <item>Destruye las bacterias.</item>
+    </array>
+
+    <array name="antipeptico">
+        <item>71</item>
+        <item>Antipéptico</item>
+        <item>Ayuda a tratar la acidez gástrica (indigestión).</item>
+    </array>
+
+    <array name="afrodisiaco">
+        <item>72</item>
+        <item>Afrodisíaco</item>
+        <item>Excita o aumenta el deseo sexual.</item>
+    </array>
+
+    <array name="vermifugo">
+        <item>73</item>
+        <item>Vermífugo</item>
+        <item>Sirve para expulsar los gusanos intestinales.</item>
+    </array>
+
+    <array name="tonico_estomacal">
+        <item>74</item>
+        <item>Tónico estomacal</item>
+        <item>Estimula y refuerza la actividad del estómago.</item>
+    </array>
+
+    <array name="antiparasitario">
+        <item>75</item>
+        <item>Antiparasitario</item>
+        <item>Trata las parasitosis (enfermedades infecciosas causadas por parásitos).</item>
+    </array>
+
+    <array name="mucolitico">
+        <item>76</item>
+        <item>Mucolítico</item>
+        <item>Disuelve el moco o ayuda a eliminarlo.</item>
+    </array>
+
+    <array name="hipoviscosizante">
+        <item>77</item>
+        <item>Hipoviscosizante</item>
+        <item>Previene los tromboembolismos.</item>
+    </array>
+
+    <array name="vulneario">
+        <item>78</item>
+        <item>Vulneario</item>
+        <item>Cura las llagas y heridas.</item>
+    </array>
+
+    <array name="rubefaciente">
+        <item>79</item>
+        <item>Rubefaciente</item>
+        <item>Provoca el enrojecimiento de la piel debido al aumento del flujo sanguíneo.</item>
+    </array>
+
+    <array name="energizante">
+        <item>80</item>
+        <item>Energizante</item>
+        <item>Estimula el sistema nervioso central que favorece la actividad mental, aumenta la energía y promueve la concentración.</item>
+    </array>
+
+    <array name="cardiovascular">
+        <item>81</item>
+        <item>Cardiovascular</item>
+        <item>Mejora el funcionamiento del corazón y los vasos sanguíneos.</item>
+    </array>
+
+    <array name="anticatarral">
+        <item>82</item>
+        <item>Anticatarral</item>
+        <item>Alivian los síntomas de los catarros.</item>
+    </array>
+
+    <array name="balsamico">
+        <item>83</item>
+        <item>Balsámico</item>
+        <item>Alivia la irritación de garganta y reconforta las vías respiratorias.</item>
+    </array>
+
+    <array name="fluidificante">
+        <item>84</item>
+        <item>Fluidificante</item>
+        <item>Hace más fluidas las secreciones bronquiales.</item>
+    </array>
+
+    <array name="antihelmintico">
+        <item>85</item>
+        <item>Antihelmíntico</item>
+        <item>Sirve en el tratamiento de las helmintiasis, es decir las infestaciones por vermes, helmintos o lombrices.</item>
+    </array>
+
+    <array name="depurativo_sanguineo">
+        <item>86</item>
+        <item>Depurativo sanguineo</item>
+        <item>Limpia la sangre.</item>
+    </array>
+
+    <array name="antihistaminico">
+        <item>87</item>
+        <item>Antihistamínico</item>
+        <item>Alivia o previene síntomas de alergia.</item>
+    </array>
+
+    <array name="hipostenica">
+        <item>88</item>
+        <item>Hiposténica</item>
+        <item>Provoca pérdida de energía muscular.</item>
+    </array>
+
+    <array name="hepatorregulador">
+        <item>89</item>
+        <item>Hepatorregulador</item>
+        <item>Protege, desintoxifica y estimula la función hepática (relacionado al hígado).</item>
+    </array>
+
+    <array name="revitalizante">
+        <item>90</item>
+        <item>Revitalizante</item>
+        <item>Da vida al cuerpo.</item>
+    </array>
+
+    <array name="neuroprotector">
+        <item>91</item>
+        <item>Neuroprotector</item>
+        <item>Protege el sistema nervioso: previene, mitiga o retrasa los procesos neurodegenerativos propios de enfermedades como el Alzeimer o lesiones cerebrales. Los compuestos neuroprotectores evitan la muerte de las neuronas (apoptosis) o su degeneración.</item>
+    </array>
+
+    <array name="vasodilatador_periferico">
+        <item>92</item>
+        <item>Vasodilatador periférico</item>
+        <item>Dilata los vasos sanguíneos con el fin de mejorar la circulación colateral y disminuir los efectos deletéreos de la obliteración vascular, siendo activas solo sobre los vasos lesionados o bien sobre arterias enfermas pero siempre que exista un espasmo sobreañadido.</item>
+    </array>
+
+    <array name="antihemorroidal">
+        <item>93</item>
+        <item>Antihemorroidal</item>
+        <item>Calma el dolor, la inflamación y picazón, asociados al disconfort del tejido hemorroidal o inflamación anorrectal.</item>
+    </array>
+
+    <array name="tonico_renal">
+        <item>94</item>
+        <item>Tónico renal</item>
+        <item>Estimula y refuerza la actividad de los riñones.</item>
+    </array>
+
+    <array name="antialergico">
+        <item>95</item>
+        <item>Antialérgico</item>
+        <item>Trata los síntomas de las alergias.</item>
+    </array>
+
+    <array name="revulsivo_sexual">
+        <item>96</item>
+        <item>Revulsivo sexual</item>
+        <item>Mejora notablemente la función sexual: en los hombres, aumenta el flujo sanguíneo del pene y la función eréctil; en las mujeres, aumenta el flujo sanguíneo en la zona vaginal y además, ayuda a que las mujeres alcancen el orgasmo más rápidamente (estimula las sensaciones sexuales en los genitales brindando mayor placer a la mujer).</item>
+    </array>
+
+    <array name="antiagregante_plaquetario">
+        <item>97</item>
+        <item>Antiagregante plaquetario</item>
+        <item>Actúa sobre las plaquetas impidiendo que se inicien los procesos que llevan a la formación de un trombo (importantes en el tratamiento de la enfermedad cardiovascular).</item>
+    </array>
+
+    <array name="bioestimulante">
+        <item>98</item>
+        <item>Bioestimulante</item>
+        <item>Mejora la capacidad de resistencia al estrés que recibe el cuerpo por medio de fuentes externas.</item>
+    </array>
+
+    <array name="desinfectante">
+        <item>99</item>
+        <item>Desinfectante</item>
+        <item>Mata o inactiva agentes patógenos tales como bacterias, virus y protozoos.</item>
+    </array>
+</resources>

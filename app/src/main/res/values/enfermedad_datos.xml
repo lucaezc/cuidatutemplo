@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="enfermedades">
+        <item>Somnolencia</item>
+        <item>Pérdida de apetito</item>
+        <item>Ansiedad</item>
+        <item>Estrés</item>
+        <item>Acné</item>
+        <item>Anemia</item>
+        <item>Hipertensión</item>
+        <item>Impotencia sexual</item>
+        <item>Reuma</item>
+        <item>Cálculos biliares</item>
+        <item>Diarrea</item>
+        <item>Acidez</item>
+        <item>Dolor de estómago</item>
+        <item>Arteriosclerosis</item>
+        <item>Tensión alta</item>
+        <item>Menopausia</item>
+        <item>Indigestión</item>
+        <item>Artritis</item>
+        <item>Artrosis</item>
+        <item>Tiroides</item>
+        <item>Dermatitis</item>
+        <item>Cansancio y fatiga</item>
+        <item>Fiebre</item>
+        <item>Enfermedades cardiovasculares</item>
+        <item>Dolores menstruales</item>
+        <item>Afecciones respiratorias</item>
+        <item>Cólicos hepáticos</item>
+        <item>Disentería</item>
+        <item>Flatulencias</item>
+        <item>Estreñimiento</item>
+        <item>Resaca</item>
+        <item>Impurezas de la piel</item>
+        <item>Hemorroides</item>
+        <item>Ictericia</item>
+        <item>Catarros</item>
+        <item>Palpitaciones</item>
+        <item>Cólicos estomacales</item>
+        <item>Taquicardia</item>
+        <item>Trastornos digestivos</item>
+        <item>Bronquitis</item>
+        <item>Insomnio</item>
+        <item>Jaquecas</item>
+        <item>Nervios</item>
+        <item>Enfermedades del tracto respiratorio</item>
+        <item>Dispepsia</item>
+        <item>Alergias</item>
+        <item>Halitosis</item>
+        <item>Vientre hinchado</item>
+        <item>Gastritis</item>
+        <item>Parásitos intestinales</item>
+        <item>Envejecimiento prematuro</item>
+        <item>Inflamaciones</item>
+        <item>Dolores articulares</item>
+        <item>Úlceras estomacales</item>
+        <item>Cistitis</item>
+        <item>Diabetes</item>
+        <item>Cataratas</item>
+        <item>Várices</item>
+        <item>Flebitis</item>
+        <item>Edemas</item>
+        <item>Dolor de garganta</item>
+        <item>Ciática</item>
+        <item>Herpes</item>
+        <item>Resfriado</item>
+        <item>Infecciones urinarias</item>
+        <item>Nefritis</item>
+        <item>Infecciones génitourinarias</item>
+        <item>Úlceras</item>
+        <item>Gota</item>
+        <item>Dolor de oídos</item>
+        <item>Prostatitis</item>
+        <item>Laringitis</item>
+        <item>Anginas</item>
+        <item>Tos</item>
+        <item>Fiebre del heno</item>
+        <item>Cansancio emocional</item>
+        <item>Melancolía</item>
+        <item>Expectoración</item>
+        <item>Insuficiencia crónica venosa</item>
+        <item>Trastornos capilares</item>
+        <item>Celulitis</item>
+        <item>Enfermedades de la piel</item>
+        <item>Quemaduras</item>
+        <item>Dermatitis atópica</item>
+        <item>Dermatitis exfoliativa</item>
+        <item>Psoriasis</item>
+        <item>Cortes</item>
+        <item>Ampollas</item>
+        <item>Labios resecos</item>
+        <item>Glositis</item>
+        <item>Gingivitis</item>
+        <item>Llagas bucales</item>
+        <item>Hongos</item>
+        <item>Verrugas</item>
+        <item>Eczemas</item>
+        <item>Problemas hormonales</item>
+        <item>Espinillas</item>
+        <item>Puntos negros</item>
+        <item>Piojos</item>
+        <item>Alzheimer</item>
+        <item>Parkinson</item>
+        <item>Cáncer</item>
+        <item>Calambres</item>
+        <item>Hematomas</item>
+        <item>Metrorragias</item>
+        <item>Menstruación con sangrado abundante</item>
+        <item>Conjuntivitis</item>
+        <item>Heridas leves</item>
+        <item>Quemaduras leves</item>
+        <item>Dolores reumáticos</item>
+        <item>Adenoma benigno de próstata</item>
+        <item>Malaria</item>
+        <item>Trombosis</item>
+        <item>Mareos</item>
+        <item>Trastornos nerviosos</item>
+        <item>Hinchazón</item>
+        <item>Constipación</item>
+        <item>Ronchas</item>
+        <item>Quemaduras</item>
+        <item>Forúnculos</item>
+        <item>Estrías</item>
+        <item>Eritemas</item>
+        <item>Enrojecimiento de la piel</item>
+        <item>Distrofia vulvovaginal</item>
+        <item>Vulvovaginitis</item>
+        <item>Cervicitis</item>
+        <item>Inflamación ocular</item>
+        <item>Falta de energía</item>
+        <item>Debilidad física</item>
+        <item>Infección gástrica</item>
+        <item>Migrañas</item>
+        <item>Gripe</item>
+        <item>Alergias respiratorias</item>
+        <item>Asma</item>
+        <item>Colesterol alto</item>
+        <item>Trastornos premenstruales</item>
+        <item>Sofocos</item>
+        <item>Depresión</item>
+        <item>Amnesia</item>
+        <item>Uretritis</item>
+        <item>Hemorragias</item>
+        <item>Dismenorreas</item>
+        <item>Fracturas leves</item>
+        <item>Esguinces</item>
+        <item>Torceduras</item>
+        <item>Tendinitis</item>
+        <item>Desgarros</item>
+        <item>Caspa</item>
+        <item>Artritis reumatoide</item>
+        <item>Periodontitis</item>
+        <item>Dolor de encías</item>
+        <item>Menstruación escasa</item>
+        <item>Estitiquez</item>
+        <item>Insuficiencia cardíaca congestiva</item>
+        <item>Arritmia cardíaca</item>
+        <item>Miocarditis</item>
+        <item>Insuficiencia vascular</item>
+        <item>Falta de menstruación</item>
+        <item>Escrofulosis</item>
+        <item>Digestión lenta</item>
+        <item>Anorexia</item>
+        <item>Disfunciones sexuales</item>
+        <item>Inflamaciones urinarias</item>
+        <item>Dolor de cabeza</item>
+        <item>Eyaculación precoz</item>
+        <item>Vaginismo</item>
+        <item>Piedras en los riñones</item>
+        <item>Litiasis renal</item>
+        <item>Problemas renales</item>
+        <item>Ureteritis</item>
+        <item>Oliguria</item>
+        <item>Orzuelos</item>
+        <item>Hiperazotemia</item>
+        <item>Hiperuricemia</item>
+        <item>Cálculos renales</item>
+        <item>Insuficiencias renales</item>
+        <item>Pie de atleta</item>
+        <item>Dolores musculares</item>
+        <item>Sinusitis</item>
+        <item>Faringitis</item>
+        <item>Infecciones vaginales</item>
+        <item>Infecciones genitales</item>
+        <item>Sífilis</item>
+        <item>Inflamación de amigdalas</item>
+        <item>Difteria</item>
+        <item>Septicemia</item>
+        <item>Infecciones de oído</item>
+        <item>Pulmonía</item>
+        <item>Neumonía</item>
+        <item>Astenia</item>
+        <item>Cicatrices</item>
+        <item>Trastorno por déficit de atención con hiperactividad (TDAH)</item>
+        <item>Abscesos</item>
+        <item>Candidiasis</item>
+        <item>Dolores de huesos</item>
+        <item>Traqueítis</item>
+        <item>Afecciones de la vejiga</item>
+        <item>Distensiones musculares</item>
+        <item>Dolor lumbar</item>
+        <item>Estomatitis</item>
+        <item>Hipotiroidismo</item>
+        <item>Obesidad</item>
+        <item>Urticaria</item>
+        <item>Inflamación intestinal</item>
+        <item>Hepatitis</item>
+        <item>Náuseas</item>
+        <item>Infecciones bucofaríngeas</item>
+        <item>Flemas</item>
+        <item>Rinitis crónica</item>
+        <item>Incontinencia urinaria</item>
+        <item>Enuresis infantil</item>
+        <item>Trastornos de circulación</item>
+        <item>Claudicación intermitente</item>
+        <item>Vértigo</item>
+        <item>Tromboembolismo</item>
+        <item>Derrames cerebrales</item>
+        <item>Tinnitus</item>
+        <item>Demencia</item>
+        <item>Vasculopatía periférica</item>
+        <item>Esquizofrenia</item>
+        <item>Discinesia tardía</item>
+        <item>Vitiligo</item>
+
+    </array>
+</resources>

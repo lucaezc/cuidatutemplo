@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="beneficios">
+        <item>Reduce el colesterol</item>
+        <item>Previene problemas digestivos</item>
+        <item>Revitaliza el sistema inmune</item>
+        <item>Reduce la presión sanguínea</item>
+        <item>Mejora salud ósea</item>
+        <item>Mejora el rendimiento atlético</item>
+        <item>Mejora la circulación sanguínea</item>
+        <item>Estimula las defensas</item>
+        <item>Disminuye el riesgo de Alzheimer</item>
+        <item>Disminuye el riesgo de demencia</item>
+        <item>Previene inflamaciones estomacales</item>
+        <item>Regula el estreñimiento</item>
+        <item>Reduce triglicéridos en sangre</item>
+        <item>Ayuda a eliminar los excesos de ácido úrico</item>
+        <item>Regula el apetito</item>
+        <item>Refuerza y potencia el sistema inmunológico</item>
+        <item>Estimula el apetito</item>
+        <item>Aumenta la energía muscular</item>
+        <item>Fortifica el estómago</item>
+        <item>Aumenta la producción de glóbulos rojos</item>
+        <item>Estimula la cicatrización de heridas</item>
+        <item>Estimula la menstruación</item>
+        <item>Previene úlceras cancerosas</item>
+        <item>Fortalece el corazón</item>
+        <item>Mejora el funcionamiento del sistema circulatorio</item>
+        <item>Activa la circulación sanguínea</item>
+        <item>Mejora la digestión</item>
+        <item>Regula el ciclo menstrual</item>
+        <item>Aumenta las defensas</item>
+        <item>Elimina la mucosidad</item>
+        <item>Reduce la tensión arterial</item>
+        <item>Mejora la visión nocturna</item>
+        <item>Fortalace el colágeno</item>
+        <item>Potencia la memoria</item>
+        <item>Mejora el aprendizaje</item>
+        <item>Reduce la hinchazón</item>
+        <item>Evita la formación de cálculos (vesiculares y renales)</item>
+        <item>Propicia la claridad mental</item>
+        <item>Tonifica el hígado</item>
+        <item>Reduce el riesgo de padecer cálculos biliares</item>
+        <item>Descongestión del pecho</item>
+        <item>Depura el hígado y los riñones</item>
+        <item>Acelera la cicatrización de heridas</item>
+        <item>Regula los trastornos nerviosos</item>
+        <item>Mayor sudoración</item>
+        <item>Mejora el funcionamiento de la vesícula biliar</item>
+        <item>Protege el hígado</item>
+        <item>Previene enfermedades en los huesos</item>
+        <item>Aumenta la fertilidad femenina</item>
+        <item>Aumenta la líbido</item>
+        <item>Ayuda a bajar de peso</item>
+        <item>Aumenta la quema de grasas</item>
+        <item>Estimula la circulación periférica</item>
+        <item>Mejora la salud del cuero cabelludo</item>
+        <item>Mejora la permeabilidad capilar</item>
+        <item>Favorece la cicatrización natural</item>
+        <item>Aporta firmeza y elasticidad a la piel</item>
+        <item>Mejora la capacidad de concentración</item>
+        <item>Potencia la capacidad de concentración</item>
+        <item>Mejora la circulación linfática</item>
+        <item>Ayuda a eliminar las toxinas por la orina</item>
+        <item>Previene impurezas en la piel</item>
+        <item>Emoliente de vías aéreas</item>
+        <item>Depura la sangre</item>
+        <item>Aporta sensación de saciedad</item>
+        <item>Aporta hidratación al cuerpo</item>
+        <item>Ayuda a ganar masa muscular</item>
+        <item>Elimina líquidos y toxinas de nuestro cuerpo</item>
+        <item>Ayuda a regular la flora intestinal</item>
+        <item>Previene la oxidación celular</item>
+        <item>Regula la presión arterial</item>
+        <item>Regula el colesterol en sangre</item>
+        <item>Ayuda a regular los niveles de azúcar en sangre</item>
+        <item>Reduce los dolores articulares</item>
+        <item>Crea una capa protectora contra los rayos del Sol</item>
+        <item>Fortalece los pulmones</item>
+        <item>Mejora el estado de ánimo</item>
+        <item>Aumenta la eficacia de los estrógenos producidos por el propio cuerpo</item>
+        <item>Previene la formación de piedras en el riñon</item>
+        <item>Favorece la elasticidad de los tejidos</item>
+        <item>Ayuda a fortalecer el tejido conjuntivo</item>
+        <item>Fortalece los huesos</item>
+        <item>Regenera el cuero cabelludo</item>
+        <item>Previene la caída del cabello</item>
+        <item>Aumenta la producción de orina</item>
+        <item>Elimina las células cancerígenas</item>
+        <item>Disminuye el ácido gástrico</item>
+        <item>Elimina las células leucémicas</item>
+        <item>Mejora el flujo menstrual</item>
+        <item>Limpia el organismo de sustancias tóxicas generadas por el consumo de tabaco y alcohol</item>
+        <item>Fortalece los vasos sanguíneos</item>
+        <item>Restaura la pared muscular del corazón</item>
+        <item>Ayuda a la digestión</item>
+        <item>Reduce las palpitaciones</item>
+        <item>Promueve la función del sistema digestivo</item>
+        <item>Ayuda a drenar las toxinas del cuerpo</item>
+        <item>Mejora la satisfacción sexual</item>
+        <item>Aumenta la frecuencia del orgasmo</item>
+        <item>Reduce la sequedad vaginal</item>
+        <item>Impulsa la resistencia mental y física</item>
+        <item>Aporta energía y vigor al organismo</item>
+        <item>Previene los padecimientos intestinales</item>
+        <item>Previene los padecimientos estomacales</item>
+        <item>Previene los padecimientos biliares</item>
+        <item>Previene el acné</item>
+        <item>Protege y evita infecciones en las heridas que se hayan causado en la piel</item>
+        <item>Evita la fatiga</item>
+        <item>Evita la depresión</item>
+        <item>Evita los mareos</item>
+        <item>Aumenta la capacidad de micción</item>
+        <item>Reduce las posibilidades de hemorragias</item>
+        <item>Disminuye los niveles de glucosa en sangre</item>
+        <item>Permite una mejor eliminación de líquidos</item>
+        <item>Disminuye la presión arterial</item>
+        <item>Induce a la producción de ácidos gástricos</item>
+        <item>Controla el exceso de grasa en el cuero cabelludo</item>
+        <item>Previene la formación de caspa</item>
+        <item>Ayuda a evitar el resfriado común</item>
+        <item>Protege los órganos</item>
+        <item>Purifica y limpia hígado, pulmones y riñones</item>
+        <item>Ayuda a prevenir el cáncer</item>
+        <item>Protege las vias respiratorias afectadas por la contaminación en general</item>
+        <item>Robustece los glóbulos blancos</item>
+        <item>Reduce en un 85% la probabilidad de contraer influenza</item>
+        <item>Ayuda a adaptar el organismo para los cambios de estación</item>
+        <item>Reduce la aparición de arrugas en un 55%</item>
+        <item>Aumenta la saciedad</item>
+        <item>Regula el sistema nervioso</item>
+        <item>Reduce los niveles de azúcar en sangre</item>
+        <item>Regula la hipertensión</item>
+        <item>Favorece la pronta recuperación en casos de tendinitis o esguinces</item>
+        <item>Mejora la salud de las encías y evita su sangrado</item>
+        <item>Cuida el hígado y la vesícula biliar</item>
+        <item>Protege los vasos sanguíneos</item>
+        <item>Evita la retención de líquidos</item>
+        <item>Acelera el metabolismo</item>
+        <item>Estimulante de la glándula tiroides cuando esta funciona a bajo rendimiento</item>
+        <item>Promueve la retención de colágeno</item>
+        <item>Disminuye el grosor de la piel</item>
+        <item>Mejora la elasticidad de la piel</item>
+        <item>Previene el reflujo gástrico sin alterar el pH natural del estómago</item>
+        <item>Reduce el riesgo de cáncer</item>
+        <item>Aumenta los niveles de serotonina en el cerebro</item>
+        <item>Ayuda a disminuir el apetito</item>
+        <item>Desencadena la sensación de plenitud y saciedad</item>
+        <item>Mantiene los niveles de colesterol y triglicéridos controlados</item>
+        <item>Favorece los procesos termogénicos del organismo</item>
+        <item>Elimina la fatiga</item>
+        <item>Aumenta la energía</item>
+        <item>Reduce el stress</item>
+        <item>Mejora la velocidad de pensamiento</item>
+        <item>Limita la lipogénesis</item>
+        <item>Potencia la producción de serotonina, mejorando el estado anímico</item>
+        <item>Mejora la circulación cerebral</item>
+        <item>Aumenta la captación de glucosa y oxigeno cerebral</item>
+        <item>Reduce la viscosidad de la sangre</item>
+        <item>Mejora la velocidad del flujo sanguíneo</item>
+        <item>Incrementa la tolerancia a la hipoxia</item>
+        <item>Aumenta la capacidad de aprendizaje</item>
+        <item>Aumenta el rendimiento psicológico</item>
+        <item>Ayuda a la recuperación en trastornos del equilibrio</item>
+        <item>Desactiva radicales oxigenados</item>
+        <item>Contribuye al metabolismo y/o la función de neurotransmisores</item>
+        <item>Mejora el sistema inmune aumentando los anticuerpos</item>
+    </array>
+</resources>

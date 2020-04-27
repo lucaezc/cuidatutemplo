@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Cuida Tu Templo</string>
+    <string name="menu_propiedades">Propiedades</string>
+    <string name="menu_beneficios">Beneficios</string>
+    <string name="menu_alimentos">Alimentos</string>
+    <string name="menu_enfermedades">Recomendado para</string>
+    <string name="menu_busqueda_avanzada">Búsqueda Avanzada</string>
+    <string name="action_settings">Configuración</string>
+    <string name="navigation_drawer_open">Abrir barra lateral</string>
+    <string name="navigation_drawer_close">Ocultar barra lateral</string>
+    <string name="sin_imagen">Sin imagen disponible</string>
+    <string name="nombre_alimento">Nombre de alimento</string>
+    <string name="tipo_alimento">Tipo de alimento</string>
+    <string name="info_alimento">Información del alimento</string>
+    <string name="info">Información</string>
+    <string name="searchHint">Buscar alimento…</string>
+</resources>
