@@ -58,7 +58,7 @@
         <item>1</item>
         <item>Achicoria</item>
         <item>\u2023Pertenece a la familia de las asteráceas. Tiene un origen africano y asiático, aunque hoy se cultiva en más regiones.
-            \n\u2023Crece principalmente en climas cálidos y la floración tiene lugar en verano.</item>
+            \n\n\u2023Crece principalmente en climas cálidos y la floración tiene lugar en verano.</item>
         <item>@drawable/achicoria</item>
         <item>3</item>
     </array>
@@ -67,9 +67,9 @@
         <item>2</item>
         <item>Ajo</item>
         <item>\u2023El ajo es una planta de la familia de las cebollas, cultivado por sus propiedades culinarias y efectos saludables.
-            \n\u2023Es rico en un compuesto de azufre llamado alicina, del que se cree es el responsable de todos los beneficios que aporta a nuestra salud.
-            \n\u2023El compuesto activo del ajo, la alicina, solo se forma cuando machacamos o partimos ajo crudo.
-            \n\u2023El ajo contiene pocas calorías, pero es muy rico en vitamina C, vitamina B6 y manganeso. Además, también contiene pequeñas cantidades de otros nutrientes.</item>
+            \n\n\u2023Es rico en un compuesto de azufre llamado alicina, del que se cree es el responsable de todos los beneficios que aporta a nuestra salud.
+            \n\n\u2023El compuesto activo del ajo, la alicina, solo se forma cuando machacamos o partimos ajo crudo.
+            \n\n\u2023El ajo contiene pocas calorías, pero es muy rico en vitamina C, vitamina B6 y manganeso. Además, también contiene pequeñas cantidades de otros nutrientes.</item>
         <item>@drawable/ajo</item>
         <item>7</item>
     </array>
@@ -78,7 +78,7 @@
         <item>3</item>
         <item>Alcachofa</item>
         <item>\u2023La alcachofa o alcaucil nos aporta un sinfín de vitaminas y minerales: magnesio, potasio, sodio, hierro, vitamina A, vitaminas B.
-            \n\u2023La alcachofa es una hortaliza tan sabrosa como polivalente. Entre sus hojas se esconde todo un tesoro de vitaminas, minerales y antioxidantes.</item>
+            \n\n\u2023La alcachofa es una hortaliza tan sabrosa como polivalente. Entre sus hojas se esconde todo un tesoro de vitaminas, minerales y antioxidantes.</item>
         <item>@drawable/alcachofa</item>
         <item>3</item>
     </array>
@@ -87,10 +87,10 @@
         <item>4</item>
         <item>Alfalfa</item>
         <item>\u2023La alfalfa pertenece a la familia botánica Fabaceae o leguminosas y por eso no es de extrañar que su valor nutricional sea tan beneficioso para nuestra salud igual que el de el resto de las legumbres.
-            \n\u2023Aunque la alfalfa también se puede consumir como una planta medicinal, es decir, en infusiones.
-            \n\u2023Esta planta es muy nutritiva y su aporte en micronutrientes altamente destacable.
-            \n\u2023Contiene vitaminas del grupo B, A, C y E, y minerales como el calcio, cobre, cromo, hierro, magnesio, selenio y zinc. Además posee gran contenido en proteína vegetal.
-            \n\u2023Además los principios activos de la alfalfa son muy interesantes, ya que nos aporta flavonoides, fitoestrógenos (isoflavonas y lignanos), fitoesteroles, saponinas, tirotropina, cumarinas y enzimas digestivas.</item>
+            \n\n\u2023Aunque la alfalfa también se puede consumir como una planta medicinal, es decir, en infusiones.
+            \n\n\u2023Esta planta es muy nutritiva y su aporte en micronutrientes altamente destacable.
+            \n\n\u2023Contiene vitaminas del grupo B, A, C y E, y minerales como el calcio, cobre, cromo, hierro, magnesio, selenio y zinc. Además posee gran contenido en proteína vegetal.
+            \n\n\u2023Además los principios activos de la alfalfa son muy interesantes, ya que nos aporta flavonoides, fitoestrógenos (isoflavonas y lignanos), fitoesteroles, saponinas, tirotropina, cumarinas y enzimas digestivas.</item>
         <item>@drawable/alfalfa</item>
         <item>3</item>
     </array>
@@ -99,8 +99,8 @@
         <item>5</item>
         <item>Anacahuita</item>
         <item>\u2023Es un árbol originario del sur de Brasil, de Uruguay y de la mesopotamia Argentina.
-            \n\u2023La semilla de la anacahuita es comestibles y sirve para condimentar las comidas.
-            \n\u2023Se la suele llamar falso pimentero, ya que posee un sabor similar aunque mucho más suave que la pimienta.</item>
+            \n\n\u2023La semilla de la anacahuita es comestibles y sirve para condimentar las comidas.
+            \n\n\u2023Se la suele llamar falso pimentero, ya que posee un sabor similar aunque mucho más suave que la pimienta.</item>
         <item>@drawable/anacahuita</item>
         <item>2</item>
     </array>
@@ -109,8 +109,8 @@
         <item>6</item>
         <item>Amargón</item>
         <item>\u2023Tiene un gran contenido en vitaminas y sustancias minerales como: sodio, manganeso, calcio, potasio, silicio y fósforo.
-            \n\u2023Regenera y vivifica la sangre de todo el cuerpo, no sólo curando a los enfermos, sino ayudando a los sanos a conservar su salud.
-            \n\u2023El Amargon tiene específica indicación para las enfermedades de la sangre y del hígado.</item>
+            \n\n\u2023Regenera y vivifica la sangre de todo el cuerpo, no sólo curando a los enfermos, sino ayudando a los sanos a conservar su salud.
+            \n\n\u2023El Amargon tiene específica indicación para las enfermedades de la sangre y del hígado.</item>
         <item>@drawable/amargon</item>
         <item>1</item>
     </array>
@@ -127,9 +127,9 @@
         <item>8</item>
         <item>Angelica</item>
         <item>\u2023Es popularmente conocida como la hierba del Espíritu Santo o el apio silvestre.
-            \n\u2023Una curiosidad sobre la angélica es que dicen que es un regalo del arcángel Gabriel, por sus propiedades medicinales.
-            \n\u2023Para los usos medicinales de la angélica se emplean las raíces secas y molidas.
-            \n\u2023Las propiedades de esta planta están relacionadas con sus componentes, como ser: aceites esenciales ricos en monoterpenos, felandrenos, bisabolol, cariofileno, lactonas, cumarinas, furanocumairinas, tanino, sacarosa.</item>
+            \n\n\u2023Una curiosidad sobre la angélica es que dicen que es un regalo del arcángel Gabriel, por sus propiedades medicinales.
+            \n\n\u2023Para los usos medicinales de la angélica se emplean las raíces secas y molidas.
+            \n\n\u2023Las propiedades de esta planta están relacionadas con sus componentes, como ser: aceites esenciales ricos en monoterpenos, felandrenos, bisabolol, cariofileno, lactonas, cumarinas, furanocumairinas, tanino, sacarosa.</item>
         <item>@drawable/angelica</item>
         <item>2</item>
     </array>
@@ -138,10 +138,10 @@
         <item>9</item>
         <item>Anís verde</item>
         <item>\u2023Las semillas presentan un aroma delicadamente dulce y arómatico con un sabor distintivo de regaliz.
-            \n\u2023Están compuestas de proteínas, aceitos grasos, aceites esenciales, fibra y almidón.
-            \n\u2023Contienen acetofenona, p-anisaldehído, estragol, limoneno y pineno.
-            \n\u2023Son una excelente fuente de minerales como hierro, magnesio, calcio, manganeso, zinc, potasio y cobre.
-            \n\u2023También tienen una alta concentración de vitaminas del grupo B.</item>
+            \n\n\u2023Están compuestas de proteínas, aceitos grasos, aceites esenciales, fibra y almidón.
+            \n\n\u2023Contienen acetofenona, p-anisaldehído, estragol, limoneno y pineno.
+            \n\n\u2023Son una excelente fuente de minerales como hierro, magnesio, calcio, manganeso, zinc, potasio y cobre.
+            \n\n\u2023También tienen una alta concentración de vitaminas del grupo B.</item>
         <item>@drawable/anis_verde</item>
         <item>2</item>
     </array>
@@ -157,8 +157,9 @@
     <array name="arandano">
         <item>11</item>
         <item>Arándano</item>
-        <item>\u2023El valor nutricional del arándano es entre  bajo  y  libre  de  grasas  y  sodio,  libre  de  colesterol  y  rico  en  fibras,  refrescante,  tónico,  astringente,  diurético  y  poseedor de  vitamina  C y vitamina K.
-            \n\u2023El color de los arándanos es causado por un grupo de flavonoides llamados antocianina, que tienen un poderoso poder antioxidante.</item>
+        <item>\u2023El arándano es prácticamente libre de grasas y sodio. Es libre de colesterol y rico en fibras.
+            \n\n\u2023Es refrescante, tónico, astringente, diurético y poseedor de vitaminas C y K.
+            \n\n\u2023El color de los arándanos es causado por un grupo de flavonoides llamados antocianina, que tienen un poderoso poder antioxidante.</item>
         <item>@drawable/arandano</item>
         <item>4</item>
     </array>
@@ -167,8 +168,8 @@
         <item>12</item>
         <item>Bardana</item>
         <item>\u2023Es una planta herbácea bianual de la familia de las Compuestas.
-            \n\u2023Es originaria de Europa y puede llegar a medir los dos metros de altura, con grandes hojas alargadas y unas flores violáceas muy características e identificables.
-            \n\u2023Por sus propiedades medicinales para los remedios caseros se utilizan principalmente las raíces (por ser más ricas en principios activos), y en ocasiones las hojas y las semillas.</item>
+            \n\n\u2023Es originaria de Europa y puede llegar a medir los dos metros de altura, con grandes hojas alargadas y unas flores violáceas muy características e identificables.
+            \n\n\u2023Por sus propiedades medicinales para los remedios caseros se utilizan principalmente las raíces (por ser más ricas en principios activos), y en ocasiones las hojas y las semillas.</item>
         <item>@drawable/bardana</item>
         <item>2</item>
     </array>
@@ -177,8 +178,8 @@
         <item>13</item>
         <item>Boldo</item>
         <item>\u2023El fruto del boldo es comestible, y se ha sido consumido crudo y cocido desde la época precolombina.
-            \n\u2023La corteza, rica en taninos, se emplea también en la curtiembre.
-            \n\u2023Sin embargo, el más apreciado de sus productos son las hojas, utilizadas para la preparación de infusiones digestivas, para el tratamiento de la vesícula biliar y de las afecciones hepáticas.</item>
+            \n\n\u2023La corteza, rica en taninos, se emplea también en la curtiembre.
+            \n\n\u2023Sin embargo, el más apreciado de sus productos son las hojas, utilizadas para la preparación de infusiones digestivas, para el tratamiento de la vesícula biliar y de las afecciones hepáticas.</item>
         <item>@drawable/boldo</item>
         <item>1</item>
     </array>
@@ -187,9 +188,9 @@
         <item>14</item>
         <item>Borraja</item>
         <item>\u2023La borraja es una hortaliza con un valor energético muy bajo, que supone aproximadamente 21 kcal/100g.
-            \n\u2023Tiene unas características nutritivas muy importantes, ya que, aunque su contenido en lípidos, proteínas e hidratos de carbono no sea muy elevado, sí lo es el de minerales y vitaminas.
-            \n\u2023Su contenido en agua ronda el 91% del peso total.
-            \n\u2023La grasa supone un 0,7% y los hidratos de carbono apenas llegan al 2%, lo mismo que las proteínas.</item>
+            \n\n\u2023Tiene unas características nutritivas muy importantes, ya que, aunque su contenido en lípidos, proteínas e hidratos de carbono no sea muy elevado, sí lo es el de minerales y vitaminas.
+            \n\n\u2023Su contenido en agua ronda el 91% del peso total.
+            \n\n\u2023La grasa supone un 0,7% y los hidratos de carbono apenas llegan al 2%, lo mismo que las proteínas.</item>
         <item>@drawable/borraja</item>
         <item>2</item>
     </array>
@@ -198,10 +199,10 @@
         <item>15</item>
         <item>Rusco</item>
         <item>\u2023El rusco es una planta herbácea perenne que se conserva verde prácticamente todo el año.
-            \n\u2023Tiene una cepa rastrera y subterránea y los vástagos erguidos, lampiños y ramosos en lo alto, con una altura no superior al metro y medio.
-            \n\u2023Las hojas son tan pequeñas que apenas se aprecian.
-            \n\u2023El fruto es una baya globulosa, parecida a una pequeña cereza roja, con una o dos semillas en su interior.
-            \n\u2023Contiene gran cantidad de taninos, los glucósidos, la resina, el calcio y el potasio.</item>
+            \n\n\u2023Tiene una cepa rastrera y subterránea y los vástagos erguidos, lampiños y ramosos en lo alto, con una altura no superior al metro y medio.
+            \n\n\u2023Las hojas son tan pequeñas que apenas se aprecian.
+            \n\n\u2023El fruto es una baya globulosa, parecida a una pequeña cereza roja, con una o dos semillas en su interior.
+            \n\n\u2023Contiene gran cantidad de taninos, los glucósidos, la resina, el calcio y el potasio.</item>
         <item>@drawable/rusco</item>
         <item>2</item>
     </array>
@@ -210,7 +211,7 @@
         <item>16</item>
         <item>Cabotoril</item>
         <item>\u2023Planta ornamental y medicinal de pequeño tamaño, con flores anaranjadas y curiosas hojas en forma de "platos", donde se deposita el agua de lluvia o rocío.
-            \n\u2023Es una hierba perenne.</item>
+            \n\n\u2023Es una hierba perenne.</item>
         <item>@drawable/cabotoril</item>
         <item>2</item>
     </array>
@@ -219,8 +220,8 @@
         <item>17</item>
         <item>Caléndula</item>
         <item>\u2023La caléndula es una mata anual, erecta y aromática que se extiende de 50 a 70 cm.
-            \n\u2023El nombre genérico caléndula deriva del latín calendulae que significa "a lo largo de los meses", con lo que se quiso subrayar el largo período de floración que tiene la planta, y el nombre específico officinalis, expresa su carácter medicinal.
-            \n\u2023Es una de las plantas más indicadas para aliviar afecciones dermatológicas.</item>
+            \n\n\u2023El nombre genérico caléndula deriva del latín calendulae que significa "a lo largo de los meses", con lo que se quiso subrayar el largo período de floración que tiene la planta, y el nombre específico officinalis, expresa su carácter medicinal.
+            \n\n\u2023Es una de las plantas más indicadas para aliviar afecciones dermatológicas.</item>
         <item>@drawable/calendula</item>
         <item>2</item>
     </array>
@@ -229,7 +230,7 @@
         <item>18</item>
         <item>Canchalagua</item>
         <item>\u2023La Canchalagua es una hierba herbácea anual cuyo nombre científico es Schkuhria pinnata y que pertenece a la familia de las asteráceas.
-            \n\u2023Si bien esta planta es originaria de Perú, hoy en día se puede encontrar en varios países europeos.</item>
+            \n\n\u2023Si bien esta planta es originaria de Perú, hoy en día se puede encontrar en varios países europeos.</item>
         <item>@drawable/canchalagua</item>
         <item>2</item>
     </array>
@@ -238,8 +239,8 @@
         <item>19</item>
         <item>Cardo mariano</item>
         <item>\u2023El cardo mariano es una especie nativa de los países ribereños del Mediterráneo y Asia hasta India y Siberia.
-            \n\u2023Naturalizada en el resto del mundo y también cultivada, a veces intensamente, en países de Europa central donde fue introducido: Austria, Rusia, Polonia, Crimea, Ucrania, Hungría, etc... ​y en Argentina, Venezuela, Ecuador y China para la extracción de las sustancias de uso medicinal que contiene.
-            \n\u2023Los ingredientes activos en el cardo mariano son un grupo de compuestos vegetales conocidos colectivamente como silimarina.</item>
+            \n\n\u2023Naturalizada en el resto del mundo y también cultivada, a veces intensamente, en países de Europa central donde fue introducido: Austria, Rusia, Polonia, Crimea, Ucrania, Hungría, etc... ​y en Argentina, Venezuela, Ecuador y China para la extracción de las sustancias de uso medicinal que contiene.
+            \n\n\u2023Los ingredientes activos en el cardo mariano son un grupo de compuestos vegetales conocidos colectivamente como silimarina.</item>
         <item>@drawable/cardo_mariano</item>
         <item>2</item>
     </array>
@@ -248,7 +249,7 @@
         <item>20</item>
         <item>Carqueja</item>
         <item>\u2023La carqueja es una especie de planta, ideal para canteros de jardines, pues crece formando matas espesas.
-            \n\u2023Por su gusto amargo, se la recomienda para combatir problemas digestivos y hepáticos.</item>
+            \n\n\u2023Por su gusto amargo, se la recomienda para combatir problemas digestivos y hepáticos.</item>
         <item>@drawable/carqueja</item>
         <item>2</item>
     </array>
@@ -281,8 +282,8 @@
         <item>24</item>
         <item>Centella Asiática</item>
         <item>\u2023La centella asiática es una planta medicinal con diversos beneficios para la salud, entre ellos, principalmente, contribuye a potenciar la producción de colágeno, la proteína que interviene en la piel, en las articulaciones, los huesos y los músculos.
-            \n\u2023Aporta dureza y firmeza a estos tejidos y detiene la flaccidez.
-            \n\u2023El asiaticósido estimula la activación fibroblástica y el colágeno in vitro, lo que le confiere una clara acción reepitelizante, muy útil para reparar la piel dañada.</item>
+            \n\n\u2023Aporta dureza y firmeza a estos tejidos y detiene la flaccidez.
+            \n\n\u2023El asiaticósido estimula la activación fibroblástica y el colágeno in vitro, lo que le confiere una clara acción reepitelizante, muy útil para reparar la piel dañada.</item>
         <item>@drawable/centella_asiatica</item>
         <item>2</item>
     </array>
@@ -291,7 +292,7 @@
         <item>25</item>
         <item>Chañar</item>
         <item>\u2023El chañar es un árbol de la familia de las fabáceas (o leguminosas) de corteza verde amarillenta y fruto dulce y comestible.
-            \n\u2023Su madera medianamente pesada es apta para carpintería, y como carbón y leña.</item>
+            \n\n\u2023Su madera medianamente pesada es apta para carpintería, y como carbón y leña.</item>
         <item>@drawable/chanar</item>
         <item>2</item>
     </array>
@@ -300,8 +301,8 @@
         <item>26</item>
         <item>Chia</item>
         <item>\u2023La Chía (Salvia Hispanica) es una planta proveniente de América Central, sus semillas son ricas en carbohidratos, fibra, vitaminas y minerales, y aunque ya eran usadas por los Mayas y los Aztecas, cayeron en el olvido luego de la colonización europea.
-            \n\u2023Chía es una palabra de origen Maya que significa "Fuerza", y es que esta antigua civilización ya sabía de las grandes propiedades de estas semillas.
-            \n\u2023Cada semilla de chía contienen cinco veces el calcio de la leche, una gran cantidad de ácidos grasos omega 3, dos veces la proteína de cualquier otra semilla, 3 veces más antioxidantes que los arándanos, y el doble de fibra que tiene la avena.</item>
+            \n\n\u2023Chía es una palabra de origen Maya que significa "Fuerza", y es que esta antigua civilización ya sabía de las grandes propiedades de estas semillas.
+            \n\n\u2023Cada semilla de chía contienen cinco veces el calcio de la leche, una gran cantidad de ácidos grasos omega 3, dos veces la proteína de cualquier otra semilla, 3 veces más antioxidantes que los arándanos, y el doble de fibra que tiene la avena.</item>
         <item>@drawable/chia</item>
         <item>6</item>
     </array>
@@ -318,7 +319,7 @@
         <item>28</item>
         <item>Cola de Caballo</item>
         <item>\u2023De la composición de la cola de caballo se destacan los diferentes fitonutrientes como taninos, flavonoides.
-            \n\u2023También minerales como el potasio, lo que la hace una planta muy diurética, el sílice y la vitamina C.</item>
+            \n\n\u2023También minerales como el potasio, lo que la hace una planta muy diurética, el sílice y la vitamina C.</item>
         <item>@drawable/cola_de_caballo</item>
         <item>2</item>
     </array>
@@ -327,7 +328,7 @@
         <item>29</item>
         <item>Congorosa</item>
         <item>\u2023Es una planta que proviene de países como Uruguay, Paraguay, Argentina y Brasil.
-            \n\u2023La parte de la planta utilizada a nivel medicinal son las hojas, que son ricas en fitoesteroles, taninos, triterpenos y polifenoles, además, posee sales minerales como sodio, hierro y calcio.</item>
+            \n\n\u2023La parte de la planta utilizada a nivel medicinal son las hojas, que son ricas en fitoesteroles, taninos, triterpenos y polifenoles, además, posee sales minerales como sodio, hierro y calcio.</item>
         <item>@drawable/congorosa</item>
         <item>2</item>
     </array>
@@ -344,10 +345,10 @@
         <item>31</item>
         <item>Crataegus</item>
         <item>\u2023El espino contiene compuestos activos con propiedades antioxidantes.
-            \n\u2023Los antioxidantes son sustancias que eliminan los radicales libres; compuestos perjudiciales en el cuerpo que alteran las membranas celulares, alteren ADN, e incluso causar la muerte celular.
-            \n\u2023Los radicales libres se producen naturalmente en el cuerpo, pero las toxinas del medio ambiente (incluida la luz ultravioleta, la radiación, el tabaquismo y la contaminación del aire) también pueden aumentar su número.
-            \n\u2023Los radicales libres se cree que contribuyen al proceso de envejecimiento, así como el desarrollo de un número de problemas de salud, incluyendo enfermedades del corazón.
-            \n\u2023Los antioxidantes que se encuentran en el espino pueden neutralizar los radicales libres y pueden reducir o incluso ayudar a prevenir algunos de los daños que causan.</item>
+            \n\n\u2023Los antioxidantes son sustancias que eliminan los radicales libres; compuestos perjudiciales en el cuerpo que alteran las membranas celulares, alteren ADN, e incluso causar la muerte celular.
+            \n\n\u2023Los radicales libres se producen naturalmente en el cuerpo, pero las toxinas del medio ambiente (incluida la luz ultravioleta, la radiación, el tabaquismo y la contaminación del aire) también pueden aumentar su número.
+            \n\n\u2023Los radicales libres se cree que contribuyen al proceso de envejecimiento, así como el desarrollo de un número de problemas de salud, incluyendo enfermedades del corazón.
+            \n\n\u2023Los antioxidantes que se encuentran en el espino pueden neutralizar los radicales libres y pueden reducir o incluso ayudar a prevenir algunos de los daños que causan.</item>
         <item>@drawable/crataegus</item>
         <item>2</item>
     </array>
@@ -356,7 +357,7 @@
         <item>32</item>
         <item>Cuasia</item>
         <item>\u2023Conocido comúnmente como palo de cuasia, creceto, amargo o guavito, el árbol de cuasia es originario de las regionas tropicales de Centro América, creciendo espontáneamente en las Guyanas, Surinam y las Antillas.
-            \n\u2023El nombre cuasia proviene de un esclavo nativo de la Guyana, el cual reveló el secreto de su pueblo para curar la fiebre a un oficial holandés en 1756.</item>
+            \n\n\u2023El nombre cuasia proviene de un esclavo nativo de la Guyana, el cual reveló el secreto de su pueblo para curar la fiebre a un oficial holandés en 1756.</item>
         <item>@drawable/cuasia</item>
         <item>2</item>
     </array>
@@ -365,10 +366,10 @@
         <item>33</item>
         <item>Damiana</item>
         <item>\u2023La damiana, también llamada Turnera diffusa o hierba de la pastora, es una hierba procedente de Centro y Sudamérica.
-            \n\u2023Las hojas de damiana son consideradas como la parte más importante de la planta debido a sus diversos usos.
-            \n\u2023Según los estudios, las hojas de damiana contienen varios flavonoides, taninos y otros compuestos; eso explica cómo es que puede impactar al cuerpo humano de forma positiva.
-            \n\u2023La damiana ha existido desde hace mucho tiempo y fue utilizada por los aztecas y malayos como un poderoso afrodisíaco.
-            \n\u2023Damiana es un ingrediente en un tradicional licor mexicano, que se utiliza a veces en lugar de triple sec en margaritas. El folklore mexicano afirma que se utilizó en la margarita "original". La margarita damiana es popular en el Los Cabos región de México.</item>
+            \n\n\u2023Las hojas de damiana son consideradas como la parte más importante de la planta debido a sus diversos usos.
+            \n\n\u2023Según los estudios, las hojas de damiana contienen varios flavonoides, taninos y otros compuestos; eso explica cómo es que puede impactar al cuerpo humano de forma positiva.
+            \n\n\u2023La damiana ha existido desde hace mucho tiempo y fue utilizada por los aztecas y malayos como un poderoso afrodisíaco.
+            \n\n\u2023Damiana es un ingrediente en un tradicional licor mexicano, que se utiliza a veces en lugar de triple sec en margaritas. El folklore mexicano afirma que se utilizó en la margarita "original". La margarita damiana es popular en el Los Cabos región de México.</item>
         <item>@drawable/damiana</item>
         <item>2</item>
     </array>
@@ -377,8 +378,8 @@
         <item>34</item>
         <item>Doradilla</item>
         <item>\u2023La doradilla (Ceterach officinarum) es un helecho de la familia Polidiacea.
-            \n\u2023También es conocida por los nombres de hierba de la tos, hierba plateada, o pulmonaria dorada, entre otros nombres que hacen referencia a sus propiedades o al color dorado.
-            \n\u2023Durante el siglo XVII las mujeres de Génova (Italia) usaban extractos de este helecho para teñirse el pelo de color rubio. Se preparaba una lejía a base de las cenizas de la doradilla y se lavaban el pelo con ella. De aquí podría venir el nombre común de doradilla. Sin embargo, esta preparación suele dañar mucho el pelo y hoy en día existen mejores opciones.</item>
+            \n\n\u2023También es conocida por los nombres de hierba de la tos, hierba plateada, o pulmonaria dorada, entre otros nombres que hacen referencia a sus propiedades o al color dorado.
+            \n\n\u2023Durante el siglo XVII las mujeres de Génova (Italia) usaban extractos de este helecho para teñirse el pelo de color rubio. Se preparaba una lejía a base de las cenizas de la doradilla y se lavaban el pelo con ella. De aquí podría venir el nombre común de doradilla. Sin embargo, esta preparación suele dañar mucho el pelo y hoy en día existen mejores opciones.</item>
         <item>@drawable/doradilla</item>
         <item>2</item>
     </array>
@@ -387,11 +388,11 @@
         <item>35</item>
         <item>Enebro</item>
         <item>\u2023El enebro es contentivo de carbohidratos como la fructosa y la glucosa, así como de distintos flavonoides y fibra, como la pectina.
-            \n\u2023Sus frutos o bayas, son ricos en mentol y alcanfor, al igual que en taninos, aportándonos al consumirlos, minerales como el hierro, magnesio, manganeso, cobalto, cromo, zinc, selenio, fósforo, sodio, calcio y potasio.
-            \n\u2023Al mismo tiempo podemos obtener de él vitaminas como B1, B3 y C, alcanzando así el fortalecimiento de nuestro organismo.
-            \n\u2023A lo largo de los años, el enebro ha sido empleado como una planta protectora y muy beneficiosa. En tiempos antiguos, las raíces frescas se quemaban y se decía mantenía a las divinidades del infierno lejos.
-            \n\u2023Cuando alguien fallecía, los frutos o bayas se quemaban para alejar los espíritus malos; las amas de casa, igualmente acostumbraban quemarlo para mantener sus casas limpias de espíritus indeseables. Creencia que se mantuvo vigente por muchos siglos durante la cultura popular.
-            \n\u2023Cuenta la leyenda cristiana, que cuando María, y Jesús (niño) huían de Egipto los guardias de Herodes, estuvieron a punto de capturarlos, quiso ocultarse entre los árboles, pero un arbusto de enebro extendió sus ramas permitiendo que ocultará a Jesús, desviando la atención de los guardias. Por eso se dice que en época de navidad se cuelgan ramas de enebro en los establos.</item>
+            \n\n\u2023Sus frutos o bayas, son ricos en mentol y alcanfor, al igual que en taninos, aportándonos al consumirlos, minerales como el hierro, magnesio, manganeso, cobalto, cromo, zinc, selenio, fósforo, sodio, calcio y potasio.
+            \n\n\u2023Al mismo tiempo podemos obtener de él vitaminas como B1, B3 y C, alcanzando así el fortalecimiento de nuestro organismo.
+            \n\n\u2023A lo largo de los años, el enebro ha sido empleado como una planta protectora y muy beneficiosa. En tiempos antiguos, las raíces frescas se quemaban y se decía mantenía a las divinidades del infierno lejos.
+            \n\n\u2023Cuando alguien fallecía, los frutos o bayas se quemaban para alejar los espíritus malos; las amas de casa, igualmente acostumbraban quemarlo para mantener sus casas limpias de espíritus indeseables. Creencia que se mantuvo vigente por muchos siglos durante la cultura popular.
+            \n\n\u2023Cuenta la leyenda cristiana, que cuando María, y Jesús (niño) huían de Egipto los guardias de Herodes, estuvieron a punto de capturarlos, quiso ocultarse entre los árboles, pero un arbusto de enebro extendió sus ramas permitiendo que ocultará a Jesús, desviando la atención de los guardias. Por eso se dice que en época de navidad se cuelgan ramas de enebro en los establos.</item>
         <item>@drawable/enebro</item>
         <item>2</item>
     </array>
@@ -400,8 +401,8 @@
         <item>36</item>
         <item>Equinacea</item>
         <item>\u2023Es una planta herbácea con raíz negra y picante. Alcanza el metro de altura y sus hojas son enteras y lanceoladas con tres nervaciones.
-            \n\u2023Las flores periféricas tienen las lígulas estrechas y de color rosa o púrpura. Las flores internas son tubulares y de color amarillo pálido.
-            \n\u2023El receptáculo es espinoso, de allí el nombre genérico de la planta (Echinacea, del griego "echino", espinoso).</item>
+            \n\n\u2023Las flores periféricas tienen las lígulas estrechas y de color rosa o púrpura. Las flores internas son tubulares y de color amarillo pálido.
+            \n\n\u2023El receptáculo es espinoso, de allí el nombre genérico de la planta (Echinacea, del griego "echino", espinoso).</item>
         <item>@drawable/equinacea</item>
         <item>2</item>
     </array>
@@ -410,7 +411,7 @@
         <item>37</item>
         <item>Estigma de maíz</item>
         <item>\u2023El principio activo de esta planta es el ácido salicílico, un calmante natural importante de dolores.
-            \n\u2023Gracias a su contenido en flavonoides y potasio y a un alto contenido de Yodo, ayudan a eliminar el exceso de líquidos.</item>
+            \n\n\u2023Gracias a su contenido en flavonoides y potasio y a un alto contenido de Yodo, ayudan a eliminar el exceso de líquidos.</item>
         <item>@drawable/estigma_de_maiz</item>
         <item>1</item>
     </array>
@@ -419,8 +420,8 @@
         <item>38</item>
         <item>Eucalipto</item>
         <item>\u2023Originario de Australia, este árbol de grandes dimensiones, crece rápidamente en todas las regiones templadas del planeta. Precisamente por esto, se introdujo en España con el fin de desecar zonas pantanosas, ya que sus raíces absorben mucha agua del terreno.
-            \n\u2023Para las aplicaciones medicinales que posee este árbol, se utilizan, sobre todo, las hojas de la especie globulus.
-            \n\u2023Las hojas del eucalipto contienen aceite esencial (principalmente cineol), fravonoides, taninos y ácidos.</item>
+            \n\n\u2023Para las aplicaciones medicinales que posee este árbol, se utilizan, sobre todo, las hojas de la especie globulus.
+            \n\n\u2023Las hojas del eucalipto contienen aceite esencial (principalmente cineol), fravonoides, taninos y ácidos.</item>
         <item>@drawable/eucalipto</item>
         <item>2</item>
     </array>
@@ -429,9 +430,9 @@
         <item>39</item>
         <item>Fresno</item>
         <item>\u2023El fresno es considerado por muchos como el “árbol de la buena suerte”, un apelativo que le fue otorgado por creencias antiguas, basadas en que atraía la fortuna y alejaba las desgracias.
-            \n\u2023Su tamaño relativamente grande y su amplio follaje, lo convierten en una de las plantas más bondadosas en cuanto a sombra se refiere.
-            \n\u2023La corteza y las hojas del fresno contienen manitol, un compuesto al que se le atribuye la acción diurética de la planta.
-            \n\u2023También posee otras sustancias vegetales beneficiosas para el cuerpo como mucílagos, flavonoides, cumarinas, triterpenos, monoterpenos iridoides y glucósidos iridoides.</item>
+            \n\n\u2023Su tamaño relativamente grande y su amplio follaje, lo convierten en una de las plantas más bondadosas en cuanto a sombra se refiere.
+            \n\n\u2023La corteza y las hojas del fresno contienen manitol, un compuesto al que se le atribuye la acción diurética de la planta.
+            \n\n\u2023También posee otras sustancias vegetales beneficiosas para el cuerpo como mucílagos, flavonoides, cumarinas, triterpenos, monoterpenos iridoides y glucósidos iridoides.</item>
         <item>@drawable/fresno</item>
         <item>2</item>
     </array>
@@ -440,8 +441,8 @@
         <item>40</item>
         <item>Fucus</item>
         <item>\u2023Debido a su gran cantidad de vitaminas, minerales y proteínas, el fucus es capaz de aliviar multitud de trastornos de manera natural y efectiva.
-            \n\u2023Por ejemplo, entre sus componentes destacan la fibra, la vitamina C, los polifenoles y otros fitoquímicos como la clorofila, los carotenoides y la luteína, los mucílagos -un tipo de fibra soluble de naturaleza viscosa- y minerales como el yodo, el sodio, el calcio, el fósforo, el hierro y el magnesio.
-            \n\u2023Esta increíble combinación de nutrientes influye de manera positiva en un sinfín de dolencias que afectan a la salud del organismo.</item>
+            \n\n\u2023Por ejemplo, entre sus componentes destacan la fibra, la vitamina C, los polifenoles y otros fitoquímicos como la clorofila, los carotenoides y la luteína, los mucílagos -un tipo de fibra soluble de naturaleza viscosa- y minerales como el yodo, el sodio, el calcio, el fósforo, el hierro y el magnesio.
+            \n\n\u2023Esta increíble combinación de nutrientes influye de manera positiva en un sinfín de dolencias que afectan a la salud del organismo.</item>
         <item>@drawable/fucus</item>
         <item>1</item>
     </array>
@@ -450,8 +451,8 @@
         <item>41</item>
         <item>Fumaria</item>
         <item>\u2023Originalmente se llama Fumaria officinalis y entre los entre los aficionados se le llama fumaria, palomilla o sangre de Cristo.
-            \n\u2023La relación… no se ha descubierto, pero para el término “fumaria” se deriva del latín fumus que significa humo.
-            \n\u2023Se le pone este nombre porque cuando se machaca, se le extrae un jugo que provoca un intenso lagrimeo, como cuando estamos en medio del humo. Es mucho más intenso que si cortamos una cebolla.</item>
+            \n\n\u2023La relación… no se ha descubierto, pero para el término “fumaria” se deriva del latín fumus que significa humo.
+            \n\n\u2023Se le pone este nombre porque cuando se machaca, se le extrae un jugo que provoca un intenso lagrimeo, como cuando estamos en medio del humo. Es mucho más intenso que si cortamos una cebolla.</item>
         <item>@drawable/fumaria</item>
         <item>2</item>
     </array>
@@ -460,8 +461,8 @@
         <item>42</item>
         <item>Garcinia</item>
         <item>\u2023La garcinia cambogia es una fruta de tamaño pequeño que parece una mini calabaza.
-            \n\u2023Es originaria del sudeste de Asia y la India dónde se lleva consumiendo siglos.
-            \n\u2023La cáscara de esta fruta es la que tienen grandes cantidades de ácido hidroxicítrico, una sustancia que ha demostrado tener propiedades para la pérdida de peso.</item>
+            \n\n\u2023Es originaria del sudeste de Asia y la India dónde se lleva consumiendo siglos.
+            \n\n\u2023La cáscara de esta fruta es la que tienen grandes cantidades de ácido hidroxicítrico, una sustancia que ha demostrado tener propiedades para la pérdida de peso.</item>
         <item>@drawable/garcinia</item>
         <item>4</item>
     </array>
@@ -470,7 +471,7 @@
         <item>43</item>
         <item>Ginkgo Biloba</item>
         <item>\u2023Es una planta medicinal procedente de China cuyas hojas se utilizan principalmente en distintos tratamientos para trastornos del cerebro o de bajo flujo sanguíneo.
-            \n\u2023El ginkgo biloba es uno de los árboles más antiguos que existen, y su uso en medicina data desde hace más de 2.000 años.</item>
+            \n\n\u2023El ginkgo biloba es uno de los árboles más antiguos que existen, y su uso en medicina data desde hace más de 2.000 años.</item>
         <item>@drawable/ginkgo_biloba</item>
         <item>2</item>
     </array>
@@ -479,8 +480,8 @@
         <item>44</item>
         <item>Ginseng</item>
         <item>\u2023El ginseng se extrae de una raíz originaria de China, más concretamente de un tipo de planta del género Panax con un alto contenido en ginsenósidos.
-            \n\u2023Para que el ginseng sea lo más efectivo posible, necesita tener 6 años de maduración en el suelo y al menos 10 años en barbecho.
-            \n\u2023Las principales variedades del Ginseng son: Ginseng Coreano, Ginseng Americano y Ginseng Siberiano. Sólo difieren en algunas propiedades muy pequeñas, son muy parecidas entre sí.</item>
+            \n\n\u2023Para que el ginseng sea lo más efectivo posible, necesita tener 6 años de maduración en el suelo y al menos 10 años en barbecho.
+            \n\n\u2023Las principales variedades del Ginseng son: Ginseng Coreano, Ginseng Americano y Ginseng Siberiano. Sólo difieren en algunas propiedades muy pequeñas, son muy parecidas entre sí.</item>
         <item>@drawable/ginseng</item>
         <item>2</item>
     </array>

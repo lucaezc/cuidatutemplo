@@ -35,7 +35,6 @@ public class DetalleAlimentoActivity extends AppCompatActivity implements Naviga
         tvNombreAlimento.setText(nombreAlimento);
 
         TabLayout tbAlimento = findViewById(R.id.tbAlimento);
-        tbAlimento.setTabMode(TabLayout.MODE_FIXED);
 
         // TAB POR DEFAULT
         Fragment fragment = null;
