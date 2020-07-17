@@ -103,9 +103,22 @@ public class DbHelper extends SQLiteOpenHelper {
                                 " EA JOIN " + DataSource.ENFERMEDAD_TABLE_NAME + " E ON EA." + DataSource.EnfermedadAlimento_Campos.ENFERMEDAD_ID + " = E." + DataSource.Enfermedad_Campos.ENFERMEDAD_ID + " WHERE EA." + DataSource.EnfermedadAlimento_Campos.ALIMENTO_ID + " = " + alimentoId.toString(), null);
     }
 
-    public Cursor queryListAlimentosFiltro(String searchString) {
+    public Cursor BusquedaAlimentos(String searchString) {
         SQLiteDatabase bd = this.getReadableDatabase();
         return bd.rawQuery("SELECT " + DataSource.Alimento_Campos.ALIMENTO_ID + ", " + DataSource.Alimento_Campos.ALIMENTO_NOMBRE + ", " + DataSource.Alimento_Campos.ALIMENTO_INFO + ", " +
                                 DataSource.Alimento_Campos.ALIMENTO_IMAGEN + ", " + DataSource.Alimento_Campos.ALIMENTO_TIPO + " FROM " + DataSource.ALIMENTO_TABLE_NAME + " WHERE " + DataSource.Alimento_Campos.ALIMENTO_NOMBRE + " LIKE '" + searchString + "%'", null);
     }
+
+    public Cursor BusquedaPropiedades(String searchString) {
+        SQLiteDatabase bd = this.getReadableDatabase();
+        return bd.rawQuery("SELECT " + DataSource.Propiedad_Campos.PROPIEDAD_ID + ", " + DataSource.Propiedad_Campos.PROPIEDAD_NOMBRE + ", " + DataSource.Propiedad_Campos.PROPIEDAD_DESC + ", " +
+                                " FROM " + DataSource.PROPIEDAD_TABLE_NAME + " WHERE " + DataSource.Propiedad_Campos.PROPIEDAD_NOMBRE + " LIKE '" + searchString + "%'", null);
+    }
+
+    public Cursor BusquedaEnfermedades(String searchString) {
+        SQLiteDatabase bd = this.getReadableDatabase();
+        return bd.rawQuery("SELECT " + DataSource.Enfermedad_Campos.ENFERMEDAD_ID + ", " + DataSource.Enfermedad_Campos.ENFERMEDAD_NOMBRE + ", " +
+                                " FROM " + DataSource.ENFERMEDAD_TABLE_NAME + " WHERE " + DataSource.Enfermedad_Campos.ENFERMEDAD_NOMBRE + " LIKE '" + searchString + "%'", null);
+    }
+
 }

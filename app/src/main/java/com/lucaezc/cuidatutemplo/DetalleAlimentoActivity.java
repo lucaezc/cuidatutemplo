@@ -24,7 +24,7 @@ public class DetalleAlimentoActivity extends AppCompatActivity implements Naviga
         Intent intent = getIntent();
         String nombreAlimento = intent.getStringExtra("nombreAlimento");
         final int idAlimento = intent.getIntExtra("idAlimento", 0);
-        String tipoAlimento = intent.getStringExtra("tipoAlimento");
+        //String tipoAlimento = intent.getStringExtra("tipoAlimento");
         final String infoAlimento = intent.getStringExtra("infoAlimento");
 
         int imagenResourceId = intent.getIntExtra("imagenAlimento",0);
@@ -131,7 +131,7 @@ public class DetalleAlimentoActivity extends AppCompatActivity implements Naviga
                 fragment = new AlimentosFragment();
                 break;
             case R.id.busqueda_avanzada:
-
+                fragment = new BusquedaFragment();
                 break;
             default:
                 break;

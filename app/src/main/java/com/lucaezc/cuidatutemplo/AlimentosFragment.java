@@ -68,7 +68,7 @@ public class AlimentosFragment extends Fragment {
 
             @Override
             public boolean onQueryTextChange(String s) {
-                cursorSearch = db.queryListAlimentosFiltro(s);
+                cursorSearch = db.BusquedaAlimentos(s);
                 alimentosAdapter.changeCursor(cursorSearch);
                 return false;
             }

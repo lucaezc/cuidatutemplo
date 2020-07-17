@@ -29,7 +29,7 @@ public class Splash extends Activity {
 
         barra = (ProgressBar) findViewById(R.id.barraProgreso);
         barra.setProgress(0);
-        final long intervalo = 15;
+        final long intervalo = 10;
         timer = new Timer();
         timer.schedule(new TimerTask() {
             @Override

@@ -15,4 +15,12 @@
     <string name="info">Info</string>
     <string name="searchHint">Buscar alimento…</string>
     <string name="infoSplash">La información sobre alimentos y hierbas aquí contenida debe ser utilizada principalmente como complemento. Consulte a su médico.</string>
+    <string name="busqueda_1">¿Qué desea buscar?</string>
+    <string name="busqueda_2">Criterio de búsqueda</string>
+    <string name="busqueda_3">Buscar</string>
+    <string name="busqueda_4">Escriba aquí lo que desea buscar…</string>
+    <string name="enfermedades">Enfermedades / Dolencias</string>
+    <string name="validacionBusqueda">Debe ingresar algo para buscar</string>
+    <string name="validacionBusqueda_1">Debe seleccionar la opción que desea buscar</string>
+
 </resources>

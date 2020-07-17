@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/coordinatorLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/tvBusqueda"
+        android:layout_width="300dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="90dp"
+        android:text="@string/busqueda_1"
+        android:textAlignment="viewStart"
+        android:textAllCaps="false"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tvBusqueda1"
+        android:layout_width="300dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="32dp"
+        android:text="@string/busqueda_2"
+        android:textAlignment="viewStart"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="@+id/radioGroup"
+        app:layout_constraintStart_toStartOf="@+id/radioGroup"
+        app:layout_constraintTop_toBottomOf="@+id/radioGroup" />
+
+    <EditText
+        android:id="@+id/stringBusqueda"
+        android:layout_width="300dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="8dp"
+        android:autofillHints=""
+        android:clickable="false"
+        android:hint="@string/busqueda_4"
+        android:inputType="text"
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="@+id/tvBusqueda1"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/tvBusqueda1"
+        app:layout_constraintTop_toBottomOf="@+id/tvBusqueda1" />
+
+    <Button
+        android:id="@+id/buscar"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="@string/busqueda_3"
+        app:layout_constraintEnd_toEndOf="@+id/stringBusqueda"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/stringBusqueda"
+        app:layout_constraintTop_toBottomOf="@+id/stringBusqueda" />
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="@+id/tvBusqueda"
+        app:layout_constraintTop_toBottomOf="@+id/tvBusqueda">
+
+        <RadioButton
+            android:id="@+id/rbAlimentos"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableEnd="@drawable/rb_alimento"
+            android:text="@string/menu_alimentos" />
+
+        <RadioButton
+            android:id="@+id/rbEnfermedades"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableEnd="@drawable/rb_enfermedad"
+            android:text="@string/enfermedades" />
+
+        <RadioButton
+            android:id="@+id/rbPropiedades"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableEnd="@drawable/rb_propiedad"
+            android:text="@string/menu_propiedades" />
+    </RadioGroup>
+
+
+</android.support.constraint.ConstraintLayout>
