@@ -8,7 +8,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 public class DbHelper extends SQLiteOpenHelper {
 
     private static final String DATABASE_NAME = "CTT.db";
-    private static final int DATABASE_VERSION = 13;
+    private static final int DATABASE_VERSION = 14;
 
     public DbHelper(Context context) {
         super(context, DATABASE_NAME, null, DATABASE_VERSION);
@@ -25,7 +25,7 @@ public class DbHelper extends SQLiteOpenHelper {
             case 1:
                 scriptsDropVersion1(db);
                 scriptsVersion1(db);
-            case 12:
+            case 13:
                 scriptsDropVersion1(db);
                 scriptsVersion1(db);
         }
@@ -103,6 +103,12 @@ public class DbHelper extends SQLiteOpenHelper {
                                 " EA JOIN " + DataSource.ENFERMEDAD_TABLE_NAME + " E ON EA." + DataSource.EnfermedadAlimento_Campos.ENFERMEDAD_ID + " = E." + DataSource.Enfermedad_Campos.ENFERMEDAD_ID + " WHERE EA." + DataSource.EnfermedadAlimento_Campos.ALIMENTO_ID + " = " + alimentoId.toString(), null);
     }
 
+    public Cursor queryListAlimentosEnfermedad(Integer enfermedadId) {
+        SQLiteDatabase bd = this.getReadableDatabase();
+        return bd.rawQuery("SELECT A." + DataSource.Alimento_Campos.ALIMENTO_ID + ", A." + DataSource.Alimento_Campos.ALIMENTO_NOMBRE + " FROM " + DataSource.ENFERMEDAD_ALIMENTO_TABLE_NAME +
+                " EA JOIN " + DataSource.ALIMENTO_TABLE_NAME + " A ON EA." + DataSource.EnfermedadAlimento_Campos.ALIMENTO_ID + " = A." + DataSource.Alimento_Campos.ALIMENTO_ID + " WHERE EA." + DataSource.EnfermedadAlimento_Campos.ENFERMEDAD_ID + " = " + enfermedadId.toString(), null);
+    }
+
     public Cursor BusquedaAlimentos(String searchString) {
         SQLiteDatabase bd = this.getReadableDatabase();
         return bd.rawQuery("SELECT " + DataSource.Alimento_Campos.ALIMENTO_ID + ", " + DataSource.Alimento_Campos.ALIMENTO_NOMBRE + ", " + DataSource.Alimento_Campos.ALIMENTO_INFO + ", " +
@@ -111,13 +117,13 @@ public class DbHelper extends SQLiteOpenHelper {
 
     public Cursor BusquedaPropiedades(String searchString) {
         SQLiteDatabase bd = this.getReadableDatabase();
-        return bd.rawQuery("SELECT " + DataSource.Propiedad_Campos.PROPIEDAD_ID + ", " + DataSource.Propiedad_Campos.PROPIEDAD_NOMBRE + ", " + DataSource.Propiedad_Campos.PROPIEDAD_DESC + ", " +
+        return bd.rawQuery("SELECT " + DataSource.Propiedad_Campos.PROPIEDAD_ID + ", " + DataSource.Propiedad_Campos.PROPIEDAD_NOMBRE + ", " + DataSource.Propiedad_Campos.PROPIEDAD_DESC +
                                 " FROM " + DataSource.PROPIEDAD_TABLE_NAME + " WHERE " + DataSource.Propiedad_Campos.PROPIEDAD_NOMBRE + " LIKE '" + searchString + "%'", null);
     }
 
     public Cursor BusquedaEnfermedades(String searchString) {
         SQLiteDatabase bd = this.getReadableDatabase();
-        return bd.rawQuery("SELECT " + DataSource.Enfermedad_Campos.ENFERMEDAD_ID + ", " + DataSource.Enfermedad_Campos.ENFERMEDAD_NOMBRE + ", " +
+        return bd.rawQuery("SELECT " + DataSource.Enfermedad_Campos.ENFERMEDAD_ID + ", " + DataSource.Enfermedad_Campos.ENFERMEDAD_NOMBRE +
                                 " FROM " + DataSource.ENFERMEDAD_TABLE_NAME + " WHERE " + DataSource.Enfermedad_Campos.ENFERMEDAD_NOMBRE + " LIKE '" + searchString + "%'", null);
     }
 

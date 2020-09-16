@@ -12,5 +12,9 @@
             android:id="@+id/busqueda_avanzada"
             android:icon="@drawable/busqueda_avanzada"
             android:title="@string/menu_busqueda_avanzada" />
+        <item
+            android:id="@+id/sobre_nosotros"
+            android:icon="@drawable/acerca_de"
+            android:title="@string/menu_acerca_de" />
     </group>
 </menu>

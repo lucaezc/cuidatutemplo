@@ -1,5 +1,6 @@
 package com.lucaezc.cuidatutemplo;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
@@ -37,25 +38,29 @@ public class BusquedaFragment extends Fragment {
                     Toast.makeText(getContext(), R.string.validacionBusqueda, Toast.LENGTH_SHORT).show();
                 }else{
                     stringBusqueda = campoBusqueda.getText().toString();
-
-
+                    Integer tipoBusqueda = 0;
                     switch (rGroup.getCheckedRadioButtonId()){
                         case R.id.rbAlimentos:
-
+                            tipoBusqueda = R.id.rbAlimentos;
                             break;
                         case R.id.rbEnfermedades:
-
+                            tipoBusqueda = R.id.rbEnfermedades;
                             break;
                         case R.id.rbPropiedades:
-
+                            tipoBusqueda = R.id.rbPropiedades;
                             break;
                         default:
                             Toast.makeText(getContext(), R.string.validacionBusqueda_1, Toast.LENGTH_SHORT).show();
                             break;
                     }
+
+                    if (!tipoBusqueda.equals(0)){
+                        Intent intent = new Intent(getContext(), ResultadoBusquedaActivity.class);
+                        intent.putExtra("tipoBusqueda", tipoBusqueda);
+                        intent.putExtra("stringBusqueda", stringBusqueda);
+                        startActivity(intent);
+                    }
                 }
-
-
             }
         });
     }

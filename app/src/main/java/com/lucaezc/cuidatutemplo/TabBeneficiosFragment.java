@@ -30,5 +30,7 @@ public class TabBeneficiosFragment extends Fragment {
         Cursor cBeneficiosAlimento = db.queryListBeneficiosAlimento(alimentoId);
         BeneficiosListAdapter beneficiosAlimentoAdapter = new BeneficiosListAdapter(getActivity(), cBeneficiosAlimento);
         lv.setAdapter(beneficiosAlimentoAdapter);
+        lv.setDivider(null);
+        lv.setDividerHeight(0);
     }
 }

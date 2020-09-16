@@ -28,5 +28,6 @@ public class BeneficiosListAdapter extends CursorAdapter {
 
         tvBeneficioNombre.setText(beneficioNombre);
         tvBeneficioId.setText(String.valueOf(beneficioId));
+        tvBeneficioId.setVisibility(View.INVISIBLE);
     }
 }

@@ -30,5 +30,7 @@ public class TabEnfermedadesFragment extends Fragment {
         Cursor cEnfermedadesAlimento = db.queryListEnfermedadesAlimento(alimentoId);
         EnfermedadesListAdapter enfermedadesAlimentoAdapter = new EnfermedadesListAdapter(getActivity(), cEnfermedadesAlimento);
         lv.setAdapter(enfermedadesAlimentoAdapter);
+        lv.setDivider(null);
+        lv.setDividerHeight(0);
     }
 }

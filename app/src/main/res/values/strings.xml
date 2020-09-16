@@ -5,6 +5,7 @@
     <string name="menu_alimentos">Alimentos</string>
     <string name="menu_enfermedades">Recomendado para</string>
     <string name="menu_busqueda_avanzada">Búsqueda Avanzada</string>
+    <string name="menu_acerca_de">Acerca de Cuida Tu Templo</string>
     <string name="action_settings">Configuración</string>
     <string name="navigation_drawer_open">Abrir barra lateral</string>
     <string name="navigation_drawer_close">Ocultar barra lateral</string>
@@ -22,5 +23,6 @@
     <string name="enfermedades">Enfermedades / Dolencias</string>
     <string name="validacionBusqueda">Debe ingresar algo para buscar</string>
     <string name="validacionBusqueda_1">Debe seleccionar la opción que desea buscar</string>
+    <string name="resultadosBusqueda">Resultados de la búsqueda</string>
 
 </resources>
