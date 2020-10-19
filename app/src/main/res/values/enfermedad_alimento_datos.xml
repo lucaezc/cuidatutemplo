@@ -45,7 +45,41 @@
         <item>@array/garcinia_enfermedades</item>
         <item>@array/ginkgo_biloba_enfermedades</item>
         <item>@array/ginseng_enfermedades</item>
-
+        <item>@array/graviola_enfermedades</item>
+        <item>@array/hamamelis_enfermedades</item>
+        <item>@array/harpagofito_enfermedades</item>
+        <item>@array/higuera_enfermedades</item>
+        <item>@array/hinojo_enfermedades</item>
+        <item>@array/hiperico_enfermedades</item>
+        <item>@array/hisopo_enfermedades</item>
+        <item>@array/jarilla_enfermedades</item>
+        <item>@array/lapacho_enfermedades</item>
+        <item>@array/lavanda_enfermedades</item>
+        <item>@array/llanten_enfermedades</item>
+        <item>@array/maca_enfermedades</item>
+        <item>@array/malva_enfermedades</item>
+        <item>@array/manzanilla_enfermedades</item>
+        <item>@array/marrubio_enfermedades</item>
+        <item>@array/mastuerzo_enfermedades</item>
+        <item>@array/matico_enfermedades</item>
+        <item>@array/melisa_enfermedades</item>
+        <item>@array/meliloto_enfermedades</item>
+        <item>@array/menta_enfermedades</item>
+        <item>@array/mil_hombres_enfermedades</item>
+        <item>@array/muna_muna_enfermedades</item>
+        <item>@array/naranjo_enfermedades</item>
+        <item>@array/nogal_enfermedades</item>
+        <item>@array/olivo_enfermedades</item>
+        <item>@array/ortiga_enfermedades</item>
+        <item>@array/palo_azul_enfermedades</item>
+        <item>@array/palo_pichi_enfermedades</item>
+        <item>@array/palo_santo_enfermedades</item>
+        <item>@array/pasionaria_enfermedades</item>
+        <item>@array/poleo_enfermedades</item>
+        <item>@array/pezunia_vaca_enfermedades</item>
+        <item>@array/regaliz_enfermedades</item>
+        <item>@array/retamilla_enfermedades</item>
+        <item>@array/romero_enfermedades</item>
     </array>
 
     '<!--'
@@ -439,7 +473,6 @@
         <item>85</item>
         <item>93</item>
         <item>107</item>
-        <item>120</item>
         <item>130</item>
         <item>140</item>
         <item>141</item>
@@ -774,4 +807,722 @@
         <item>163</item>
         <item>166</item>
     </array>
+
+    <array name="graviola_enfermedades">
+        <item>45</item>
+        <item>28</item>
+        <item>42</item>
+        <item>64</item>
+        <item>103</item>
+        <item>133</item>
+        <item>224</item>
+    </array>
+
+    <array name="hamamelis_enfermedades">
+        <item>46</item>
+        <item>5</item>
+        <item>11</item>
+        <item>21</item>
+        <item>34</item>
+        <item>59</item>
+        <item>60</item>
+        <item>61</item>
+        <item>69</item>
+        <item>80</item>
+        <item>104</item>
+        <item>108</item>
+        <item>109</item>
+        <item>120</item>
+        <item>121</item>
+        <item>123</item>
+        <item>124</item>
+        <item>143</item>
+        <item>173</item>
+        <item>204</item>
+        <item>213</item>
+        <item>225</item>
+        <item>226</item>
+    </array>
+
+    <array name="harpagofito_enfermedades">
+        <item>47</item>
+        <item>2</item>
+        <item>6</item>
+        <item>9</item>
+        <item>17</item>
+        <item>19</item>
+        <item>26</item>
+        <item>46</item>
+        <item>70</item>
+        <item>132</item>
+        <item>147</item>
+        <item>150</item>
+        <item>200</item>
+        <item>227</item>
+        <item>228</item>
+        <item>229</item>
+    </array>
+
+    <array name="higuera_enfermedades">
+        <item>48</item>
+        <item>7</item>
+        <item>13</item>
+        <item>17</item>
+        <item>24</item>
+        <item>50</item>
+        <item>57</item>
+        <item>62</item>
+        <item>75</item>
+        <item>95</item>
+        <item>185</item>
+        <item>230</item>
+        <item>231</item>
+        <item>232</item>
+        <item>233</item>
+    </array>
+
+    <array name="hinojo_enfermedades">
+        <item>49</item>
+        <item>3</item>
+        <item>7</item>
+        <item>11</item>
+        <item>17</item>
+        <item>23</item>
+        <item>30</item>
+        <item>31</item>
+        <item>48</item>
+        <item>49</item>
+        <item>137</item>
+        <item>153</item>
+        <item>226</item>
+        <item>231</item>
+        <item>234</item>
+    </array>
+
+    <array name="hiperico_enfermedades">
+        <item>50</item>
+        <item>3</item>
+        <item>22</item>
+        <item>42</item>
+        <item>50</item>
+        <item>59</item>
+        <item>109</item>
+        <item>110</item>
+        <item>135</item>
+        <item>139</item>
+        <item>142</item>
+        <item>235</item>
+    </array>
+
+    <array name="hisopo_enfermedades">
+        <item>51</item>
+        <item>17</item>
+        <item>30</item>
+        <item>41</item>
+        <item>47</item>
+        <item>49</item>
+        <item>51</item>
+        <item>59</item>
+        <item>60</item>
+        <item>65</item>
+        <item>75</item>
+        <item>133</item>
+        <item>135</item>
+        <item>180</item>
+        <item>203</item>
+    </array>
+
+    <array name="jarilla_enfermedades">
+        <item>52</item>
+        <item>9</item>
+        <item>11</item>
+        <item>18</item>
+        <item>34</item>
+        <item>38</item>
+        <item>63</item>
+        <item>68</item>
+        <item>94</item>
+        <item>184</item>
+        <item>205</item>
+        <item>236</item>
+        <item>237</item>
+        <item>238</item>
+    </array>
+
+    <array name="lapacho_enfermedades">
+        <item>53</item>
+        <item>3</item>
+        <item>6</item>
+        <item>9</item>
+        <item>18</item>
+        <item>42</item>
+        <item>46</item>
+        <item>75</item>
+        <item>87</item>
+        <item>96</item>
+        <item>103</item>
+        <item>133</item>
+        <item>202</item>
+    </array>
+
+    <array name="lavanda_enfermedades">
+        <item>54</item>
+        <item>3</item>
+        <item>9</item>
+        <item>15</item>
+        <item>41</item>
+        <item>42</item>
+        <item>44</item>
+        <item>65</item>
+        <item>73</item>
+        <item>74</item>
+        <item>84</item>
+        <item>87</item>
+        <item>88</item>
+        <item>96</item>
+        <item>115</item>
+        <item>132</item>
+        <item>133</item>
+        <item>165</item>
+        <item>181</item>
+        <item>200</item>
+        <item>239</item>
+        <item>240</item>
+        <item>241</item>
+        <item>242</item>
+    </array>
+
+    <array name="llanten_enfermedades">
+        <item>55</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>31</item>
+        <item>34</item>
+        <item>73</item>
+        <item>75</item>
+        <item>88</item>
+        <item>93</item>
+        <item>121</item>
+        <item>135</item>
+        <item>164</item>
+        <item>181</item>
+        <item>185</item>
+        <item>198</item>
+        <item>243</item>
+        <item>244</item>
+    </array>
+
+    <array name="maca_enfermedades">
+        <item>56</item>
+        <item>3</item>
+        <item>4</item>
+        <item>6</item>
+        <item>16</item>
+        <item>22</item>
+        <item>26</item>
+        <item>57</item>
+        <item>137</item>
+        <item>139</item>
+        <item>144</item>
+        <item>202</item>
+        <item>230</item>
+        <item>245</item>
+        <item>246</item>
+    </array>
+
+    <array name="malva_enfermedades">
+        <item>57</item>
+        <item>12</item>
+        <item>23</item>
+        <item>31</item>
+        <item>41</item>
+        <item>47</item>
+        <item>50</item>
+        <item>55</item>
+        <item>56</item>
+        <item>65</item>
+        <item>73</item>
+        <item>75</item>
+        <item>91</item>
+        <item>93</item>
+        <item>108</item>
+        <item>109</item>
+        <item>121</item>
+        <item>135</item>
+        <item>181</item>
+        <item>185</item>
+        <item>241</item>
+        <item>247</item>
+        <item>248</item>
+    </array>
+
+    <array name="manzanilla_enfermedades">
+        <item>58</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>9</item>
+        <item>13</item>
+        <item>14</item>
+        <item>17</item>
+        <item>21</item>
+        <item>26</item>
+        <item>30</item>
+        <item>34</item>
+        <item>41</item>
+        <item>42</item>
+        <item>84</item>
+        <item>92</item>
+        <item>96</item>
+        <item>108</item>
+        <item>109</item>
+        <item>135</item>
+        <item>139</item>
+        <item>149</item>
+        <item>173</item>
+        <item>180</item>
+        <item>207</item>
+        <item>231</item>
+        <item>249</item>
+        <item>250</item>
+        <item>251</item>
+        <item>252</item>
+    </array>
+
+    <array name="marcela_enfermedades">
+        <item>59</item>
+        <item>12</item>
+        <item>17</item>
+        <item>30</item>
+        <item>41</item>
+        <item>75</item>
+        <item>104</item>
+        <item>133</item>
+        <item>135</item>
+        <item>136</item>
+        <item>165</item>
+        <item>207</item>
+    </array>
+
+    <array name="marrubio_enfermedades">
+        <item>60</item>
+        <item>2</item>
+        <item>5</item>
+        <item>6</item>
+        <item>17</item>
+        <item>22</item>
+        <item>26</item>
+        <item>30</item>
+        <item>36</item>
+        <item>39</item>
+        <item>41</item>
+        <item>49</item>
+        <item>51</item>
+        <item>56</item>
+        <item>61</item>
+        <item>84</item>
+        <item>96</item>
+        <item>121</item>
+        <item>133</item>
+        <item>135</item>
+        <item>141</item>
+        <item>149</item>
+        <item>156</item>
+        <item>171</item>
+        <item>209</item>
+        <item>247</item>
+        <item>253</item>
+        <item>254</item>
+    </array>
+
+    <array name="mastuerzo_enfermedades">
+        <item>61</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>6</item>
+        <item>41</item>
+        <item>74</item>
+        <item>93</item>
+        <item>101</item>
+        <item>102</item>
+        <item>133</item>
+        <item>135</item>
+        <item>149</item>
+        <item>173</item>
+        <item>179</item>
+        <item>230</item>
+        <item>255</item>
+    </array>
+
+    <array name="matico_enfermedades">
+        <item>62</item>
+        <item>5</item>
+        <item>11</item>
+        <item>17</item>
+        <item>27</item>
+        <item>34</item>
+        <item>38</item>
+        <item>41</item>
+        <item>55</item>
+        <item>64</item>
+        <item>66</item>
+        <item>75</item>
+        <item>109</item>
+        <item>110</item>
+        <item>121</item>
+        <item>152</item>
+        <item>190</item>
+        <item>207</item>
+        <item>241</item>
+        <item>250</item>
+        <item>256</item>
+        <item>257</item>
+    </array>
+
+    <array name="melisa_enfermedades">
+        <item>63</item>
+        <item>2</item>
+        <item>3</item>
+        <item>7</item>
+        <item>10</item>
+        <item>11</item>
+        <item>17</item>
+        <item>26</item>
+        <item>30</item>
+        <item>39</item>
+        <item>42</item>
+        <item>44</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>64</item>
+        <item>93</item>
+        <item>109</item>
+        <item>132</item>
+        <item>133</item>
+        <item>139</item>
+        <item>143</item>
+        <item>205</item>
+        <item>241</item>
+        <item>258</item>
+    </array>
+
+    <array name="meliloto_enfermedades">
+        <item>64</item>
+        <item>3</item>
+        <item>7</item>
+        <item>34</item>
+        <item>42</item>
+        <item>44</item>
+        <item>59</item>
+        <item>69</item>
+        <item>75</item>
+        <item>117</item>
+        <item>135</item>
+    </array>
+
+    <array name="menta_enfermedades">
+        <item>65</item>
+        <item>2</item>
+        <item>5</item>
+        <item>11</item>
+        <item>12</item>
+        <item>24</item>
+        <item>30</item>
+        <item>34</item>
+        <item>38</item>
+        <item>48</item>
+        <item>75</item>
+        <item>92</item>
+        <item>96</item>
+        <item>109</item>
+        <item>121</item>
+        <item>135</item>
+        <item>139</item>
+        <item>165</item>
+        <item>182</item>
+        <item>225</item>
+        <item>241</item>
+        <item>244</item>
+        <item>250</item>
+        <item>251</item>
+    </array>
+
+    <array name="mil_hombres_enfermedades">
+        <item>66</item>
+        <item>9</item>
+        <item>17</item>
+        <item>18</item>
+        <item>70</item>
+        <item>135</item>
+        <item>184</item>
+        <item>259</item>
+        <item>260</item>
+        <item>261</item>
+    </array>
+
+    <array name="muna_muna_enfermedades">
+        <item>67</item>
+        <item>12</item>
+        <item>17</item>
+        <item>26</item>
+        <item>30</item>
+        <item>41</item>
+        <item>48</item>
+        <item>58</item>
+        <item>75</item>
+        <item>84</item>
+        <item>115</item>
+        <item>144</item>
+        <item>230</item>
+        <item>247</item>
+    </array>
+
+    <array name="naranjo_enfermedades">
+        <item>68</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>11</item>
+        <item>17</item>
+        <item>24</item>
+        <item>30</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>42</item>
+        <item>44</item>
+        <item>62</item>
+        <item>65</item>
+        <item>139</item>
+        <item>165</item>
+        <item>247</item>
+        <item>260</item>
+    </array>
+
+    <array name="nogal_enfermedades">
+        <item>69</item>
+        <item>6</item>
+        <item>11</item>
+        <item>18</item>
+        <item>21</item>
+        <item>34</item>
+        <item>35</item>
+        <item>48</item>
+        <item>51</item>
+        <item>66</item>
+        <item>70</item>
+        <item>74</item>
+        <item>93</item>
+        <item>109</item>
+        <item>130</item>
+        <item>168</item>
+        <item>181</item>
+        <item>182</item>
+        <item>202</item>
+        <item>231</item>
+        <item>242</item>
+        <item>262</item>
+    </array>
+
+    <array name="olivo_enfermedades">
+        <item>70</item>
+        <item>7</item>
+        <item>12</item>
+        <item>22</item>
+        <item>31</item>
+        <item>103</item>
+        <item>109</item>
+        <item>139</item>
+        <item>161</item>
+        <item>224</item>
+    </array>
+
+    <array name="ortiga_enfermedades">
+        <item>71</item>
+        <item>5</item>
+        <item>6</item>
+        <item>18</item>
+        <item>21</item>
+        <item>31</item>
+        <item>34</item>
+        <item>41</item>
+        <item>47</item>
+        <item>53</item>
+        <item>135</item>
+        <item>142</item>
+        <item>149</item>
+        <item>190</item>
+        <item>200</item>
+        <item>247</item>
+        <item>249</item>
+    </array>
+
+    <array name="palo_azul_enfermedades">
+        <item>72</item>
+        <item>9</item>
+        <item>11</item>
+        <item>18</item>
+        <item>23</item>
+        <item>28</item>
+        <item>54</item>
+        <item>66</item>
+        <item>263</item>
+    </array>
+
+    <array name="palo_pichi_enfermedades">
+        <item>73</item>
+        <item>13</item>
+        <item>22</item>
+        <item>23</item>
+        <item>36</item>
+        <item>68</item>
+        <item>161</item>
+        <item>176</item>
+        <item>179</item>
+        <item>211</item>
+        <item>264</item>
+    </array>
+
+    <array name="palo_santo_enfermedades">
+        <item>74</item>
+        <item>3</item>
+        <item>4</item>
+        <item>9</item>
+        <item>18</item>
+        <item>24</item>
+        <item>36</item>
+        <item>53</item>
+        <item>65</item>
+        <item>70</item>
+        <item>106</item>
+        <item>133</item>
+        <item>135</item>
+        <item>139</item>
+        <item>165</item>
+        <item>233</item>
+    </array>
+
+    <array name="pasionaria_enfermedades">
+        <item>75</item>
+        <item>3</item>
+        <item>4</item>
+        <item>15</item>
+        <item>16</item>
+        <item>26</item>
+        <item>37</item>
+        <item>42</item>
+        <item>44</item>
+        <item>65</item>
+        <item>102</item>
+        <item>116</item>
+        <item>133</item>
+        <item>165</item>
+        <item>179</item>
+        <item>265</item>
+    </array>
+
+    <array name="poleo_enfermedades">
+        <item>76</item>
+        <item>4</item>
+        <item>26</item>
+        <item>30</item>
+        <item>38</item>
+        <item>41</item>
+        <item>44</item>
+        <item>65</item>
+        <item>133</item>
+        <item>150</item>
+        <item>182</item>
+    </array>
+
+    <array name="pezunia_vaca_enfermedades">
+        <item>77</item>
+        <item>56</item>
+        <item>57</item>
+        <item>65</item>
+        <item>66</item>
+        <item>68</item>
+        <item>109</item>
+        <item>176</item>
+        <item>181</item>
+    </array>
+
+    <array name="regaliz_enfermedades">
+        <item>78</item>
+        <item>12</item>
+        <item>16</item>
+        <item>17</item>
+        <item>24</item>
+        <item>30</item>
+        <item>31</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>50</item>
+        <item>55</item>
+        <item>57</item>
+        <item>65</item>
+        <item>73</item>
+        <item>74</item>
+        <item>75</item>
+        <item>91</item>
+        <item>93</item>
+        <item>108</item>
+        <item>135</item>
+        <item>139</item>
+        <item>181</item>
+        <item>209</item>
+        <item>225</item>
+        <item>266</item>
+        <item>267</item>
+    </array>
+
+    <array name="retamilla_enfermedades">
+        <item>79</item>
+        <item>11</item>
+        <item>29</item>
+        <item>31</item>
+        <item>35</item>
+        <item>62</item>
+        <item>66</item>
+        <item>108</item>
+        <item>182</item>
+    </array>
+
+    <array name="romero_enfermedades">
+        <item>80</item>
+        <item>6</item>
+        <item>9</item>
+        <item>10</item>
+        <item>18</item>
+        <item>21</item>
+        <item>30</item>
+        <item>35</item>
+        <item>40</item>
+        <item>42</item>
+        <item>46</item>
+        <item>48</item>
+        <item>82</item>
+        <item>93</item>
+        <item>101</item>
+        <item>103</item>
+        <item>104</item>
+        <item>136</item>
+        <item>140</item>
+        <item>143</item>
+        <item>149</item>
+        <item>162</item>
+        <item>165</item>
+        <item>179</item>
+        <item>239</item>
+        <item>268</item>
+        <item>269</item>
+        <item>270</item>
+    </array>
+
+
 </resources>

@@ -119,7 +119,7 @@
         <item>Hinchazón</item>
         <item>Constipación</item>
         <item>Ronchas</item>
-        <item>Quemaduras</item>
+        <item>Quemaduras solares</item>
         <item>Forúnculos</item>
         <item>Estrías</item>
         <item>Eritemas</item>
@@ -224,5 +224,52 @@
         <item>Discinesia tardía</item>
         <item>Vitiligo</item>
 
+        <item>Fibromialgia</item>
+        <item>Rinitis alérgica</item>
+        <item>Blefaritis</item>
+        <item>Bursitis</item>
+        <item>Epicondilitis</item>
+        <item>Diverticulosis duodenal</item>
+        <item>Osteoporosis</item>
+        <item>Inflamación de encías</item>
+        <item>Piorrea</item>
+        <item>Neuralgia</item>
+        <item>Sequedad vaginal</item>
+        <item>Fragilidad capilar</item>
+        <item>Tuberculosis</item>
+        <item>Mal olor corporal</item>
+        <item>Alopesía</item>
+        <item>Tortícolis</item>
+        <item>Dolor de pies</item>
+        <item>Picaduras</item>
+        <item>Sarna</item>
+        <item>Afonía</item>
+        <item>Colitis</item>
+        <item>Raquitismo</item>
+        <item>Osteomalacia</item>
+        <item>Congestión</item>
+        <item>Intoxicación alimenticia</item>
+        <item>Manchas en la piel</item>
+        <item>Vómitos</item>
+        <item>Enfermedad de Crohn</item>
+        <item>Cólon irritable</item>
+        <item>Pielonefritis</item>
+        <item>Sarpullido</item>
+        <item>Esclerosis múltiple</item>
+        <item>Dolor de muelas</item>
+        <item>Vaginitis</item>
+        <item>Perimenopausia</item>
+        <item>Mordeduras de serpiente u otras alimañas ponzoñosas</item>
+        <item>Epilepsia</item>
+        <item>Convulsiones</item>
+        <item>Sarro en los dientes</item>
+        <item>Cólicos renales</item>
+        <item>Inflamación de próstata</item>
+        <item>Abstinencia</item>
+        <item>Cirrosis</item>
+        <item>Fatiga crónica</item>
+        <item>Sida</item>
+        <item>Uñas frágiles</item>
+        <item>Contusiones</item>
     </array>
 </resources>

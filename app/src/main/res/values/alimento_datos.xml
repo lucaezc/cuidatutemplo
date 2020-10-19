@@ -45,6 +45,43 @@
         <item>@array/garcinia</item>
         <item>@array/ginkgo_biloba</item>
         <item>@array/ginseng</item>
+        <item>@array/graviola</item>
+        <item>@array/hamamelis</item>
+        <item>@array/harpagofito</item>
+        <item>@array/higuera</item>
+        <item>@array/hinojo</item>
+        <item>@array/hiperico</item>
+        <item>@array/hisopo</item>
+        <item>@array/jarilla</item>
+        <item>@array/lapacho</item>
+        <item>@array/lavanda</item>
+        <item>@array/llanten</item>
+        <item>@array/maca</item>
+        <item>@array/malva</item>
+        <item>@array/manzanilla</item>
+        <item>@array/marcela</item>
+        <item>@array/marrubio</item>
+        <item>@array/mastuerzo</item>
+        <item>@array/matico</item>
+        <item>@array/melisa</item>
+        <item>@array/meliloto</item>
+        <item>@array/menta</item>
+        <item>@array/mil_hombres</item>
+        <item>@array/muna_muna</item>
+        <item>@array/naranjo</item>
+        <item>@array/nogal</item>
+        <item>@array/olivo</item>
+        <item>@array/ortiga</item>
+        <item>@array/palo_azul</item>
+        <item>@array/palo_pichi</item>
+        <item>@array/palo_santo</item>
+        <item>@array/pasionaria</item>
+        <item>@array/poleo</item>
+        <item>@array/pezunia_vaca</item>
+        <item>@array/regaliz</item>
+        <item>@array/retamilla</item>
+        <item>@array/romero</item>
+
 
     </array>
     '<!--'
@@ -485,4 +522,356 @@
         <item>@drawable/ginseng</item>
         <item>2</item>
     </array>
+
+    <array name="graviola">
+        <item>45</item>
+        <item>Graviola</item>
+        <item>\u2023Es una fruta de color verde, de forma oval y recubierta de unas espinas muy características. En su interior nos encontramos una pulpa blanca, dulce y aromática, con huesos negros y lisos.
+            \n\n\u2023Puede llegar medir 50 cm de diámetro y a pesar hasta tres kilos.
+            \n\n\u2023A esta fruta se la conoce como el “delicioso milagro” gracias a sus propiedades nutricionales favorables para la salud y a un delicioso sabor.</item>
+        <item>@drawable/graviola</item>
+        <item>4</item>
+    </array>
+
+    <array name="hamamelis">
+        <item>46</item>
+        <item>Hamamelis</item>
+        <item>\u2023Se conoce también como avellano de bruja (witch hazel) al parecer por el poder curativo, casi mágico, que le atribuían los pueblos nativos de la zona, que vienen utilizando este árbol como medicina desde hace mucho.
+            \n\n\u2023Los colonos europeos lo empezaron a usar desde mediados del siglo XIX, a raíz de la iniciativa de un hombre de negocios llamado Theron Tilden Pond, que aumentó su fortuna de manera considerable con la comercialización de un producto basado en extracto de hojas de hamamelis y que fue presentado como un remedio milagroso para curar y cicatrizar heridas, con el elocuente nombre de Golden Treasure.</item>
+        <item>@drawable/hamamelis</item>
+        <item>2</item>
+    </array>
+
+    <array name="harpagofito">
+        <item>47</item>
+        <item>Harpagofito</item>
+        <item>\u2023Crece silvestre en la sabana del Kalahari (sur de África), Namibia y en la isla de Madagascar.
+            \n\n\u2023A pesar de haber sido introducida por primera vez en Europa en el año 1953, no es hasta los años 70 cuando esta raíz africana medicinal experimenta una gran demanda, que no siempre ha podido ser satisfecha.
+            \n\n\u2023Los bosquimanos, una tribu africana, han utilizado esta planta medicinal desde hace siglos en casos de artrosis y otras enfermedades reumáticas. Como analgésico, la empleaban en los partos.</item>
+        <item>@drawable/harpagofito</item>
+        <item>2</item>
+    </array>
+
+    <array name="higuera">
+        <item>48</item>
+        <item>Higuera</item>
+        <item>\u2023La higuera es un árbol frutal del género Ficus de origen asiático que se ha propagado por la zona Mediterránea y por otras zonas del mundo.
+            \n\n\u2023Es un árbol con historia: hace 4.500 años, los egipcios ya la recolectaban, como se observa en los jeroglíficos propios de esta antigua civilización.
+            \n\n\u2023Cuenta con más de 1.000 especies, principalmente en las regiones cálidas e intertropicales. Ficus carica es la única especie del género Ficus que se encuentra en estado silvestre en Europa.
+            \n\n\u2023El crecimiento de la higuera implica el crecimiento de sus raíces que son exageradamente fuertes y que pueden llegar a desquebrajar suelos y paredes. De hecho, la higuera es un árbol que puede crecer naturalmente en un terreno rocoso sin mayor problema.
+            \n\n\u2023La higuera es un árbol muy resistente a condiciones climáticas adversas y por eso su cultivo se realiza sin muchas de las preocupaciones que implican otros árboles frutales.</item>
+        <item>@drawable/higuera</item>
+        <item>4</item>
+    </array>
+
+    <array name="hinojo">
+        <item>49</item>
+        <item>Hinojo</item>
+        <item>\u2023El hinojo es muy versátil ya que los tallos y las hojas picados se utilizan como hierba aromática, las semillas como especia y el bulbo como hortaliza, aportando en cada caso un característico sabor y aroma anisados e intensos.
+            \n\n\u2023Las semillas se usan secas y se combinan con una serie de platos como curries (en este caso se muelen), panes, pasteles, pescados (arenque, caballa y salmón) y tartas.</item>
+        <item>@drawable/hinojo</item>
+        <item>3</item>
+    </array>
+
+    <array name="hiperico">
+        <item>50</item>
+        <item>Hipérico</item>
+        <item>\u2023La tradición del hipérico es muy antigua y ya Hipócrates cita su uso como analgésico y contra la ansiedad, así como Plino el Viejo (siglo I d.C.) y Galeno.
+            \n\n\u2023Además, en la edad antigua se creía que incluso su aroma alejaba a los malos espíritus, por lo que cuando en una ciudad se desencadenaba una epidemia, sus habitantes quemaban ramas de hipérico como sahumerio o las colgaban en los dinteles de las puertas como protección.</item>
+        <item>@drawable/hipericon</item>
+        <item>1</item>
+    </array>
+
+    <array name="hisopo">
+        <item>51</item>
+        <item>Hisopo</item>
+        <item>\u2023El hisopo ya aparece nombrado como hierba aromática en el Tanaj hebraico, y en el Evangelio según Juan es la planta en la que los legionarios que custodian la cruz de Jesús de Nazaret ensartan la esponja embebida en vinagre que le dan de beber.
+            \n\n\u2023Es una especie rústica, que resiste bien las sequías y tolera suelos tanto arcillo-arenosos, como francos y calcáreos, siempre que cuente con buen drenaje.
+            \n\n\u2023Requiere mucho sol y clima cálido.</item>
+        <item>@drawable/hisopo</item>
+        <item>2</item>
+    </array>
+
+    <array name="jarilla">
+        <item>52</item>
+        <item>Jarilla</item>
+        <item>\u2023La jarilla (Larrea divaricada), es un arbusto que crece en forma salvaje desde el norte al sur de Argentina.</item>
+        <item>@drawable/jarilla</item>
+        <item>2</item>
+    </array>
+
+    <array name="lapacho">
+        <item>53</item>
+        <item>Lapacho</item>
+        <item>\u2023El lapacho negro, rosado, amarillo y blanco viven en Corrientes, Misiones, Chaco y Formosa (Argentina), en cuyas selvas florece en primavera.
+            \n\n\u2023Es una especie autóctona y sus raíces son un biorremediador natural de los suelos contaminados.</item>
+        <item>@drawable/lapacho</item>
+        <item>2</item>
+    </array>
+
+    <array name="lavanda">
+        <item>54</item>
+        <item>Lavanda</item>
+        <item>\u2023Su nombre deriva del latín ‘lavar’ y hace referencia al uso originario de la lavanda, que no era otro que el de emplearla para los baños como si de un jabón se tratara.
+            \n\n\u2023De hecho, esta situación no ha variado mucho en la actualidad, ya que está presente en la composición de numerosos productos de higiene.</item>
+        <item>@drawable/lavanda</item>
+        <item>1</item>
+    </array>
+
+    <array name="llanten">
+        <item>55</item>
+        <item>Llantén</item>
+        <item>\u2023Esta hierba, también conocida como plantago major, es oriunda de Europa, Norteamérica, el norte de África y Asia occidental.
+            \n\n\u2023Se trata de una planta con hojas de hasta 15 centímetros de largo y flores amarillentas en espiga.</item>
+        <item>@drawable/llanten</item>
+        <item>2</item>
+    </array>
+
+    <array name="maca">
+        <item>56</item>
+        <item>Maca</item>
+        <item>\u2023Es una planta herbácea anual o bienal nativa de los Andes de Bolivia y Perú, donde se cultiva por su hipocótilo comestible.
+            \n\n\u2023Existen diferentes ecotipos de maca, que se definen por el color externo de la raíz: amarillo, blanco cremoso, rojo, morado, negro y plomo… El ecotipo más frecuente es el de color amarillo, y luego el de color rojo-blanco.
+            \n\n\u2023Los pobladores andinos desde la antigüedad la utilizaban para mejorar sus capacidades físicas y mentales.
+            \n\n\u2023Algunos narradores como Fray Antonio Vásquez de Espinoza en una descripción del año 1598 hace mención al consumo de esta planta por parte de los pobladores​ así como posteriormente Bernabé Cobo en el periodo que va desde 1603-1629. Posteriormente otros botánicos españoles la describen mínimamente como es el caso de Hipólito Ruiz López en su expedición botánica al Virreinato del Perú.
+        </item>
+        <item>@drawable/maca</item>
+        <item>2</item>
+    </array>
+
+    <array name="malva">
+        <item>57</item>
+        <item>Malva</item>
+        <item>\u2023Se conocen algo más de 30 especies de malvas en el mundo, la mayoría en el hemisferio septentrional, en regiones templadas.
+            \n\n\u2023Sus principales componentes bioquímicos son: mucílagos, antocianósidos, taninos, vitaminas A, B1, B2 y C, y sales minerales (destacando la presencia de calcio, magnesio y hierro).</item>
+        <item>@drawable/malva</item>
+        <item>2</item>
+    </array>
+
+    <array name="manzanilla">
+        <item>58</item>
+        <item>Manzanilla</item>
+        <item>\u2023Ya se consumía hace más de 3000 años en el Antiguo Egipto.
+            \n\n\u2023En el Imperio Romano y en la Edad Media también se utilizaba como remedio medicinal.</item>
+        <item>@drawable/manzanilla</item>
+        <item>1</item>
+    </array>
+
+    <array name="marcela">
+        <item>59</item>
+        <item>Marcela</item>
+        <item>\u2023La Marcela es una planta medicinal y muy aromática autóctona de América del Sur.
+            \n\n\u2023En algunos lugares del interior de Uruguay y Argentina, aún hoy existe la costumbre de juntar marcela en cada Viernes Santo. </item>
+        <item>@drawable/marcela</item>
+        <item>1</item>
+    </array>
+
+    <array name="marrubio">
+        <item>60</item>
+        <item>Marrubio</item>
+        <item>\u2023Es una planta perenne de tipo herbácea nativa de los continentes europeo y asiático donde crece de manera silvestre. Los españoles la introdujeron en el continente Americano.
+            \n\n\u2023Esta planta puede alcanzar los 70 cm de altura, los tallos están erguidos y posee hojas con forma oval (que nos pueden recordar a las hojas de la Menta) y pequeñas flores blancas que crecen en grupo.
+            \n\n\u2023El Marrubio también es conocido popularmente por otros nombres como Marroio, Hortelana, Maromba o Camarruego.
+        </item>
+        <item>@drawable/marrubio</item>
+        <item>2</item>
+    </array>
+
+    <array name="mastuerzo">
+        <item>61</item>
+        <item>Mastuerzo</item>
+        <item>\u2023El nombre del mastuerzo proviene de los gestos derivados que quizápueden resultar por su sabor que es fuerte y ciertamente picante lo que a más de uno ha hecho retorcer la nariz.
+            \n\n\u2023Su origen es incierto, sin embargo existen referencias de su uso y cultivo desde la época de las culturas egipcias y, como ha sucedido con muchas otras plantas y hierbas, los griegos y romanos la utilizaban por sus propiedades medicinales.</item>
+        <item>@drawable/mastuerzo</item>
+        <item>2</item>
+    </array>
+
+    <array name="matico">
+        <item>62</item>
+        <item>Matico</item>
+        <item>\u2023Uno de los nombres más comunes de esta planta es “hierba del soldado”, precisamente por ser utilizada para las heridas y frenar las hemorragias durante los enfrentamientos bélicos.
+            \n\n\u2023A principios del siglo XIX, en plenos enfrentamientos de guerra, esta planta fue muy popular entre los grupos de comando, quienes la usaban para detener rápidamente las hemorragias.
+            \n\n\u2023Cuenta la leyenda, que esta hierba tomó el nombre de matico, por el apellido de un soldado español que hizo famoso su uso, cuando conoció sus propiedades curando heridos en el Perú.
+            \n\n\u2023Es probable que este soldado aprendiera a usar el matico por las tribus indígenas locales. Ellos aplicaban las hojas directamente a las heridas para detener hemorragias.
+            \n\n\u2023Pero no fue hasta 1839 que esta hierba fue introducida en la medicina de Europa y Estados Unidos por un médico de Liverpool.
+        </item>
+        <item>@drawable/matico</item>
+        <item>2</item>
+    </array>
+
+    <array name="melisa">
+        <item>63</item>
+        <item>Melisa</item>
+        <item>\u2023Dioscórides, el médico y farmacéutico griego del siglo I, hablaba de ella en su Libro III, destacando su eficacia para tratar la disentería, para purificar la piel y curar llagas y golpes, e incluso como un buen antídoto contra la mordedura de alacrán y de serpiente.
+            \n\n\u2023También los druidas centroeuropeos la incluían en sus formulaciones mágicas y curativas. Avicena, el médico árabe, aseguraba en efecto que la melisa alegra el espíritu y aleja las tristezas.
+            \n\n\u2023Serapion, en la Edad Media, comenta de la melisa que “calma las palpitaciones, las preocupaciones desmedidas, la imaginación exaltada, y las fantasías producidas por los humores melancólicos”.
+        </item>
+        <item>@drawable/melisa</item>
+        <item>1</item>
+    </array>
+
+    <array name="meliloto">
+        <item>64</item>
+        <item>Meliloto</item>
+        <item>\u2023Es una especie herbácea perteneciente a la familia de las leguminosas, que se cultiva como planta forrajera.
+            \n\n\u2023Su característico olor dulce se intensifica por el secado y se debe a su alto contenido en cumarina.</item>
+<!--        <item>@drawable/meliloto</item>-->
+        <item>2</item>
+    </array>
+
+    <array name="menta">
+        <item>65</item>
+        <item>Menta</item>
+        <item>\u2023Dos cucharadas de menta fresca aportan 2 calorías, 0,12 gramos de proteína, 0,48 gramos de carbohidratos, 0,03 gramos de grasa y 0,30 gramos de fibra.
+            \n\n\u2023La menta contiene pequeñas cantidades de potasio, magnesio, calcio, fósforo, vitamina C, hierro y vitamina A.</item>
+        <item>@drawable/menta</item>
+        <item>1</item>
+    </array>
+
+    <array name="mil_hombres">
+        <item>66</item>
+        <item>Mil Hombres</item>
+        <item>\u2023Puede ser encontrada en varias partes del planeta, pero es nativa de Sudamérica.
+            \n\n\u2023Es fácil encontrarla en los bosques brasileños.</item>
+        <item>@drawable/mil_hombres</item>
+        <item>1</item>
+    </array>
+
+    <array name="muna_muna">
+        <item>67</item>
+        <item>Muña Muña</item>
+        <item>\u2023Los incas la consumían junto con la miel para aplacar los problemas respiratorios.
+            \n\n\u2023Es un arbusto caducifolio (de esos que pierden su follaje durante las estaciones frías) oriundo de Perú; aunque de generosa abundancia en las zonas serranas y montañosas de Argentina.</item>
+        <item>@drawable/muna_muna</item>
+        <item>2</item>
+    </array>
+
+    <array name="naranjo">
+        <item>68</item>
+        <item>Naranjo</item>
+        <item>\u2023El naranjo (Citrus sinensis) es un árbol frutal de origen oriental que se ha instalado en las zonas mediterráneas tan eficientemente que muchos creen que su origen real son estas tierras.
+            \n\n\u2023Es originario de China, llevado a occidente por los árabes.</item>
+        <item>@drawable/naranjo</item>
+        <item>2</item>
+    </array>
+
+    <array name="nogal">
+        <item>69</item>
+        <item>Nogal</item>
+        <item>\u2023Juglans significa «nuez de los dioses», y es también el nombre genérico de este bello árbol frutal, el nogal Juglans regia, cuyas virtudes curativas ya eran bien conocidas en Persia y en la antigua Grecia.
+            \n\n\u2023Se decía que las nueces, combinadas con ruda, neutralizaban el efecto de venenos mortíferos y que si se comían en abundancia, facilitaban la expulsión de las lombrices intestinales.
+            \n\n\u2023También existían creencias muy extendidas, como la que aseguraba que bajo la densa sombra de este árbol resultaba peligroso dormirse.
+        </item>
+        <item>@drawable/nogal</item>
+        <item>2</item>
+    </array>
+
+    <array name="olivo">
+        <item>70</item>
+        <item>Olivo</item>
+        <item>\u2023De la oliva se extrae el aceite que destaca por ser una de las mejores fuentes de grasa saludables y, concretamente, por contener ácidos grasos monoinsaturados.
+            \n\n\u2023En las hojas hay muchos componentes beneficiosos, entre ellos los polifenoles y la oleuropeína.</item>
+        <item>@drawable/olivo</item>
+        <item>2</item>
+    </array>
+
+    <array name="ortiga">
+        <item>71</item>
+        <item>Ortiga</item>
+        <item>\u2023La ortiga es el nombre común de las plantas del género Urtica, de la familia de las urticáceas, la mayoría de ellas caracterizadas por tener unos pelos urticantes que liberan una sustancia alcalina que produce escozor e inflamación en la piel.
+            \n\n\u2023Es una de las "malas hierbas" más habituales, bien conocida por sus cualidades urticantes.
+            \n\n\u2023Antiguamente se conocía también como "la hierba de los ciegos", pues hasta estos la reconocen con solo rozarla.
+        </item>
+        <item>@drawable/ortiga</item>
+        <item>1</item>
+    </array>
+
+    <array name="palo_azul">
+        <item>72</item>
+        <item>Palo Azul</item>
+        <item>\u2023El Palo azul es una planta medicinal perteneciente a la familia de las asteráceas, a la cual también se le conoce como Matorro negro.
+            \n\n\u2023Originaria de América del Sur, esta planta posee una coloración azul-verdosa y un sabor especial que no es desagradable.
+        </item>
+<!--        <item>@drawable/palo_azul</item>-->
+        <item>1</item>
+    </array>
+
+    <array name="palo_pichi">
+        <item>73</item>
+        <item>Palo Pichi</item>
+        <item>\u2023Su nombre fue otorgado en homenaje al arzobispo de Valencia, Francisco Fabian y Fuero (1719-1801) por la disposición de sus hojas que se ubican como tejas sobre un tejado.
+            \n\n\u2023Distribuída en Paraguay, Argentina y Chile, es un arbusto resinoso que forma matorrales en zonas de declive. En la estepa patagónica, está frecuentemente acompañado de pastizales (coirones).
+        </item>
+        <item>@drawable/palo_pichi</item>
+        <item>2</item>
+    </array>
+
+    <array name="palo_santo">
+        <item>74</item>
+        <item>Palo Santo</item>
+        <item>\u2023Es quemado por los incas, los indígenas de los Andes, los chamanes y los curanderos para la purificación espiritual, la limpieza de la energía y la curación.</item>
+        <item>@drawable/palo_santo</item>
+        <item>2</item>
+    </array>
+
+    <array name="pasionaria">
+        <item>75</item>
+        <item>Pasionaria</item>
+        <item>\u2023Tiene muchos nombres, como el de flor de la pasión, granadina, pasiflora, flor de Cristo, o también pasionaria roja.
+            \n\n\u2023Esta planta es común en el sur de Estados Unidos y Antillas y fue llevada a Europa en el siglo XVII.</item>
+        <item>@drawable/pasionaria</item>
+        <item>2</item>
+    </array>
+
+    <array name="poleo">
+        <item>76</item>
+        <item>Poleo</item>
+        <item>\u2023El poleo o menta poleo (Mentha pulegium), es una de las especies más conocidas del género Mentha.
+            \n\n\u2023De la familia de las labiadas, es una perenne cespitosa y de raíces rizomatosas que crece bien en sitios húmedos.</item>
+        <item>@drawable/poleo</item>
+        <item>2</item>
+    </array>
+
+    <array name="pezunia_vaca">
+        <item>77</item>
+        <item>Pezuña de Vaca</item>
+        <item>\u2023La pezuña de vaca es un árbol sudamericano de grandes dimensiones que crece en regiones templadas del nor-este de Argentina, nor-oeste de Uruguay, sur de Brasil y este de Paraguay.
+            \n\n\u2023Suele crecer en la ribera de los ríos Paraná y Uruguay.</item>
+        <item>@drawable/pezuna_de_vaca</item>
+        <item>2</item>
+    </array>
+
+    <array name="regaliz">
+        <item>78</item>
+        <item>Regaliz</item>
+        <item>\u2023La raíz del regaliz es una de las drogas más antiguas que existen. Prácticamente todas las grandes culturas asiáticas y europeas hacen referencia a la misma y a su uso.
+            \n\n\u2023En la medicina china, esta planta medicinal se conoce desde aproximadamente 200 años a.C. gracias al Shennong Bencao Jing(clásico de la ciencia herbolaria de Shennong).
+            \n\n\u2023En el Código de Hammurabi (2100 a.C.) y en el Papiro de Eber(1552 a.C.) se describe la raíz de regaliz como medicamento.</item>
+        <item>@drawable/regaliz</item>
+        <item>2</item>
+    </array>
+
+    <array name="retamilla">
+        <item>79</item>
+        <item>Retamilla</item>
+        <item>\u2023Es una especie botánica de arbusto leñoso perenne, y una leguminosa.
+            \n\n\u2023La especie es nativa de la región del Mediterráneo.</item>
+        <item>@drawable/retamilla</item>
+        <item>2</item>
+    </array>
+
+    <array name="romero">
+        <item>80</item>
+        <item>Romero</item>
+        <item>\u2023El romero es una planta perenne que pertenece a la familia de las labiadas (Labiatae).
+            \n\n\u2023Este arbusto puede llegar a alcanzar un metro y medio de altura. Posee muchas hojas finas y unas flores que pueden ser azuladas, blanquecinas o rosáceas.
+            \n\n\u2023Tiene un sabor fuerte con aromas de alcanfor, pino, nuez moscada y lavanda. En el ámbito gastronómico, suele combinar bien con otras plantas aromáticas como el tomillo o el laurel.
+            \n\n\u2023Es un condimento que potencia el sabor de los alimentos, por lo que es utilizado en guisos tradicionales de carnes, pescado pocos grasos y algunas verduras, también en adobos o en la preparación de encurtidos. Los principios activos se concentran en las hojas y, a veces, en la sumidad florida (flores).
+            \n\n\u2023Esta planta fue utilizada como una planta mágica para combatir la brujería, el mal ojo o quitar la envidia, así como también para purificar el ambiente de enfermedades como la peste negra.
+            \n\n\u2023También se usaba en las bodas de la antigua Roma y Grecia para simbolizar el amor y la felicidad de la pareja, considerándola una hierba sagrada.
+        </item>
+        <item>@drawable/romero</item>
+        <item>2</item>
+    </array>
+
 </resources>

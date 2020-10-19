@@ -24,5 +24,13 @@
     <string name="validacionBusqueda">Debe ingresar algo para buscar</string>
     <string name="validacionBusqueda_1">Debe seleccionar la opción que desea buscar</string>
     <string name="resultadosBusqueda">Resultados de la búsqueda</string>
-
+    <string name="busqueda_sin_resultados">No se han encontrado resultados</string>
+    <string name="acercaDe1">Creemos en que una buena alimentación y cuidado del cuerpo es fundamental hoy en día, principalmente por motivos de salud, más allá de lo estético.
+                            \nY todo lo que es bueno a nuestro cuerpo se encuentra en la naturaleza: verduras, frutas, hierbas, especias, legumbres, semillas, etc.\nGran parte de las medicinas
+                            para distintos tipos de problemas hacen uso de las propiedades de los alimentos naturales.\nEs por eso que esta aplicación se diseñó con el propósito de agrupar
+                            y clasificar gran cantidad de alimentos especificando sus propiedades, beneficios y para qué sirven o para qué dolencias/enfermedades se pueden utilizar.</string>
+    <string name="acercaDe2">El nombre <b>Cuida Tu Templo</b> tiene su origen en la Palabra de Dios. Existen muchas referencias en la Biblia en donde el cuerpo humano es comparado con un templo.
+                            \nQuienes creen y aceptan a Jesús, reciben su Espíritu Santo, del cual el cuerpo es su templo, por lo que pasa a ser considerado santo. Si bien tenemos la libertad de elegir
+                            cómo vamos a cuidar nuestro cuerpo, nuestro Creador espera que lo cuidemos y lo usemos de manera adecuada, porque fue hecho de manera maravillosa y formidable.</string>
+    <string name="acercaDe3">Soy una creación maravillosa, y por eso te doy las gracias. Todo lo que haces es maravilloso, ¡de eso estoy bien seguro!\nSalmo 139:13"</string>
 </resources>

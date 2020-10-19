@@ -122,7 +122,7 @@ public class DetalleAlimentoActivity extends AppCompatActivity implements Naviga
     }
 
     @Override
-    public boolean onNavigationItemSelected(MenuItem item) { // Handle navigation view item clicks here.
+    public boolean onNavigationItemSelected(MenuItem item) {
         int id = item.getItemId();
 
         Fragment fragment = null;
@@ -132,6 +132,9 @@ public class DetalleAlimentoActivity extends AppCompatActivity implements Naviga
                 break;
             case R.id.busqueda_avanzada:
                 fragment = new BusquedaFragment();
+                break;
+            case R.id.sobre_nosotros:
+                fragment = new AcercaDeFragment();
                 break;
             default:
                 break;

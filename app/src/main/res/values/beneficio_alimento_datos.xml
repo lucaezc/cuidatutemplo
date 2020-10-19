@@ -45,7 +45,42 @@
         <item>@array/garcinia_beneficios</item>
         <item>@array/ginkgo_biloba_beneficios</item>
         <item>@array/ginseng_beneficios</item>
-
+        <item>@array/graviola_beneficios</item>
+        <item>@array/hamamelis_beneficios</item>
+        <item>@array/harpagofito_beneficios</item>
+        <item>@array/higuera_beneficios</item>
+        <item>@array/hinojo_beneficios</item>
+        <item>@array/hiperico_beneficios</item>
+        <item>@array/hisopo_beneficios</item>
+        <item>@array/jarilla_beneficios</item>
+        <item>@array/lapacho_beneficios</item>
+        <item>@array/lavanda_beneficios</item>
+        <item>@array/llanten_beneficios</item>
+        <item>@array/maca_beneficios</item>
+        <item>@array/malva_beneficios</item>
+        <item>@array/manzanilla_beneficios</item>
+        <item>@array/marcela_beneficios</item>
+        <item>@array/marrubio_beneficios</item>
+        <item>@array/mastuerzo_beneficios</item>
+        '<!--'<item>@array/matico_beneficios</item>'-->'
+        <item>@array/melisa_beneficios</item>
+        <item>@array/meliloto_beneficios</item>
+        <item>@array/menta_beneficios</item>
+        <item>@array/mil_hombres_beneficios</item>
+        <item>@array/muna_muna_beneficios</item>
+        <item>@array/naranjo_beneficios</item>
+        <item>@array/nogal_beneficios</item>
+        <item>@array/olivo_beneficios</item>
+        <item>@array/ortiga_beneficios</item>
+        <item>@array/palo_azul_beneficios</item>
+        <item>@array/palo_pichi_beneficios</item>
+<!--        <item>@array/palo_santo_beneficios</item>-->
+        <item>@array/pasionaria_beneficios</item>
+        <item>@array/poleo_beneficios</item>
+        <item>@array/pezunia_vaca_beneficios</item>
+        <item>@array/regaliz_beneficios</item>
+        <item>@array/retamilla_beneficios</item>
+        <item>@array/romero_beneficios</item>
     </array>
 
     '<!--'
@@ -462,4 +497,295 @@
         <item>167</item>
         <item>168</item>
     </array>
+
+    <array name="graviola_beneficios">
+        <item>45</item>
+        <item>27</item>
+        <item>57</item>
+        <item>71</item>
+        <item>82</item>
+        <item>93</item>
+        <item>107</item>
+        <item>129</item>
+        <item>169</item>
+        <item>170</item>
+    </array>
+
+    <array name="hamamelis_beneficios">
+        <item>46</item>
+        <item>26</item>
+        <item>61</item>
+        <item>68</item>
+        <item>85</item>
+        <item>171</item>
+        <item>172</item>
+        <item>173</item>
+    </array>
+
+    <array name="harpagofito_beneficios">
+        <item>47</item>
+        <item>17</item>
+        <item>115</item>
+        <item>135</item>
+        <item>174</item>
+        <item>175</item>
+    </array>
+
+    <array name="higuera_beneficios">
+        <item>48</item>
+        <item>13</item>
+        <item>15</item>
+        <item>51</item>
+        <item>57</item>
+        <item>176</item>
+        <item>177</item>
+    </array>
+
+    <array name="hinojo_beneficios">
+        <item>49</item>
+        <item>17</item>
+        <item>28</item>
+        <item>30</item>
+        <item>61</item>
+        <item>115</item>
+        <item>178</item>
+    </array>
+
+    <array name="hiperico_beneficios">
+        <item>50</item>
+        <item>34</item>
+        <item>58</item>
+        <item>167</item>
+    </array>
+
+    <array name="hisopo_beneficios">
+        <item>51</item>
+        <item>17</item>
+        <item>30</item>
+        <item>41</item>
+        <item>47</item>
+        <item>49</item>
+        <item>51</item>
+        <item>59</item>
+        <item>60</item>
+        <item>65</item>
+        <item>75</item>
+        <item>133</item>
+        <item>135</item>
+        <item>180</item>
+        <item>203</item>
+    </array>
+
+    <array name="jarilla_beneficios">
+        <item>52</item>
+        <item>21</item>
+        <item>96</item>
+    </array>
+
+    <array name="lapacho_beneficios">
+        <item>53</item>
+        <item>68</item>
+        <item>95</item>
+        <item>179</item>
+    </array>
+
+    <array name="lavanda_beneficios">
+        <item>54</item>
+        <item>84</item>
+        <item>93</item>
+    </array>
+
+    <array name="llanten_beneficios">
+        <item>55</item>
+        <item>43</item>
+        <item>73</item>
+        <item>114</item>
+        <item>135</item>
+        <item>180</item>
+    </array>
+
+    <array name="maca_beneficios">
+        <item>56</item>
+        <item>3</item>
+        <item>20</item>
+        <item>34</item>
+        <item>35</item>
+        <item>50</item>
+        <item>72</item>
+        <item>77</item>
+        <item>82</item>
+        <item>97</item>
+        <item>100</item>
+        <item>137</item>
+        <item>148</item>
+        <item>150</item>
+        <item>181</item>
+        <item>182</item>
+        <item>183</item>
+        <item>184</item>
+        <item>185</item>
+        <item>186</item>
+        <item>187</item>
+        <item>188</item>
+        <item>189</item>
+    </array>
+
+    <array name="malva_beneficios">
+        <item>57</item>
+        <item>61</item>
+        <item>95</item>
+    </array>
+
+    <array name="manzanilla_beneficios">
+        <item>58</item>
+        <item>1</item>
+        <item>16</item>
+        <item>33</item>
+        <item>47</item>
+        <item>54</item>
+        <item>73</item>
+        <item>93</item>
+        <item>115</item>
+        <item>190</item>
+        <item>191</item>
+    </array>
+
+    <array name="marcela_beneficios">
+        <item>59</item>
+        <item>1</item>
+    </array>
+
+    <array name="marrubio_beneficios">
+        <item>60</item>
+        <item>51</item>
+        <item>84</item>
+        <item>95</item>
+        <item>192</item>
+    </array>
+
+    <array name="mastuerzo_beneficios">
+        <item>61</item>
+        <item>7</item>
+        <item>17</item>
+        <item>28</item>
+        <item>190</item>
+    </array>
+
+    <array name="melisa_beneficios">
+        <item>63</item>
+        <item>46</item>
+    </array>
+
+    <array name="meliloto_beneficios">
+        <item>64</item>
+        <item>7</item>
+        <item>193</item>
+    </array>
+
+    <array name="menta_beneficios">
+        <item>65</item>
+        <item>7</item>
+        <item>17</item>
+        <item>51</item>
+        <item>95</item>
+        <item>194</item>
+        <item>195</item>
+        <item>196</item>
+    </array>
+
+    <array name="mil_hombres_beneficios">
+        <item>66</item>
+        <item>28</item>
+        <item>64</item>
+    </array>
+
+    <array name="muna_muna_beneficios">
+        <item>67</item>
+        <item>197</item>
+    </array>
+
+    <array name="naranjo_beneficios">
+        <item>68</item>
+        <item>16</item>
+        <item>190</item>
+    </array>
+
+    <array name="nogal_beneficios">
+        <item>69</item>
+        <item>84</item>
+    </array>
+
+    <array name="olivo_beneficios">
+        <item>70</item>
+        <item>1</item>
+        <item>5</item>
+        <item>112</item>
+        <item>149</item>
+        <item>198</item>
+        <item>199</item>
+    </array>
+
+    <array name="ortiga_beneficios">
+        <item>71</item>
+        <item>14</item>
+        <item>83</item>
+        <item>114</item>
+        <item>129</item>
+    </array>
+
+    <array name="palo_azul_beneficios">
+        <item>72</item>
+        <item>146</item>
+    </array>
+
+    <array name="palo_pichi_beneficios">
+        <item>73</item>
+        <item>68</item>
+        <item>140</item>
+        <item>185</item>
+    </array>
+
+    <array name="pasionaria_beneficios">
+        <item>75</item>
+        <item>190</item>
+        <item>200</item>
+    </array>
+
+    <array name="poleo_beneficios">
+        <item>76</item>
+        <item>7</item>
+        <item>17</item>
+        <item>27</item>
+        <item>45</item>
+    </array>
+
+    <array name="pezunia_vaca_beneficios">
+        <item>77</item>
+        <item>129</item>
+    </array>
+
+    <array name="regaliz_beneficios">
+        <item>78</item>
+        <item>16</item>
+        <item>27</item>
+        <item>96</item>
+        <item>194</item>
+        <item>195</item>
+    </array>
+
+    <array name="retamilla_beneficios">
+        <item>79</item>
+        <item>4</item>
+        <item>7</item>
+        <item>16</item>
+        <item>202</item>
+    </array>
+
+    <array name="romero_beneficios">
+        <item>80</item>
+        <item>38</item>
+        <item>77</item>
+        <item>185</item>
+    </array>
+
 </resources>

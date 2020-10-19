@@ -27,6 +27,7 @@ public class ResultadoBusquedaActivity extends AppCompatActivity implements Navi
         super.onCreate(savedInstanceState);
         setContentView(R.layout.resultado_busqueda);
         ListView lvResultados = findViewById(R.id.lvResultados);
+        TextView tvSinResultados = findViewById(R.id.tvSinResultados);
 
         DbHelper db = new DbHelper(this);
         Intent intent = getIntent();
@@ -68,12 +69,16 @@ public class ResultadoBusquedaActivity extends AppCompatActivity implements Navi
                 break;
             case R.id.rbPropiedades:
                 c = db.BusquedaPropiedades(stringBusqueda);
+                PropiedadesAlimentosListAdapter adapter2 = new PropiedadesAlimentosListAdapter(this, c);
+                lvResultados.setAdapter(adapter2);
                 break;
             default:
                 break;
         }
-
-
+        assert c != null;
+        if (c.getCount() == 0){
+            tvSinResultados.setVisibility(View.VISIBLE);
+        }
     }
 
     @Override

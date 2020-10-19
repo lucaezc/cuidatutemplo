@@ -45,6 +45,42 @@
         <item>@array/garcinia_propiedades</item>
         <item>@array/ginkgo_biloba_propiedades</item>
         <item>@array/ginseng_propiedades</item>
+        <item>@array/graviola_propiedades</item>
+        <item>@array/hamamelis_propiedades</item>
+        <item>@array/harpagofito_propiedades</item>
+        <item>@array/higuera_propiedades</item>
+        <item>@array/hinojo_propiedades</item>
+        <item>@array/hiperico_propiedades</item>
+        <item>@array/hisopo_propiedades</item>
+        <item>@array/jarilla_propiedades</item>
+        <item>@array/lapacho_propiedades</item>
+        <item>@array/lavanda_propiedades</item>
+        <item>@array/llanten_propiedades</item>
+        <item>@array/maca_propiedades</item>
+        <item>@array/malva_propiedades</item>
+        <item>@array/manzanilla_propiedades</item>
+        <item>@array/marcela_propiedades</item>
+        <item>@array/marrubio_propiedades</item>
+        <item>@array/mastuerzo_propiedades</item>
+        <item>@array/matico_propiedades</item>
+        <item>@array/melisa_propiedades</item>
+        <item>@array/meliloto_propiedades</item>
+        <item>@array/menta_propiedades</item>
+        <item>@array/mil_hombres_propiedades</item>
+        <item>@array/muna_muna_propiedades</item>
+        <item>@array/naranjo_propiedades</item>
+        <item>@array/nogal_propiedades</item>
+        <item>@array/olivo_propiedades</item>
+        <item>@array/ortiga_propiedades</item>
+        <item>@array/palo_azul_propiedades</item>
+        <item>@array/palo_pichi_propiedades</item>
+        <item>@array/palo_santo_propiedades</item>
+        <item>@array/pasionaria_propiedades</item>
+        <item>@array/poleo_propiedades</item>
+        <item>@array/pezunia_vaca_propiedades</item>
+        <item>@array/regaliz_propiedades</item>
+        <item>@array/retamilla_propiedades</item>
+        <item>@array/romero_propiedades</item>
 
     </array>
 
@@ -557,4 +593,429 @@
         <item>29</item>
         <item>80</item>
     </array>
+
+    <array name="graviola_propiedades">
+        <item>45</item>
+        <item>2</item>
+        <item>12</item>
+        <item>14</item>
+        <item>15</item>
+        <item>17</item>
+        <item>53</item>
+        <item>75</item>
+        <item>98</item>
+    </array>
+
+    <array name="hamamelis_propiedades">
+        <item>46</item>
+        <item>2</item>
+        <item>3</item>
+        <item>8</item>
+        <item>15</item>
+        <item>23</item>
+        <item>29</item>
+        <item>33</item>
+        <item>44</item>
+        <item>70</item>
+    </array>
+
+    <array name="harpagofito_propiedades">
+        <item>47</item>
+        <item>3</item>
+        <item>15</item>
+        <item>24</item>
+        <item>27</item>
+        <item>43</item>
+        <item>53</item>
+        <item>74</item>
+        <item>103</item>
+    </array>
+
+    <array name="higuera_propiedades">
+        <item>48</item>
+        <item>1</item>
+        <item>25</item>
+        <item>43</item>
+        <item>58</item>
+        <item>82</item>
+    </array>
+
+    <array name="hinojo_propiedades">
+        <item>49</item>
+        <item>3</item>
+        <item>4</item>
+        <item>11</item>
+        <item>15</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>35</item>
+        <item>39</item>
+        <item>53</item>
+        <item>76</item>
+        <item>78</item>
+    </array>
+
+    <array name="hiperico_propiedades">
+        <item>50</item>
+        <item>3</item>
+        <item>4</item>
+        <item>24</item>
+        <item>33</item>
+        <item>51</item>
+        <item>65</item>
+        <item>78</item>
+    </array>
+
+    <array name="hisopo_propiedades">
+        <item>51</item>
+        <item>3</item>
+        <item>7</item>
+        <item>11</item>
+        <item>26</item>
+        <item>33</item>
+        <item>42</item>
+    </array>
+
+    <array name="jarilla_propiedades">
+        <item>52</item>
+        <item>15</item>
+        <item>26</item>
+        <item>33</item>
+        <item>54</item>
+    </array>
+
+    <array name="lapacho_propiedades">
+        <item>53</item>
+        <item>3</item>
+        <item>8</item>
+        <item>15</item>
+        <item>25</item>
+        <item>53</item>
+        <item>54</item>
+        <item>56</item>
+        <item>101</item>
+        <item>104</item>
+    </array>
+
+    <array name="lavanda_propiedades">
+        <item>54</item>
+        <item>2</item>
+        <item>4</item>
+        <item>15</item>
+        <item>17</item>
+        <item>20</item>
+        <item>27</item>
+        <item>33</item>
+        <item>36</item>
+    </array>
+
+    <array name="llanten_propiedades">
+        <item>55</item>
+        <item>1</item>
+        <item>3</item>
+        <item>4</item>
+        <item>8</item>
+        <item>9</item>
+        <item>15</item>
+        <item>25</item>
+        <item>33</item>
+        <item>47</item>
+        <item>53</item>
+    </array>
+
+    <array name="maca_propiedades">
+        <item>56</item>
+        <item>37</item>
+        <item>51</item>
+        <item>56</item>
+        <item>72</item>
+        <item>80</item>
+    </array>
+
+    <array name="malva_propiedades">
+        <item>57</item>
+        <item>1</item>
+        <item>3</item>
+        <item>11</item>
+        <item>15</item>
+        <item>24</item>
+        <item>25</item>
+        <item>32</item>
+        <item>34</item>
+        <item>47</item>
+        <item>53</item>
+        <item>76</item>
+        <item>82</item>
+        <item>106</item>
+    </array>
+
+    <array name="manzanilla_propiedades">
+        <item>58</item>
+        <item>11</item>
+        <item>15</item>
+        <item>24</item>
+        <item>27</item>
+        <item>34</item>
+        <item>36</item>
+        <item>53</item>
+    </array>
+
+    <array name="marcela_propiedades">
+        <item>59</item>
+        <item>2</item>
+        <item>4</item>
+        <item>11</item>
+        <item>15</item>
+        <item>25</item>
+        <item>26</item>
+        <item>35</item>
+        <item>57</item>
+    </array>
+
+    <array name="marrubio_propiedades">
+        <item>60</item>
+        <item>11</item>
+        <item>13</item>
+        <item>25</item>
+        <item>30</item>
+        <item>43</item>
+        <item>53</item>
+        <item>55</item>
+        <item>83</item>
+        <item>100</item>
+    </array>
+
+    <array name="mastuerzo_propiedades">
+        <item>61</item>
+        <item>3</item>
+        <item>7</item>
+        <item>15</item>
+        <item>27</item>
+        <item>30</item>
+        <item>31</item>
+        <item>53</item>
+        <item>74</item>
+        <item>99</item>
+        <item>104</item>
+    </array>
+
+    <array name="matico_propiedades">
+        <item>62</item>
+        <item>3</item>
+        <item>7</item>
+        <item>23</item>
+        <item>33</item>
+        <item>72</item>
+    </array>
+
+    <array name="melisa_propiedades">
+        <item>63</item>
+        <item>3</item>
+        <item>11</item>
+        <item>13</item>
+        <item>16</item>
+        <item>20</item>
+        <item>24</item>
+        <item>25</item>
+        <item>30</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>53</item>
+    </array>
+
+    <array name="meliloto_propiedades">
+        <item>64</item>
+        <item>10</item>
+        <item>33</item>
+        <item>34</item>
+        <item>47</item>
+        <item>53</item>
+        <item>60</item>
+    </array>
+
+    <array name="menta_propiedades">
+        <item>65</item>
+        <item>4</item>
+        <item>9</item>
+        <item>32</item>
+        <item>41</item>
+        <item>46</item>
+    </array>
+
+    <array name="mil_hombres_propiedades">
+        <item>66</item>
+        <item>2</item>
+        <item>4</item>
+        <item>8</item>
+        <item>12</item>
+        <item>14</item>
+        <item>19</item>
+        <item>27</item>
+        <item>37</item>
+        <item>53</item>
+    </array>
+
+    <array name="muna_muna_propiedades">
+        <item>67</item>
+        <item>1</item>
+        <item>2</item>
+        <item>11</item>
+        <item>15</item>
+        <item>25</item>
+        <item>72</item>
+        <item>100</item>
+    </array>
+
+    <array name="naranjo_propiedades">
+        <item>68</item>
+        <item>11</item>
+        <item>24</item>
+    </array>
+
+    <array name="nogal_propiedades">
+        <item>69</item>
+        <item>3</item>
+        <item>23</item>
+        <item>33</item>
+        <item>37</item>
+        <item>43</item>
+        <item>44</item>
+        <item>46</item>
+        <item>73</item>
+        <item>78</item>
+        <item>99</item>
+        <item>104</item>
+    </array>
+
+    <array name="olivo_propiedades">
+        <item>70</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>12</item>
+        <item>15</item>
+        <item>20</item>
+        <item>53</item>
+        <item>91</item>
+        <item>97</item>
+        <item>100</item>
+    </array>
+
+    <array name="ortiga_propiedades">
+        <item>71</item>
+        <item>8</item>
+        <item>9</item>
+        <item>15</item>
+        <item>19</item>
+        <item>23</item>
+        <item>25</item>
+        <item>27</item>
+        <item>29</item>
+        <item>33</item>
+        <item>53</item>
+        <item>61</item>
+        <item>87</item>
+        <item>95</item>
+    </array>
+
+    <array name="palo_azul_propiedades">
+        <item>72</item>
+        <item>15</item>
+        <item>53</item>
+    </array>
+
+    <array name="palo_pichi_propiedades">
+        <item>73</item>
+        <item>2</item>
+        <item>4</item>
+        <item>15</item>
+        <item>17</item>
+        <item>28</item>
+        <item>53</item>
+        <item>55</item>
+        <item>73</item>
+    </array>
+
+    <array name="palo_santo_propiedades">
+        <item>74</item>
+        <item>8</item>
+        <item>11</item>
+        <item>46</item>
+        <item>53</item>
+        <item>72</item>
+    </array>
+
+    <array name="pasionaria_propiedades">
+        <item>75</item>
+        <item>24</item>
+        <item>27</item>
+        <item>34</item>
+        <item>36</item>
+        <item>65</item>
+    </array>
+
+    <array name="poleo_propiedades">
+        <item>76</item>
+        <item>3</item>
+        <item>4</item>
+        <item>10</item>
+        <item>13</item>
+        <item>21</item>
+        <item>24</item>
+        <item>25</item>
+        <item>27</item>
+        <item>34</item>
+        <item>35</item>
+        <item>72</item>
+    </array>
+
+    <array name="pezunia_vaca_propiedades">
+        <item>77</item>
+        <item>3</item>
+        <item>4</item>
+        <item>22</item>
+        <item>33</item>
+        <item>43</item>
+        <item>53</item>
+    </array>
+
+    <array name="regaliz_propiedades">
+        <item>78</item>
+        <item>2</item>
+        <item>11</item>
+        <item>15</item>
+        <item>20</item>
+        <item>24</item>
+        <item>25</item>
+        <item>32</item>
+        <item>35</item>
+        <item>52</item>
+        <item>66</item>
+        <item>82</item>
+        <item>101</item>
+    </array>
+
+    <array name="retamilla_propiedades">
+        <item>79</item>
+        <item>7</item>
+    </array>
+
+    <array name="romero_propiedades">
+        <item>80</item>
+        <item>2</item>
+        <item>4</item>
+        <item>5</item>
+        <item>8</item>
+        <item>21</item>
+        <item>24</item>
+        <item>35</item>
+        <item>53</item>
+        <item>55</item>
+        <item>70</item>
+    </array>
+
+
 </resources>

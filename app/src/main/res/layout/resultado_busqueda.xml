@@ -18,6 +18,15 @@
         android:textSize="18sp"
         android:textStyle="bold" />
 
+    <TextView
+        android:id="@+id/tvSinResultados"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/busqueda_sin_resultados"
+        android:textAlignment="center"
+        android:textStyle="italic"
+        android:visibility="gone" />
+
     <ListView
         android:id="@+id/lvResultados"
         android:layout_width="409dp"

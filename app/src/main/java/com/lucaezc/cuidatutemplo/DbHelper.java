@@ -109,6 +109,12 @@ public class DbHelper extends SQLiteOpenHelper {
                 " EA JOIN " + DataSource.ALIMENTO_TABLE_NAME + " A ON EA." + DataSource.EnfermedadAlimento_Campos.ALIMENTO_ID + " = A." + DataSource.Alimento_Campos.ALIMENTO_ID + " WHERE EA." + DataSource.EnfermedadAlimento_Campos.ENFERMEDAD_ID + " = " + enfermedadId.toString(), null);
     }
 
+    public Cursor queryListAlimentosPropiedad(Integer propiedadId) {
+        SQLiteDatabase bd = this.getReadableDatabase();
+        return bd.rawQuery("SELECT A." + DataSource.Alimento_Campos.ALIMENTO_ID + ", A." + DataSource.Alimento_Campos.ALIMENTO_NOMBRE + " FROM " + DataSource.PROPIEDAD_ALIMENTO_TABLE_NAME +
+                " PA JOIN " + DataSource.ALIMENTO_TABLE_NAME + " A ON PA." + DataSource.PropiedadAlimento_Campos.ALIMENTO_ID + " = A." + DataSource.Alimento_Campos.ALIMENTO_ID + " WHERE PA." + DataSource.PropiedadAlimento_Campos.PROPIEDAD_ID + " = " + propiedadId.toString(), null);
+    }
+
     public Cursor BusquedaAlimentos(String searchString) {
         SQLiteDatabase bd = this.getReadableDatabase();
         return bd.rawQuery("SELECT " + DataSource.Alimento_Campos.ALIMENTO_ID + ", " + DataSource.Alimento_Campos.ALIMENTO_NOMBRE + ", " + DataSource.Alimento_Campos.ALIMENTO_INFO + ", " +
