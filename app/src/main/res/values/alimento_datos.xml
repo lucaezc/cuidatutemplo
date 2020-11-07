@@ -108,7 +108,7 @@
             \n\n\u2023El compuesto activo del ajo, la alicina, solo se forma cuando machacamos o partimos ajo crudo.
             \n\n\u2023El ajo contiene pocas calorías, pero es muy rico en vitamina C, vitamina B6 y manganeso. Además, también contiene pequeñas cantidades de otros nutrientes.</item>
         <item>@drawable/ajo</item>
-        <item>7</item>
+        <item>3</item>
     </array>
 
     <array name="alcachofa">
@@ -304,7 +304,7 @@
         <item>Castaño de indias</item>
         <item>\u2023Es un árbol asiático del cual se aprovecha prácticamente todo: desde las hojas, las cuales tienen beneficios sobre las articulaciones y los dolores menstruales, hasta la corteza relacionada con el tratamiento de malaria y problemas de la dermis o las semillas, la parte que más se aprovecha.</item>
         <item>@drawable/castano_de_indias</item>
-        <item>6</item>
+        <item>7</item>
     </array>
 
     <array name="cedron">
@@ -715,7 +715,7 @@
         <item>Meliloto</item>
         <item>\u2023Es una especie herbácea perteneciente a la familia de las leguminosas, que se cultiva como planta forrajera.
             \n\n\u2023Su característico olor dulce se intensifica por el secado y se debe a su alto contenido en cumarina.</item>
-<!--        <item>@drawable/meliloto</item>-->
+        <item>@drawable/meliloto</item>
         <item>2</item>
     </array>
 
@@ -792,7 +792,7 @@
         <item>\u2023El Palo azul es una planta medicinal perteneciente a la familia de las asteráceas, a la cual también se le conoce como Matorro negro.
             \n\n\u2023Originaria de América del Sur, esta planta posee una coloración azul-verdosa y un sabor especial que no es desagradable.
         </item>
-<!--        <item>@drawable/palo_azul</item>-->
+        <item>@drawable/palo_azul</item>
         <item>1</item>
     </array>
 
@@ -871,7 +871,7 @@
             \n\n\u2023También se usaba en las bodas de la antigua Roma y Grecia para simbolizar el amor y la felicidad de la pareja, considerándola una hierba sagrada.
         </item>
         <item>@drawable/romero</item>
-        <item>2</item>
+        <item>1</item>
     </array>
 
 </resources>

@@ -8,7 +8,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 public class DbHelper extends SQLiteOpenHelper {
 
     private static final String DATABASE_NAME = "CTT.db";
-    private static final int DATABASE_VERSION = 14;
+    private static final int DATABASE_VERSION = 16;
 
     public DbHelper(Context context) {
         super(context, DATABASE_NAME, null, DATABASE_VERSION);
@@ -25,7 +25,7 @@ public class DbHelper extends SQLiteOpenHelper {
             case 1:
                 scriptsDropVersion1(db);
                 scriptsVersion1(db);
-            case 13:
+            case 15:
                 scriptsDropVersion1(db);
                 scriptsVersion1(db);
         }

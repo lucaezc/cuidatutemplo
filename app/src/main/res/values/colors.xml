@@ -8,4 +8,12 @@
     <color name="progress_final">#007C02</color>
     <color name="progress_medio">#01BC04</color>
     <color name="progress_inicio">#01FD05</color>
+    <color name="hierbas">#B9F6CA</color>
+    <color name="plantas">#CCFF90</color>
+    <color name="verduras">#FFE57F</color>
+    <color name="frutas">#FF9E80</color>
+    <color name="legumbre">#FFCC80</color>
+    <color name="semilla">#CE93D8</color>
+    <color name="fruto_seco">#9FA8DA</color>
+
 </resources>
