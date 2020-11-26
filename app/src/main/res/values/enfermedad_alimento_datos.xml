@@ -80,6 +80,8 @@
         <item>@array/regaliz_enfermedades</item>
         <item>@array/retamilla_enfermedades</item>
         <item>@array/romero_enfermedades</item>
+        <item>@array/romerillo_enfermedades</item>
+
     </array>
 
     '<!--'
@@ -1524,5 +1526,40 @@
         <item>270</item>
     </array>
 
+    <array name="romerillo_enfermedades">
+        <item>81</item>
+        <item>62</item>
+        <item>74</item>
+        <item>93</item>
+        <item>116</item>
+        <item>185</item>
+        <item>256</item>
+    </array>
+
+    <array name="rompepiedra_enfermedades">
+        <item>82</item>
+        <item>6</item>
+        <item>7</item>
+        <item>10</item>
+        <item>23</item>
+        <item>35</item>
+        <item>51</item>
+        <item>56</item>
+        <item>57</item>
+        <item>61</item>
+        <item>64</item>
+        <item>65</item>
+        <item>66</item>
+        <item>72</item>
+        <item>95</item>
+        <item>107</item>
+        <item>117</item>
+        <item>133</item>
+        <item>176</item>
+        <item>198</item>
+        <item>206</item>
+        <item>215</item>
+        <item>236</item>
+    </array>
 
 </resources>

@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/coordinatorLayout"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:background="#C8E6C9">
 
 
     <TextView
@@ -43,7 +44,7 @@
         android:clickable="false"
         android:hint="@string/busqueda_4"
         android:inputType="text"
-        android:textSize="14sp"
+        android:textSize="18sp"
         app:layout_constraintEnd_toEndOf="@+id/tvBusqueda1"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="@+id/tvBusqueda1"
@@ -51,10 +52,13 @@
 
     <Button
         android:id="@+id/buscar"
+        style="@style/Widget.AppCompat.Button.Colored"
         android:layout_width="300dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
         android:text="@string/busqueda_3"
+        android:textSize="18sp"
+        android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="@+id/stringBusqueda"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="@+id/stringBusqueda"
@@ -72,21 +76,24 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:drawableEnd="@drawable/rb_alimento"
-            android:text="@string/menu_alimentos" />
+            android:text="@string/menu_alimentos"
+            android:textSize="18sp" />
 
         <RadioButton
             android:id="@+id/rbEnfermedades"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:drawableEnd="@drawable/rb_enfermedad"
-            android:text="@string/enfermedades" />
+            android:text="@string/enfermedades"
+            android:textSize="18sp" />
 
         <RadioButton
             android:id="@+id/rbPropiedades"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:drawableEnd="@drawable/rb_propiedad"
-            android:text="@string/menu_propiedades" />
+            android:text="@string/menu_propiedades"
+            android:textSize="18sp" />
     </RadioGroup>
 
 

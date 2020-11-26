@@ -1,5 +1,6 @@
 package com.lucaezc.cuidatutemplo;
 
+import android.app.Activity;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
@@ -11,6 +12,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
+import android.view.inputmethod.InputMethodManager;
 
 import static com.lucaezc.cuidatutemplo.R.*;
 
@@ -55,10 +58,6 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         int id = item.getItemId();
-        if (id == R.id.action_settings) {
-            return true;
-        }
-
         return super.onOptionsItemSelected(item);
     }
 
@@ -77,6 +76,9 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             case R.id.sobre_nosotros:
                 fragment = new AcercaDeFragment();
                 break;
+            case R.id.contacto:
+                fragment = new ContactoFragment();
+                break;
             default:
                 break;
         }
@@ -88,6 +90,16 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 
         DrawerLayout drawer = findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);
+        closeKeyboard(this);
         return true;
     }
+
+
+    public static void closeKeyboard(Activity activity) {
+        InputMethodManager imm = (InputMethodManager) activity.getSystemService(Activity.INPUT_METHOD_SERVICE);
+        View view = activity.getCurrentFocus(); // To get the correct window token, lets first get the currently focused view
+        if (view == null) { view = new View(activity); } // To get the window token when there is no currently focused view, we have a to create a view
+        imm.hideSoftInputFromWindow(view.getWindowToken(), 0); // hide the keyboard
+    }
+
 }

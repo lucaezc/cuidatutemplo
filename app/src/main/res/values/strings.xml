@@ -6,6 +6,7 @@
     <string name="menu_enfermedades">Recomendado para</string>
     <string name="menu_busqueda_avanzada">Búsqueda Avanzada</string>
     <string name="menu_acerca_de">Acerca de Cuida Tu Templo</string>
+    <string name="menu_contacto">Contactános</string>
     <string name="action_settings">Configuración</string>
     <string name="navigation_drawer_open">Abrir barra lateral</string>
     <string name="navigation_drawer_close">Ocultar barra lateral</string>
@@ -33,4 +34,18 @@
                             \nQuienes creen y aceptan a Jesús, reciben su Espíritu Santo, del cual el cuerpo es su templo, por lo que pasa a ser considerado santo. Si bien tenemos la libertad de elegir
                             cómo vamos a cuidar nuestro cuerpo, nuestro Creador espera que lo cuidemos y lo usemos de manera adecuada, porque fue hecho de manera maravillosa y formidable.</string>
     <string name="acercaDe3">Soy una creación maravillosa, y por eso te doy las gracias. Todo lo que haces es maravilloso, ¡de eso estoy bien seguro!\nSalmo 139:13"</string>
+    <string name="contacto_1">Si querés enviarnos tus comentarios, sugerencias o pedidos de alimentos faltantes, completá el siguiente formulario:</string>
+    <string name="contacto_2">Asunto</string>
+    <string name="contacto_3">Comentarios</string>
+    <string name="contacto_4">Enviar</string>
+    <string name="validacionContacto">Debe ingresar algún comentario</string>
+    <string name="mailContacto">Seleccione una aplicación de mail</string>
+    <string name="contacto_5">Muchas gracias por enviarnos sus comentarios!</string>
+
+    <string-array name="asunto">
+        <item>Pedidos de alimentos faltantes</item>
+        <item>Sugerencias</item>
+        <item>Información errónea</item>
+    </string-array>
+
 </resources>

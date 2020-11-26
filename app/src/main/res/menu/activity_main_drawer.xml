@@ -13,6 +13,10 @@
             android:icon="@drawable/busqueda_avanzada"
             android:title="@string/menu_busqueda_avanzada" />
         <item
+            android:id="@+id/contacto"
+            android:icon="@drawable/contacto"
+            android:title="@string/menu_contacto" />
+        <item
             android:id="@+id/sobre_nosotros"
             android:icon="@drawable/acerca_de"
             android:title="@string/menu_acerca_de" />

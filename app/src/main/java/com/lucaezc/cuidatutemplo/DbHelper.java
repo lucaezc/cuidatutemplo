@@ -8,7 +8,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 public class DbHelper extends SQLiteOpenHelper {
 
     private static final String DATABASE_NAME = "CTT.db";
-    private static final int DATABASE_VERSION = 16;
+    private static final int DATABASE_VERSION = 17;
 
     public DbHelper(Context context) {
         super(context, DATABASE_NAME, null, DATABASE_VERSION);
@@ -22,10 +22,7 @@ public class DbHelper extends SQLiteOpenHelper {
     @Override
     public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
         switch (oldVersion) {
-            case 1:
-                scriptsDropVersion1(db);
-                scriptsVersion1(db);
-            case 15:
+            case 16:
                 scriptsDropVersion1(db);
                 scriptsVersion1(db);
         }
@@ -88,19 +85,19 @@ public class DbHelper extends SQLiteOpenHelper {
     public Cursor queryListPropiedadesAlimento(Integer alimentoId) {
         SQLiteDatabase bd = this.getReadableDatabase();
         return bd.rawQuery("SELECT P." + DataSource.Propiedad_Campos.PROPIEDAD_ID + ", P." + DataSource.Propiedad_Campos.PROPIEDAD_NOMBRE + ", P." + DataSource.Propiedad_Campos.PROPIEDAD_DESC + " FROM " + DataSource.PROPIEDAD_ALIMENTO_TABLE_NAME +
-                                " PA JOIN " + DataSource.PROPIEDAD_TABLE_NAME + " P ON PA." + DataSource.PropiedadAlimento_Campos.PROPIEDAD_ID + " = P." + DataSource.Propiedad_Campos.PROPIEDAD_ID + " WHERE PA." + DataSource.PropiedadAlimento_Campos.ALIMENTO_ID + " = " + alimentoId.toString(), null);
+                                " PA JOIN " + DataSource.PROPIEDAD_TABLE_NAME + " P ON PA." + DataSource.PropiedadAlimento_Campos.PROPIEDAD_ID + " = P." + DataSource.Propiedad_Campos.PROPIEDAD_ID + " WHERE PA." + DataSource.PropiedadAlimento_Campos.ALIMENTO_ID + " = " + alimentoId.toString() + " ORDER BY P." + DataSource.Propiedad_Campos.PROPIEDAD_NOMBRE + " ASC", null);
     }
 
     public Cursor queryListBeneficiosAlimento(Integer alimentoId) {
         SQLiteDatabase bd = this.getReadableDatabase();
         return bd.rawQuery("SELECT B." + DataSource.Beneficio_Campos.BENEFICIO_ID + ", B." + DataSource.Beneficio_Campos.BENEFICIO_NOMBRE + " FROM " + DataSource.BENEFICIO_ALIMENTO_TABLE_NAME +
-                                " BA JOIN " + DataSource.BENEFICIO_TABLE_NAME + " B ON BA." + DataSource.BeneficioAlimento_Campos.BENEFICIO_ID + " = B." + DataSource.Beneficio_Campos.BENEFICIO_ID + " WHERE BA." + DataSource.BeneficioAlimento_Campos.ALIMENTO_ID + " = " + alimentoId.toString(), null);
+                                " BA JOIN " + DataSource.BENEFICIO_TABLE_NAME + " B ON BA." + DataSource.BeneficioAlimento_Campos.BENEFICIO_ID + " = B." + DataSource.Beneficio_Campos.BENEFICIO_ID + " WHERE BA." + DataSource.BeneficioAlimento_Campos.ALIMENTO_ID + " = " + alimentoId.toString() + " ORDER BY B." + DataSource.Beneficio_Campos.BENEFICIO_NOMBRE + " ASC", null);
     }
 
     public Cursor queryListEnfermedadesAlimento(Integer alimentoId) {
         SQLiteDatabase bd = this.getReadableDatabase();
         return bd.rawQuery("SELECT E." + DataSource.Enfermedad_Campos.ENFERMEDAD_ID + ", E." + DataSource.Enfermedad_Campos.ENFERMEDAD_NOMBRE + " FROM " + DataSource.ENFERMEDAD_ALIMENTO_TABLE_NAME +
-                                " EA JOIN " + DataSource.ENFERMEDAD_TABLE_NAME + " E ON EA." + DataSource.EnfermedadAlimento_Campos.ENFERMEDAD_ID + " = E." + DataSource.Enfermedad_Campos.ENFERMEDAD_ID + " WHERE EA." + DataSource.EnfermedadAlimento_Campos.ALIMENTO_ID + " = " + alimentoId.toString(), null);
+                                " EA JOIN " + DataSource.ENFERMEDAD_TABLE_NAME + " E ON EA." + DataSource.EnfermedadAlimento_Campos.ENFERMEDAD_ID + " = E." + DataSource.Enfermedad_Campos.ENFERMEDAD_ID + " WHERE EA." + DataSource.EnfermedadAlimento_Campos.ALIMENTO_ID + " = " + alimentoId.toString() + " ORDER BY E." + DataSource.Enfermedad_Campos.ENFERMEDAD_NOMBRE + " ASC", null);
     }
 
     public Cursor queryListAlimentosEnfermedad(Integer enfermedadId) {

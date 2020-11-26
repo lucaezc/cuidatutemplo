@@ -108,6 +108,7 @@
         <item>@array/adaptogeno</item>
         <item>@array/demulcente</item>
         <item>@array/antipruriginoso</item>
+        <item>@array/antimicrobiano</item>
 
     </array>
     '<!--'
@@ -757,6 +758,12 @@
         <item>107</item>
         <item>Antipruriginoso</item>
         <item>O antipicazón, inhibe el prurito que se asocia a menudo con quemaduras, reacciones alérgicas, eczema, psoriasis, varicela, infecciones por hongos, picaduras de insectos como las de los mosquitos, las pulgas, y los ácaros, y dermatitis de contacto y la urticaria causada por las plantas como la hiedra venenosa (urushiol inducida por dermatitis de contacto) o la ortiga.</item>
+    </array>
+
+    <array name="antimicrobiano">
+        <item>108</item>
+        <item>Antimicrobiano</item>
+        <item>Combate e impide la formación o el desarrollo de los microbios.</item>
     </array>
 
 </resources>

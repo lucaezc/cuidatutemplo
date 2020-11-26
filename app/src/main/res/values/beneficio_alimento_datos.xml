@@ -81,6 +81,9 @@
         <item>@array/regaliz_beneficios</item>
         <item>@array/retamilla_beneficios</item>
         <item>@array/romero_beneficios</item>
+        <item>@array/romerillo_beneficios</item>
+        <item>@array/rompepiedra_beneficios</item>
+
     </array>
 
     '<!--'
@@ -786,6 +789,24 @@
         <item>38</item>
         <item>77</item>
         <item>185</item>
+    </array>
+
+    <array name="romerillo_beneficios">
+        <item>81</item>
+        <item>1</item>
+        <item>22</item>
+        <item>29</item>
+    </array>
+
+    <array name="rompepiedra_beneficios">
+        <item>82</item>
+        <item>42</item>
+        <item>47</item>
+        <item>93</item>
+        <item>110</item>
+        <item>129</item>
+        <item>196</item>
+        <item>203</item>
     </array>
 
 </resources>

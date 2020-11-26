@@ -81,6 +81,8 @@
         <item>@array/regaliz</item>
         <item>@array/retamilla</item>
         <item>@array/romero</item>
+        <item>@array/romerillo</item>
+        <item>@array/rompepiedra</item>
 
 
     </array>
@@ -874,4 +876,21 @@
         <item>1</item>
     </array>
 
+    <array name="romerillo">
+        <item>81</item>
+        <item>Romero</item>
+        <item>\u2023Sus componentes son aminas, esteroides, triterpenos, azúcares, flavonoides, fenoles, taninos, glucósidos, benzoides, carbonato de sodio, potasio, calcio, ácido silicio, albúmina y un aceite esencial.</item>
+        <item>@drawable/romerillo</item>
+        <item>1</item>
+    </array>
+
+    <array name="rompepiedra">
+        <item>82</item>
+        <item>Rompepiedra</item>
+        <item>\u2023Conocida científicamente como Phyllanthus niruri, es muy abundante en las selvas o zonas tropicales, tales como Bahamas y Amazonas, y también en el sur de India y China, y Sudamérica.
+            \n\n\u2023Mide apenas unos 60 centímetros de alto, y tiene pequeños frutos de 3 mm de diámetro donde se “esconden” sus propiedades.
+        </item>
+        <item>@drawable/rompepiedra</item>
+        <item>1</item>
+    </array>
 </resources>

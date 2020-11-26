@@ -2,8 +2,6 @@ package com.lucaezc.cuidatutemplo;
 
 import android.content.Context;
 import android.database.Cursor;
-import android.graphics.Color;
-import android.text.Layout;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -50,10 +48,10 @@ public class AlimentosListAdapter extends CursorAdapter {
             case 5: // Legumbre
                 layout.setBackgroundColor(context.getResources().getColor(R.color.legumbre));
                 break;
-            case 7: // Semilla
+            case 6: // Semilla
                 layout.setBackgroundColor(context.getResources().getColor(R.color.semilla));
                 break;
-            case 8: // Fruto seco
+            case 7: // Fruto seco
                 layout.setBackgroundColor(context.getResources().getColor(R.color.fruto_seco));
                 break;
             default:
