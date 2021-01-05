@@ -1,4 +1,4 @@
-package com.lucaezc.cuidatutemplo;
+package com.holysoft.cuidatutemplo;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -15,7 +15,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.inputmethod.InputMethodManager;
 
-import static com.lucaezc.cuidatutemplo.R.*;
+import static com.holysoft.cuidatutemplo.R.*;
 
 public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
 

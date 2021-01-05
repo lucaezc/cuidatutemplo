@@ -83,8 +83,92 @@
         <item>@array/romero</item>
         <item>@array/romerillo</item>
         <item>@array/rompepiedra</item>
-
-
+        <item>@array/ruda</item>
+        <item>@array/salvia_blanca</item>
+        <item>@array/sarandi</item>
+        <item>@array/sen</item>
+        <item>@array/sombra_toro</item>
+        <item>@array/te_rojo</item>
+        <item>@array/te_verde</item>
+        <item>@array/tilo</item>
+        <item>@array/tusca</item>
+        <item>@array/una_gato</item>
+        <item>@array/uva_ursi</item>
+        <item>@array/valeriana</item>
+        <item>@array/vira_vira</item>
+        <item>@array/yacon</item>
+        <item>@array/hierbabuena</item>
+        <item>@array/hierba_carnicera</item>
+        <item>@array/stevia</item>
+        <item>@array/hierba_pollo</item>
+        <item>@array/zarzaparrilla</item>
+        <item>@array/frambuesa</item>
+        <item>@array/grosella_espinosa</item>
+        <item>@array/grosella_negra</item>
+        <item>@array/grosella_roja</item>
+        <item>@array/zarzamora</item>
+        <item>@array/frutilla</item>
+        <item>@array/limon</item>
+        <item>@array/mandarina</item>
+        <item>@array/naranja</item>
+        <item>@array/pomelo</item>
+        <item>@array/melon</item>
+        <item>@array/sandia</item>
+        <item>@array/palta</item>
+        <item>@array/carambola</item>
+        <item>@array/chirimoya</item>
+        <item>@array/coco</item>
+        <item>@array/datil</item>
+        <item>@array/maracuya</item>
+        <item>@array/kiwi</item>
+        <item>@array/litchi</item>
+        <item>@array/mango</item>
+        <item>@array/papaya</item>
+        <item>@array/pina</item>
+        <item>@array/platano</item>
+        <item>@array/banana</item>
+        <item>@array/albaricoque</item>
+        <item>@array/cereza</item>
+        <item>@array/ciruela</item>
+        <item>@array/higo</item>
+        <item>@array/caqui</item>
+        <item>@array/manzana</item>
+        <item>@array/melocoton</item>
+        <item>@array/nectarina</item>
+        <item>@array/nispero</item>
+        <item>@array/pera</item>
+        <item>@array/uva</item>
+        <item>@array/almendra</item>
+        <item>@array/avellana</item>
+        <item>@array/mani</item>
+        <item>@array/nuez</item>
+        <item>@array/pistacho</item>
+        <item>@array/brocoli</item>
+        <item>@array/col</item>
+        <item>@array/coliflor</item>
+        <item>@array/nabo</item>
+        <item>@array/rabano</item>
+        <item>@array/lechuga</item>
+        <item>@array/zuchini</item>
+        <item>@array/calabaza</item>
+        <item>@array/pepino</item>
+        <item>@array/arveja</item>
+        <item>@array/choclo</item>
+        <item>@array/champignon</item>
+        <item>@array/espinaca</item>
+        <item>@array/perejil</item>
+        <item>@array/acelga</item>
+        <item>@array/cilantro</item>
+        <item>@array/cebolla</item>
+        <item>@array/esparrago</item>
+        <item>@array/puerro</item>
+        <item>@array/remolacha</item>
+        <item>@array/berenjena</item>
+        <item>@array/papa</item>
+        <item>@array/morron</item>
+        <item>@array/tomate</item>
+        <item>@array/zanahoria</item>
+        <item>@array/ashwagandha</item>
     </array>
     '<!--'
         Campo 1: alimento_id
@@ -893,4 +977,893 @@
         <item>@drawable/rompepiedra</item>
         <item>1</item>
     </array>
+
+    <array name="ruda">
+        <item>83</item>
+        <item>Ruda</item>
+        <item>\u2023Los romanos la cultivaban y llevaban consigo cuando debían visitar un prisionero, ya que se decía que curaba el mal de ojo.
+            \n\n\u2023Los chinos la usaban para contrarrestar los malos pensamientos.
+            \n\n\u2023Los magos celtas decían que la ruda era una defensa contra los hechizos, además de usarla para sanar enfermos.
+            \n\n\u2023Tuvo un carácter sagrado para los hebreos, egipcios y caldeos, quiénes afirmaban que la ruda era un don de sus dioses.
+            \n\n\u2023En América, la ruda era usada por las comunidades aborígenes para hacer hechizos de amor y aseguraban que luego de poner una rama a la luz de la luna y entragarla al amado, se podría conquistar su corazón para siempre.
+        </item>
+        <item>@drawable/ruda</item>
+        <item>2</item>
+    </array>
+
+    <array name="salvia_blanca">
+        <item>84</item>
+        <item>Salvia Blanca</item>
+        <item>\u2023Pertenece a la familia de las lamiáceas, y en muchas culturas se considera sagrada desde hace cientos de años gracias a las infinidades propiedades de la salvia blanca.
+            \n\n\u2023Crece principalmente en México y el suroeste de Estados Unidos, en California.
+        </item>
+        <item>@drawable/salvia_blanca</item>
+        <item>2</item>
+    </array>
+
+    <array name="sarandi">
+        <item>85</item>
+        <item>Sarandi</item>
+        <item>\u2023Es un arbusto originario de Uruguay, Argentina, Brasil y Paraguay, que comúnmente alcanza entre dos y tres metros de altura, aunque los hay de hasta siete metros.</item>
+        <item>@drawable/sarandi</item>
+        <item>2</item>
+    </array>
+
+    <array name="sen">
+        <item>86</item>
+        <item>Sen</item>
+        <item>\u2023Es originaria de Egipto y Sudán, aunque también se cultiva en India o Somalia.</item>
+        <item>@drawable/sen</item>
+        <item>1</item>
+    </array>
+
+    <array name="sombra_toro">
+        <item>87</item>
+        <item>Sombra de toro</item>
+        <item>\u2023Su nombre se cree que es debido a la reputación de su follaje como sombra protectora del ganado.
+            \n\n\u2023Es una planta originaria de zonas tropicales y subtropicales de América, muy común en Argentina y en montes de Uruguay, así como en Brasil, Bolivia o Paraguay.
+        </item>
+        <item>@drawable/sombra_toro</item>
+        <item>2</item>
+    </array>
+
+    <array name="te_rojo">
+        <item>88</item>
+        <item>Té rojo</item>
+        <item>\u2023Es originario de la región china de Pu’er en Yunnan (región de la eterna primavera), donde todos sus habitantes lo conocen por té Pu Erh.
+            \n\n\u2023Según su antigua tradición, se elabora a partir de hojas de té verde post-fermentadas, que se almacenan en barricas de bambú durante al menos 2 años y hasta incluso más de 60. Es por este largo proceso de fermentación que las hojas de este té presentan esos tonos rojizos, un carácter marcadamente terroso y un color cobrizo de lo más característico.
+            \n\n\u2023Este té también suele conocerse como “té de los emperadores”, ya que su bebida era utilizada hace muchos siglos como parte de rituales milenarios y tradiciones orientales.
+        </item>
+        <item>@drawable/te_rojo</item>
+        <item>1</item>
+    </array>
+
+    <array name="te_verde">
+        <item>89</item>
+        <item>Té verde</item>
+        <item>\u2023El té verde es un tipo de té Camellia sinensis que no ha sufrido una oxidación durante su procesado, a diferencia del té negro, ya que las hojas se recogen frescas y después de someterse al secado, se prensan, enrollan, trituran y finalmente se secan.
+            \n\n\u2023La más remota referencia al té como una ayuda de la salud es de 2737 a. C.
+        </item>
+        <item>@drawable/te_verde</item>
+        <item>1</item>
+    </array>
+
+    <array name="tilo">
+        <item>90</item>
+        <item>Tilo</item>
+        <item>\u2023Los tilos han tenido una gran importancia simbólica en las tradiciones del norte y centro de Europa. Durante la Edad Media, bajo su sombra se celebraban asambleas, juicios, y también rituales iniciáticos. Para los países eslavos, entre ellos Rusia, el tilo es símbolo de poder y de victoria, y con su madera, muy flexible, se tallaban los antiguos iconos religiosos.
+            \n\n\u2023Para la tradición nórdica y germánica, por su parte, el tilo, consagrado a la diosa Freya, representa la amistad, la fidelidad y el rechazo a la violencia. En la tradición celta se decía que quien se identificaba con el espíritu del tilo era una persona dotada de una gran empatía, que sabía sacrificarse por los demás, y que prefería el diálogo a la confrontación.
+        </item>
+        <item>@drawable/tilo</item>
+        <item>2</item>
+    </array>
+
+    <array name="tusca">
+        <item>91</item>
+        <item>Tusca</item>
+        <item>\u2023Árbol o arbusto típico de Argentina. También está presente en Bolivia, el sur de Brasil, Chile, Uruguay y Paraguay.
+            \n\n\u2023Puede llegar a los 6 metros de alto, de porte robusto, ramas tortuosas y flores pequeñitas con un perfume exótico de color amarillo.
+        </item>
+        <item>@drawable/tusca</item>
+        <item>1</item>
+    </array>
+
+    <array name="una_gato">
+        <item>92</item>
+        <item>Uña de gato</item>
+        <item>\u2023Proviene principalmente de las selvas vírgenes de Perú, aunque también se encuentra en otras zonas del Amazonas en Brasil, Bolivia o la Guayana Francesa.
+            \n\n\u2023Las tribus indígenas preparaban té con ella hace 2.000 años debido a sus propiedades medicinales.
+        </item>
+        <item>@drawable/una_gato</item>
+        <item>2</item>
+    </array>
+
+    <array name="uva_ursi">
+        <item>93</item>
+        <item>Uva Ursi</item>
+        <item>\u2023Las bayas aparentemente son sabrosas para los osos, por lo que cuando la planta fue nombrada en latín uva-ursi, esto se tuvo en cuenta; uva, “uva, baya de la vid”, ursi, “oso”, es decir, “uva de oso”.
+            \n\n\u2023Todos los colonos nativos americanos, europeos y americanos primitivos usaron esta planta con fines medicinales.
+        </item>
+        <item>@drawable/uva_ursi</item>
+        <item>4</item>
+    </array>
+
+    <array name="valeriana">
+        <item>94</item>
+        <item>Valeriana</item>
+        <item>\u2023Esta planta proviene de Europa y de algunas zonas de Asia, aunque actualmente se encuentra con frecuencia en América del Norte.
+            \n\n\u2023Esta planta crece en las zonas húmedas y se ha extendido tanto que la podemos encontrar en países como India, Holanda, Bélgica, Colombia, Japón o las regiones de los andes de Argentina y Chile.
+        </item>
+        <item>@drawable/valeriana</item>
+        <item>2</item>
+    </array>
+
+    <array name="vira_vira">
+        <item>95</item>
+        <item>Vira vira</item>
+        <item>\u2023La raíz de la palabra es “Wenanwe” en idioma Mapudungún (lengua Mapuche) que significa “hierba para quitar la pena”.</item>
+        <item>@drawable/vira_vira</item>
+        <item>2</item>
+    </array>
+
+    <array name="yacon">
+        <item>96</item>
+        <item>Yacón</item>
+        <item>\u2023Su nombre deriva del vocablo quechua llaqum o yacu, que significa agua, aguachento o insípido.
+            \n\n\u2023Originario de Perú y de los pueblos andinos, fue consumido por culturas y pueblos originarios de Sudamérica.
+            \n\n\u2023Los incas propagaron su cultivo hacia Ecuador y Colombia y hacia el sur hasta el noroeste argentino.
+        </item>
+        <item>@drawable/yacon</item>
+        <item>4</item>
+    </array>
+
+    <array name="hierbabuena">
+        <item>97</item>
+        <item>Hierbabuena</item>
+        <item>\u2023Los usos medicinales de la hierbabuena se remontan al siglo VIII en Europa donde, según los registros históricos, era tanta la importancia de esta planta que el emperador Carlomagno emitió una orden donde exigía cultivarla en sus campos.</item>
+        <item>@drawable/hierbabuena</item>
+        <item>1</item>
+    </array>
+
+    <array name="hierba_carnicera">
+        <item>98</item>
+        <item>Hierba carnicera</item>
+        <item>\u2023Planta nativa de América del Sur, presente en Uruguay, Argentina, Chile, Paraguay, Venezuela o Brasil, así como en América del Norte, Europa, África y China. Crece al costado de caminos, en baldíos y jardínes, campos fértiles o tierras de cultivo.</item>
+        <item>@drawable/hierba_carnicera</item>
+        <item>1</item>
+    </array>
+
+    <array name="stevia">
+        <item>99</item>
+        <item>Stevia</item>
+        <item>\u2023Ha sido usada durante cientos de años por los Indios Guaraní de Paraguay, quienes dieron varios nombres a la planta, todos haciendo referencia a lo dulce de su hoja.
+            \n\n\u2023La planta comenzó a conocerse mundialmente cuando el naturista sudamericano, Bertoni, “descubrió” la planta a finales de los años 1800.
+            \n\n\u2023Durante la Segunda Guerra Mundial, la escasez de azúcar fue motivo para que Inglaterra iniciara una investigación de la Stevia para su uso como dulcificante. Su cultivo se inicio bajo la dirección del organismo Royal Botanicals Gardens at Kew, pero el proyecto fue abandonado después de la guerra. Japón dio inicio al cultivo de la Stevia en invernaderos durante 1950.  En 1970, Japón comenzó a usar la Stevia comercialmente.
+        </item>
+        <item>@drawable/stevia</item>
+        <item>2</item>
+    </array>
+
+    <array name="hierba_pollo">
+        <item>100</item>
+        <item>Hierba de pollo</item>
+        <item>\u2023La hierba de pollo está compuesta por esteroides triterpenos-alfa y beta-espinasterol, saponinas leucoantocianidinas, alcaloides, aceite esencial que está constituido por: canfeno, alfa-pineno, mirceno, p-cimeno, limoneno, alfa-cimeno, bomeol, curcumeno, alcanfor, acetato de bomilo, terpinoleno, linalol, alfa-terpineol, acetato de elemol, eudesmol y azuleno.</item>
+        <item>@drawable/hierba_pollo</item>
+        <item>1</item>
+    </array>
+
+    <array name="zarzaparrilla">
+        <item>101</item>
+        <item>Zarzaparrilla</item>
+        <item>\u2023Ya era recomendada por Dioscórides, un médico y botánico que vivió en la antigua Grecia entre los años 40 y 90 de nuestra era.
+            \n\n\u2023Es una planta rica en minerales como el hierro, el selenio, potasio, sodio, calcio, fósforo y magnesio, entre otros.
+            \n\n\u2023Su popularización se debe tanto a la famosa bebida de zarzaparrilla, una bebida gaseosa popular y muy barata, actualmente olvidada, pero sobre todo por sus propiedades medicinales.
+            \n\n\u2023Para su uso terapéutico se utiliza, sobre todo, sus raíces.
+        </item>
+        <item>@drawable/zarzaparrilla</item>
+        <item>2</item>
+    </array>
+
+    <array name="frambuesa">
+        <item>102</item>
+        <item>Frambuesa</item>
+        <item>\u2023La frambuesa es extremadamente rica en antioxidantes naturales, fibra soluble, ácido fólico y vitamina C.
+            \n\n\u2023Esta fruta está compuesta por calcio, hierro, potasio y magnesio. Y contiene ácido cítrico, flavonoides y folato.
+        </item>
+        <item>@drawable/frambuesa</item>
+        <item>4</item>
+    </array>
+
+    <array name="grosella_espinosa">
+        <item>103</item>
+        <item>Grosella Espinosa</item>
+        <item>\u2023Es la fruta más rica en sustancias antioxidantes.
+            \n\n\u2023Es rica en fibra, baja en calorías y contiene cantidades importantes de vitaminas C, a y E y minerales como el potasio, magnesio, calcio y hierro.
+        </item>
+        <item>@drawable/grosella_espinosa</item>
+        <item>4</item>
+    </array>
+
+    <array name="grosella_negra">
+        <item>104</item>
+        <item>Grosella Negra</item>
+        <item>\u2023La vitamina C se presenta en gran cantidad en estas pequeñas bayas, con más de 300 % del valor diario recomendado en una porción de 100 gramos.
+            \n\n\u2023El hierro es un mineral importante en las grosellas, proveyendo 20 % del valor diario recomendado.
+            \n\n\u2023Las vitaminas B en las grosellas son el ácido pantoténico (vitamina B5), piridoxina (vitamina B6) y tiamina (vitamina B1) y son esenciales.
+            \n\n\u2023Tienen el nivel más alto de calcio fácilmente absorbido por porción que cualquier otra fruta fresca.
+        </item>
+        <item>@drawable/grosella_negra</item>
+        <item>4</item>
+    </array>
+
+    <array name="grosella_roja">
+        <item>105</item>
+        <item>Grosella Roja</item>
+        <item>\u2023Son una gran fuente de vitamina C. Cada taza de grosellas contiene 42, mg de vitamina C. Esto corresponde al 46% de la dosis diaria recomendada de vitamina C en el caso de los hombres y el el 55% para las mujeres.
+            \n\n\u2023Una taza aporta 6,5 g de fibras, lo que supone un aporte del 17% de la cantidad diaria recomendada de fibra para los hombres y el 26% para las mujeres.
+            \n\n\u2023Aportan buenas cantidades de Vitamina A, potasio, hierro, magnesio, calcio y proteínas.
+        </item>
+        <item>@drawable/grosella_roja</item>
+        <item>4</item>
+    </array>
+
+    <array name="zarzamora">
+        <item>106</item>
+        <item>Zarzamora</item>
+        <item>\u2023Son una buena fuente de folato, fibra y fitoquímicos como la quercetina, kaemaferol, ácido elágico, lignans, catecoles, antocianinas y taninos.
+            \n\n\u2023Es rica en vitaminas A, B1, B2, C, E, en minerales como potasio, fósforos, hierro, sodio, magnesio, manganeso, selenio, zinc, cobre y calcio, y otros componentes como ácido fólico y niacina.
+        </item>
+        <item>@drawable/zarzamora</item>
+        <item>4</item>
+    </array>
+
+    <array name="frutilla">
+        <item>107</item>
+        <item>Frutilla</item>
+        <item>\u2023Posee grandes proporciones en ácido fólico, vitamina C, fibra y potasio. Además tiene muy pocas calorías y está libre de grasas.
+            \n\n\u2023Es alta en vitamina C, más aún que las naranjas. Pero también tienen otras vitaminas como E, B3, B6, B2, B1, B9 y A (betacaroteno).
+            \n\n\u2023Una taza de frutillas (200 gramos), contiene 8 veces más de ácido elágico que las demás frutas.
+            \n\n\u2023Son una buena fuente de minerales como potasio, fósforo, calcio, magnesio, sodio, hierro, yodo y zinc.
+            \n\n\u2023Para los griegos era un símbolo de la belleza, el amor (debido a su forma de corazón y al color rojo), la fertilidad, y capaz de hacer inmortales a los enamorados.
+        </item>
+        <item>@drawable/frutilla</item>
+        <item>4</item>
+    </array>
+
+    <array name="limon">
+        <item>108</item>
+        <item>Limón</item>
+        <item>\u2023Es el único cítrico que el cuerpo humano, al consumirlo, convierte en alcalino.
+            \n\n\u2023Es una gran fuente de vitamina B y C, además de un alimento rico en minerales como el potasio, selenio, calcio, hierro y magnesio.
+            \n\n\u2023Su origen hay que buscarlo en el Sudeste Asiático, entre el Himalaya y China. Los pueblos árabes lo introdujeron en Europa en el siglo XIII.
+        </item>
+        <item>@drawable/limon</item>
+        <item>4</item>
+    </array>
+
+    <array name="mandarina">
+        <item>109</item>
+        <item>Mandarina</item>
+        <item>\u2023Es un símbolo de suerte en China. Es incluso costumbre dar mandarinas de regalo en el año nuevo chino como forma de desear buena suerte.
+            \n\n\u2023Se trata de una rica fuente de vitamina A, vitamina C, vitamina B1 y B2, bioflavonoides (como el nobiletin), folato (similar al ácido fólico) y sales minerales, como el potasio, el calcio, el fósforo y el magnesio.
+        </item>
+        <item>@drawable/mandarina</item>
+        <item>4</item>
+    </array>
+
+    <array name="naranja">
+        <item>110</item>
+        <item>Naranja</item>
+        <item>\u2023Nos aporta vitamina C, beta-caroteno, luteína, tiamina y ácido fólico.
+            \n\n\u2023Es rica en flavonoides que refuerza la acción de la vitamina C con respecto al sistema inmunitario.
+            \n\n\u2023Aporta minerales como el potasio, magnesio, fósforo y calcio.
+        </item>
+        <item>@drawable/naranja</item>
+        <item>4</item>
+    </array>
+
+    <array name="pomelo">
+        <item>111</item>
+        <item>Pomelo</item>
+        <item>\u2023El aporte en vitamina C de un pomelo supera en 30 mg la ingesta diaria recomendada para este nutriente.
+            \n\n\u2023Su consumo nos proporciona provitamina A o betacaroteno, que se transforma en vitamina A en nuestro organismo conforme éste lo necesita.
+            \n\n\u2023Es rica en minerales como el potasio y el magnesio, incluye ácido fólico en su composición, además de carotenoides antioxidantes y vitaminas B2, B1 y A.
+            \n\n\u2023Está compuesto en un 90% de agua.
+        </item>
+        <item>@drawable/pomelo</item>
+        <item>4</item>
+    </array>
+
+    <array name="melon">
+        <item>112</item>
+        <item>Melón</item>
+        <item>\u2023Contiene un 90% de agua, carbohidratos (sacarosa y sucrosa) y poca fibra.
+            \n\n\u2023Es rico en vitaminas A y C y en minerales (potasio, magnesio, calcio y hierro).
+        </item>
+        <item>@drawable/melon</item>
+        <item>4</item>
+    </array>
+
+    <array name="sandia">
+        <item>113</item>
+        <item>Sandía</item>
+        <item>\u2023Contiene muchos nutrientes, como la vitamina A, B, C.
+            \n\n\u2023Entre sus minerales destaca el potasio, el magnesio, el manganeso, el hierro y el fósforo… además de muchos otros.
+            \n\n\u2023Junto al melón es una de las frutas con mayor cantidad de agua.
+        </item>
+        <item>@drawable/sandia</item>
+        <item>4</item>
+    </array>
+
+    <array name="palta">
+        <item>114</item>
+        <item>Palta</item>
+        <item>\u2023Tiene más potasio que los plátanos y las bananas.
+            \n\n\u2023Es un alimento rico en grasas. De hecho, el 77% de sus calorías provienen de la grasa, lo que lo convierten en uno de los alimentos más grasos de origen vegetal de todos los que existen.
+            \n\n\u2023Contienen alrededor de 20 vitaminas, entre ellas C, E, K y B-6, así como la riboflavina, niacina, ácido fólico, ácido pantoténico, magnesio y potasio. También proporcionan luteína, beta-caroteno y omega-3.
+        </item>
+        <item>@drawable/aguacate</item>
+        <item>4</item>
+    </array>
+
+    <array name="carambola">
+        <item>115</item>
+        <item>Carambola</item>
+        <item>\u2023Es un fruto con un altísimo contenido en agua, que contiene pequeñas cantidades de hidratos de carbono y menores de proteínas y grasas, por lo que tiene un bajo valor calórico.
+            \n\n\u2023Es rica en potasio, y poseer un contenido significativo en vitamina C y vitamina A.
+            \n\n\u2023La pulpa de la carambola es rica en oxalato de calcio y fibra soluble.
+        </item>
+        <item>@drawable/carambola</item>
+        <item>4</item>
+    </array>
+
+    <array name="chirimoya">
+        <item>116</item>
+        <item>Chirimoya</item>
+        <item>\u2023Es muy rica en vitaminas A,B y C, y rica en potasio, calcio, magnesio, hierro y zinc.
+            \n\n\u2023Tiene un valor calórico bastante elevado a causa de su alto contenido en azúcares, aunque es pobre en proteínas y grasas.
+        </item>
+        <item>@drawable/chirimoya</item>
+        <item>4</item>
+    </array>
+
+    <array name="coco">
+        <item>117</item>
+        <item>Coco</item>
+        <item>\u2023Entre los minerales que aporta se encuentran el selenio, el zinc y las vitaminas C, B1, y B3.
+            \n\n\u2023La carne del coco es una fuente vitamina B y de minerales como el potasio.
+            \n\n\u2023El aceite de coco, aún conteniendo grasas saturadas, es uno de los más saludables, ya que es rico en ácido láurico.
+            \n\n\u2023El agua de coco es un líquido refrescante y saludable que contiene más potasio que cuatro plátanos, es bajo en calorías y sin colesterol.
+        </item>
+        <item>@drawable/coco</item>
+        <item>4</item>
+    </array>
+
+    <array name="datil">
+        <item>118</item>
+        <item>Dátil</item>
+        <item>\u2023Son un fruto de bajo contenido acuoso, por lo que se dice que es un alimento naturalmente deshidratado. Concentra su contenido en carbohidratos ya que posee alrededor de un 65% en su interior y también, es una gran fuente de fibra (aproximadamente 8 gramos por cada 100 gramos).
+            \n\n\u2023Sus hidratos son acompañados de vitaminas y minerales varios entre los que destaca el calcio, potasio, magnesio y vitaminas del grupo B, sobre todo, ácido fólico.
+        </item>
+        <item>@drawable/datil</item>
+        <item>7</item>
+    </array>
+
+    <array name="maracuya">
+        <item>119</item>
+        <item>Maracuya</item>
+        <item>\u2023De su aporte en minerales destacan el calcio, el fósforo, el hierro, el potasio, el zinc, el magnesio y el selenio.
+            \n\n\u2023Aporta un elevado contenido en hierro y flavonoides.
+            \n\n\u2023Contiene vitaminas como la A, Vitaminas del grupo B (B2, B3, B6, B7, B9), C, E y colina.
+        </item>
+        <item>@drawable/maracuya</item>
+        <item>4</item>
+    </array>
+
+    <array name="kiwi">
+        <item>120</item>
+        <item>Kiwi</item>
+        <item>\u2023Es la fruta más completa desde el punto de vista nutricional: contiene el doble de vitamina C que una naranja, el doble de vitamina E que el aguacate y una buena cantidad de vitamina A, pero con muy pocas calorías.
+            \n\n\u2023En minerales, compite con el plátano en cantidad de potasio, además tiene magnesio, fósforo, cromo y una gran cantidad de ácido fólico.
+        </item>
+        <item>@drawable/kiwi</item>
+        <item>4</item>
+    </array>
+
+    <array name="litchi">
+        <item>121</item>
+        <item>Litchi</item>
+        <item>\u2023Tiene más vitamina C que la misma cantidad de naranjas o limones, una cantidad significativa de potasio y tanta fibra como una manzana (con la cáscara).
+            \n\n\u2023Tiene la concentración más elevada de polifenoles de todas la frutas.
+            \n\n\u2023Es rico en carbohidratos, minerales como el magnesio y el potasio y vitaminas de los grupos B y C.
+        </item>
+        <item>@drawable/litchi</item>
+        <item>4</item>
+    </array>
+
+    <array name="mango">
+        <item>122</item>
+        <item>Mango</item>
+        <item>\u2023Es rico en aminoácidos, vitaminas C y E, flavonoides, beta-caroteno, niacina, calcio, hierro, magnesio y el potasio.
+            \n\n\u2023También contiene zinc, sodio, vitamina A, B1, B2, B3, B5, B6 y B9, K y fósforo.
+            \n\n\u2023El árbol del mango (Mangifera indica) es nativo de regiones de la India, Sri Lanka y de las laderas del Himalaya desde donde se ha comercializado estos alimentos desde épocas remotas.
+        </item>
+        <item>@drawable/mango</item>
+        <item>4</item>
+    </array>
+
+    <array name="papaya">
+        <item>123</item>
+        <item>Papaya</item>
+        <item>\u2023Es una fruta originaria de América Tropical que se cultivaba desde antes del descubrimiento de América por Cristóbal Colón, quien se dice que la bautizó como "la fruta de los ángeles".
+            \n\n\u2023Tienen un alto contenido de vitaminas A, B y C; así como enzimas proteolíticas como la papaína y la quimopapaína.
+        </item>
+        <item>@drawable/papaya</item>
+        <item>4</item>
+    </array>
+
+    <array name="pina">
+        <item>124</item>
+        <item>Piña</item>
+        <item>\u2023Contiene vitamina C, B1, B6, ácido cólico y minerales como el sodio, potasio, calcio, magnesio, manganeso y hierro.
+            \n\n\u2023Tiene bromelina, que es una enzima que sólo se encuentra en las piñas con acción proteolítica para una mejor asimilación de los aminoácidos que las componen. La bromelina deshace las proteínas de igual manera que la pepsina, enzima que forma parte del jugo gástrico.
+        </item>
+        <item>@drawable/pina</item>
+        <item>4</item>
+    </array>
+
+    <array name="platano">
+        <item>125</item>
+        <item>Plátano</item>
+        <item>\u2023Posee un alto nivel de fibra, que alcanza los 3,6 gramos por cada taza (150 g). Además, también es una excelente fuente de vitaminas del complejo B, de calcio y de magnesio.</item>
+        <item>@drawable/platano</item>
+        <item>4</item>
+    </array>
+
+    <array name="banana">
+        <item>126</item>
+        <item>Banana</item>
+        <item>\u2023Debido a que posee minerales como el magnesio, potasio, ácido fólico y sustancias astringentes, la banana ofrece un elevado aporte de fibra, del tipo fruto-oligosacáridos.
+            \n\n\u2023Es pobre en grasas y en proteínas. Además posee betacaroteno, vitaminas del grupo B, sobre todo, ácido fólico, y C y vestigios de vitamina E.
+        </item>
+        <item>@drawable/banana</item>
+        <item>4</item>
+    </array>
+
+    <array name="albaricoque">
+        <item>127</item>
+        <item>Albaricoque</item>
+        <item>\u2023Tiene vitaminas A, C, folato o B9, niacina o B3, riboflavina o B2, tiamina o B1 y piridoxina o B6. Se suman también los minerales, como el potasio, el fósforo, el calcio, el hierro, el selenio y el zinc.
+            \n\n\u2023Es muy rico en azúcares y fibra.
+        </item>
+        <item>@drawable/albaricoque</item>
+        <item>4</item>
+    </array>
+
+    <array name="cereza">
+        <item>128</item>
+        <item>Cereza</item>
+        <item>\u2023Es la fruta que concentra mayor cantidad de flavonoides.
+            \n\n\u2023Es uno de los pocos alimentos que contienen melatonina.
+            \n\n\u2023Son una excelente fuente de beta-caroteno (vitamina A): contienen 19 veces más beta-caroteno que los arándanos y las fresas.
+            \n\n\u2023Son ricas en vitaminas C, E, potasio, magnesio, hierro, ácido fólico y fibra.
+        </item>
+        <item>@drawable/cereza</item>
+        <item>4</item>
+    </array>
+
+    <array name="ciruela">
+        <item>129</item>
+        <item>Ciruela</item>
+        <item>\u2023Contienen vitaminas A, C, B1, B2, B3, E y K; y minerales como el fósforo, hierro, sodio, magnesio, calcio, cobre, boro o zinc.
+            \n\n\u2023En China la ciruela simboliza el tesón frente a la adversidad, pues florece en invierno.
+            \n\n\u2023En Japón representa la riqueza y la abundancia, tal vez porque sus flores anuncian la primavera.
+        </item>
+        <item>@drawable/ciruela</item>
+        <item>4</item>
+    </array>
+
+    <array name="higo">
+        <item>130</item>
+        <item>Higo</item>
+        <item>\u2023El fruto fresco está compuesto por un 80 % de agua y un 12 % de azúcar. Una vez seco, estas proporciones varían fuertemente a menos de un 20 % y más de un 48%, respectivamente. Sus características nutricionales se potencian una vez secos.
+            \n\n\u2023Aportan mucha fibra y minerales como el calcio y el magnesio, especialmente concentrados en el higo seco.
+            \n\n\u2023Generalmente mencionado en la Biblia como un símbolo de paz y prosperidad.
+        </item>
+        <item>@drawable/higo</item>
+        <item>4</item>
+    </array>
+
+    <array name="caqui">
+        <item>131</item>
+        <item>Caqui</item>
+        <item>\u2023Ofrece cantidades apreciables de minerales y oligoelementos, entre los que destaca el calcio, potasio, cobre, hierro, magnesio y zinc.
+            \n\n\u2023Es fuente de grandes proporciones de vitamina A y carotenos y provee en menor medida vitaminas del grupo B y vitamina C al organismo.
+            \n\n\u2023Son fuente de variedad de fitoquímicos entre los que se encuentran flavonoides potentes como los taninos y catequinas y las antocianinas.
+        </item>
+        <item>@drawable/kaki</item>
+        <item>4</item>
+    </array>
+
+    <array name="manzana">
+        <item>132</item>
+        <item>Manzana</item>
+        <item>\u2023Es la fruta con mayor contenido en fructosa que existe.
+            \n\n\u2023Es rica en flavonoides, como la quercetina, de propiedades antioxidantes, y en taninos, con capacidad astringente y antiinflamatoria, así como en ácidos orgánicos como el ácido málico y el tartárico.
+            \n\n\u2023Sobre los minerales: tiene mayor concentración de potasio, y pequeñas cantidades de zinc, manganeso, azufre, flúor, yodo, boro o selenio.
+            \n\n\u2023El 85% de su composición es agua.
+        </item>
+        <item>@drawable/manzana</item>
+        <item>4</item>
+    </array>
+
+    <array name="melocoton">
+        <item>133</item>
+        <item>Melocotón</item>
+        <item>\u2023Rico en fibra y agua y tiene un alto contenido en carotenos.
+            \n\n\u2023Tiene vitaminas A, B1, B2, B6, C y E.
+            \n\n\u2023Tiene varios minerales, como: calcio, potasio, fósforo, azufre, hierro, magnesio, manganeso y cobre.
+        </item>
+        <item>@drawable/melocoton</item>
+        <item>4</item>
+    </array>
+
+    <array name="nectarina">
+        <item>134</item>
+        <item>Nectarina</item>
+        <item>\u2023Es una gran fuente de minerales como potasio, fósforo, magnesio, calcio, sodio, hierro, zinc, selenio y yodo.
+            \n\n\u2023Contiene carotenos y Vitaminas C, B6, B3, B2, B1.
+            \n\n\u2023Su composición por cada 100 gramos es de: Agua (87 gr), hidratos de carbono (9 gr), fibra (2 gramos) y proteína vegetal (1,5 g).
+            \n\n\u2023El 85% de la nectarina es agua.
+        </item>
+        <item>@drawable/nectarina</item>
+        <item>4</item>
+    </array>
+
+    <array name="nispero">
+        <item>135</item>
+        <item>Níspero</item>
+        <item>\u2023Entre los múltiples minerales que aporta destacan el potasio y el calcio, y en menor medida aporta fósforo, hierro o magnesio.
+            \n\n\u2023Es una fuente importante de vitaminas B1, B2 y C.
+        </item>
+        <item>@drawable/nispero</item>
+        <item>4</item>
+    </array>
+
+    <array name="pera">
+        <item>136</item>
+        <item>Pera</item>
+        <item>\u2023Es rica en ácido fólico, yodo, cobre, fósforo, potasio, boro, calcio, hierro, magnesio, sodio y azufre.
+            \n\n\u2023Poseen una gran cantidad de vitaminas, como la A, B1, B2, B3, C, E y K.
+        </item>
+        <item>@drawable/pera</item>
+        <item>4</item>
+    </array>
+
+    <array name="uva">
+        <item>137</item>
+        <item>Uva</item>
+        <item>\u2023Entre sus minerales destacan el potasio, el cobre y el hierro, aunque también calcio, fósforo, magnesio, manganeso, azufre y selenio.
+            \n\n\u2023La uva contiene fundamentalmente agua (80%), hidratos de carbono (17%) fácilmente asimilables, como glucosa, fructosa, sacarosa, dextrosa y levulosa, por lo que es una buena fuente de energía.
+            \n\n\u2023Existen aproximadamente unas 3.000 variedades de uvas en el mundo: unas se consumen frescas o secas y otras se utilizan en la producción de vino.
+        </item>
+        <item>@drawable/uva</item>
+        <item>4</item>
+    </array>
+
+    <array name="almendra">
+        <item>138</item>
+        <item>Almendra</item>
+        <item>\u2023El 54% de una almendra está compuesto por grasas "buenas" para nuestro cuerpo, como las monoinsaturadas y las poliinsaturadas. Solo una pequeñísima parte corresponde a las grasas saturadas o "malas" (menor al 10%).
+            \n\n\u2023100 g aportan 20 g de proteínas.
+        </item>
+        <item>@drawable/almendra</item>
+        <item>7</item>
+    </array>
+
+    <array name="avellana">
+        <item>139</item>
+        <item>Avellana</item>
+        <item>\u2023Entre sus nutrientes se destacan las vitaminas A, C, E, K , B1, B2 y B9, además potasio, calcio, magnesio, fósforo y manganeso.
+            \n\n\u2023Contiene: fibra, esteroles, L-arginina, vitamina E, antioxidantes, grasas saludables y ácidos grasos Omega-3.
+        </item>
+        <item>@drawable/avellana</item>
+        <item>7</item>
+    </array>
+
+    <array name="mani">
+        <item>140</item>
+        <item>Maní</item>
+        <item>\u2023Contienen complejo B, vitaminas como la niacina, riboflavina, tiamina, vitamina B6, vitamina B9, ácido pantoténico y otros más.
+            \n\n\u2023Es una buena fuente de minerales: potasio, manganeso, cobre, calcio, magnesio, hierro, selenio y zinc, entre otros.
+            \n\n\u2023En la cultura inca se empezó a usar el cacahuete y a extender esta semilla por todo el continente americano. Fue después de la colonización de América cuando este fruto se empezó a consumir en Europa y África.
+        </item>
+        <item>@drawable/cacahuete</item>
+        <item>5</item>
+    </array>
+
+    <array name="nuez">
+        <item>141</item>
+        <item>Nuez</item>
+        <item>\u2023Aporta proteínas, ácidos grasos, fibra, antioxidantes, esteroles, minerales (sodio, potasio, fósforo, hierro, zinc, magnesio, calcio), vitamina B y vitamina E.
+            \n\n\u2023Es rico en ácidos grasos poliinsaturados como es el caso del Omega-3 y del Omega-6.
+            \n\n\u2023Su nombre en griego significa "semilla de Dios".
+        </item>
+        <item>@drawable/nuez</item>
+        <item>7</item>
+    </array>
+
+    <array name="pistacho">
+        <item>142</item>
+        <item>Pistacho</item>
+        <item>\u2023Cuentan con un 20% de proteínas vegetales, un 28% de hidratos de carbono y un 10% de fibra. Dentro de su composición, un 45% son grasas (más de la mitad es monoinsaturado ácido oleico).
+            \n\n\u2023Presentan una alta cantidad de vitaminas B6 y E, además de magnesio, hierro, calcio, zinc, potasio y fósforo.
+            \n\n\u2023Es uno de los árboles de frutos secos con más antigüedad. De hecho, se encuentra un registro de su existencia en el primer libro de la Biblia, el Génesis.
+            \n\n\u2023En China es conocido como el “fruto seco feliz” y en Irán como “fruto seco sonriente".
+            \n\n\u2023El pistacho es de un costo elevado habitualmente, ya que la planta tarda alrededor de 7 años en producir el fruto.
+        </item>
+        <item>@drawable/pistacho</item>
+        <item>7</item>
+    </array>
+
+    <array name="brocoli">
+        <item>143</item>
+        <item>Brócoli</item>
+        <item>\u2023Es una excelente fuente de vitamina K, C, B1, B6, A, E, Cromo, ácido fólico, manganeso, potasio, fósfor, hierro y cobre. Además es rico en omega-3, proteína vegetal, calcio, zinc, y selenio.
+            \n\n\u2023También aporta azufre, el cual es responsable del olor característico.
+        </item>
+        <item>@drawable/brocoli</item>
+        <item>3</item>
+    </array>
+
+    <array name="col">
+        <item>144</item>
+        <item>Col</item>
+        <item>\u2023Contiene un 92% de agua, mucha fibra y pocas calorías e hidratos de carbono.
+            \n\n\u2023Es rica en vitaminas A, C, E y B y en minerales como el azufre, potasio, calcio. También contiene ácido fólico y arginina.
+        </item>
+        <item>@drawable/col_blanca</item>
+        <item>3</item>
+    </array>
+
+    <array name="coliflor">
+        <item>145</item>
+        <item>Coliflor</item>
+        <item>\u2023Es una buena fuente de vitamina K, proteínas, tiamina, riboflavina, niacina, magnesio, fósforo, fibra, vitamina B6, ácido fólico, ácido pantoténico, de potasio, y manganeso.</item>
+        <item>@drawable/coliflor</item>
+        <item>3</item>
+    </array>
+
+    <array name="nabo">
+        <item>146</item>
+        <item>Nabo</item>
+        <item>\u2023Es rico en vitamina C y en provitamina A, es una fuente de ácido fólico (vitamina B9), y contiene mucho calcio.
+            \n\n\u2023Aporta potasio, sodio, fósforo, magnesio, zinc, yodo y selenio.
+            \n\n\u2023En cocina era muy utilizada hasta el descubrimiento de la patata al ser defenestrado y sustituido por ésta tras el descubrimiento de América.
+            \n\n\u2023Las hojas del nabo o grelos son más nutritivas que el propio nabo.
+        </item>
+        <item>@drawable/nabo</item>
+        <item>3</item>
+    </array>
+
+    <array name="rabano">
+        <item>147</item>
+        <item>Rábano</item>
+        <item>\u2023Contiene vitaminas C, del complejo B, K, potasio, sodio, calcio, fósforo, magnesio, yodo, hierro y zinc.
+            \n\n\u2023Contiene más de 20 aminoácidos.
+        </item>
+        <item>@drawable/rabano</item>
+        <item>3</item>
+    </array>
+
+    <array name="lechuga">
+        <item>148</item>
+        <item>Lechuga</item>
+        <item>\u2023Es rica en vitaminas A, E, C, K, B1, B2, Y B3.
+            \n\n\u2023Minerales: potasio, hierro, calcio, fósforo, sodio, magnesio, manganeso, zinc y selenio.
+            \n\n\u2023Las hojas más externas de la lechuga concentran la mayor parte de vitaminas y minerales.
+        </item>
+        <item>@drawable/lechuga</item>
+        <item>3</item>
+    </array>
+
+    <array name="zuchini">
+        <item>149</item>
+        <item>Zuchini</item>
+        <item>\u2023El 95% de este alimento es agua.
+            \n\n\u2023Contiene vitaminas C, B6, B3, B1, B2, B9 o ácido fólico y carotenoides.
+            \n\n\u2023Posee minerales como potasio, fósforo, calcio, magnesio, sodio, hierro, zinc, yodo y selenio.
+        </item>
+        <item>@drawable/calabacin</item>
+        <item>3</item>
+    </array>
+
+    <array name="calabaza">
+        <item>150</item>
+        <item>Calabaza</item>
+        <item>\u2023Posee un 90% de agua en su composición, además de muy pocas calorías e hidratos de carbono.
+            \n\n\u2023Entre sus minerales y vitaminas destacan el ácido fólico, el potasio, el calcio, el magnesio, el hierro o el zinc, entre otros.
+            \n\n\u2023Tiene un alto contenido en betacarotenos, los mismos que le aportan su característico tono anaranjado. Sin olvidar la presencia de los ácidos oleigo, palmático, linoleico o los aminoácidos.
+            \n\n\u2023Las semillas son ricas en magnesio y zinc, además de contener ácidos grasos Omega-3.
+        </item>
+        <item>@drawable/calabaza</item>
+        <item>3</item>
+    </array>
+
+    <array name="pepino">
+        <item>151</item>
+        <item>Pepino</item>
+        <item>\u2023Entre sus vitaminas destacan las del grupo B. Además, contiene ácido fólico, vitamina C, calcio, hierro, magnesio, fósforo, potasio y zinc.</item>
+        <item>@drawable/pepino</item>
+        <item>3</item>
+    </array>
+
+    <array name="arveja">
+        <item>152</item>
+        <item>Arveja</item>
+        <item>\u2023Es rica en proteínas y carbohidratos, bajas en grasa y constituyen una buena fuente de fibra, vitaminas A, B y C.
+            \n\n\u2023Contiene minerales como fósforo y hierro, contiene una alta concentración en fibras y son bajas en grasas.
+        </item>
+        <item>@drawable/guisante</item>
+        <item>5</item>
+    </array>
+
+    <array name="choclo">
+        <item>153</item>
+        <item>Choclo</item>
+        <item>\u2023Es una de las plantas con más riqueza en vitamina B1.
+            \n\n\u2023Posee porcentajes bastante elevados de potasio, magnesio, hierro, fósforo y zinc.
+            \n\n\u2023Es un carbohidrato muy rico en fibra, contiene vitaminas A, B, D y E, grasas tipo omega 6 y ácido fólico.
+        </item>
+        <item>@drawable/maiz</item>
+        <item>3</item>
+    </array>
+
+    <array name="champignon">
+        <item>154</item>
+        <item>Champiñon</item>
+        <item>\u2023Son ricos en minerales como el selenio, magnesio, fósforo, yodo, calcio, zinc y potasio, vitaminas A, B1, B2, B3, B5, B9, C, D y E, proteína vegetal y fibra.</item>
+        <item>@drawable/champignon</item>
+        <item>3</item>
+    </array>
+
+    <array name="espinaca">
+        <item>155</item>
+        <item>Espinaca</item>
+        <item>\u2023Es rica en fibra, vitamina A, B1, B2, C, K, calcio, fósforo, hierro, ácido fólico, magnesio, zinc y betacarotenos.
+            \n\n\u2023Está compuesta mayormente por agua. La cantidad de grasas e hidratos de carbono es muy baja pero es uno de los vegetales que más proteínas contiene.
+            \n\n\u2023En el siglo VII llegó a China en manos del rey de Nepal como regalo para el emperador chino. Fueron luego los Moros que la introdujeron en España en el siglo XI y de ahí al resto de Europa.
+        </item>
+        <item>@drawable/espinaca</item>
+        <item>3</item>
+    </array>
+
+    <array name="perejil">
+        <item>156</item>
+        <item>Perejil</item>
+        <item>\u2023Contiene un alto contenido de hierro y vitamina C, A y K y muchas vitaminas del complejo B (destacan la vitamina B9 o ácido fólico, y la vitamina B2 o riboflavina).</item>
+        <item>@drawable/perejil</item>
+        <item>2</item>
+    </array>
+
+    <array name="acelga">
+        <item>157</item>
+        <item>Acelga</item>
+        <item>\u2023Contienen altas cantidades de vitamina A, B (B1, B3, B5, B6, B9), C , E Y K.
+            \n\n\u2023Es una fuente rica en minerales: cobre, calcio, sodio, potasio, hierro, fósforo.
+            \n\n\u2023Son muy ricas en fibra soluble.
+            \n\n\u2023Aporta ácidos grasos Omega-3, flavonoides y betacaroteno , luteína y zeaxantina.
+            \n\n\u2023Las hojas externas más verdes son también las más vitaminadas.
+        </item>
+        <item>@drawable/acelga</item>
+        <item>3</item>
+    </array>
+
+    <array name="cilantro">
+        <item>158</item>
+        <item>Cilantro</item>
+        <item>\u2023Nos aporta vitaminas C, K y A. Además, es una fuente de minerales como el manganeso, el potasio, el cobre, el hierro y el calcio.</item>
+        <item>@drawable/cilantro</item>
+        <item>2</item>
+    </array>
+
+    <array name="cebolla">
+        <item>159</item>
+        <item>Cebolla</item>
+        <item>\u2023Es rica en minerales y oligoelementos: calcio, magnesio, cloro, cobalto, cobre, hierro, fósforo, yodo, níquel, potasio, silicio, cinc, azufre y bromo; y también en vitaminas: A, B, C y E.
+            \n\n\u2023Contiene compuestos azufrados; su sustancia volátil al cortarla es lo que produce irritación en los ojos.
+            \n\n\u2023Durante la Edad Media se utilizaba como forma de pago y como regalo de bodas.
+        </item>
+        <item>@drawable/cebolla</item>
+        <item>3</item>
+    </array>
+
+    <array name="esparrago">
+        <item>160</item>
+        <item>Esparrago</item>
+        <item>\u2023Contiene fibra, calcio, fósforo, hierro, vitamina A, B1,  B2, C, así como ácido fólico y ascórbico.</item>
+        <item>@drawable/esparrago</item>
+        <item>3</item>
+    </array>
+
+    <array name="puerro">
+        <item>161</item>
+        <item>Puerro</item>
+        <item>\u2023Es una planta originaria de Europa y Asia Occidental, ya se consumía en el año 4000 a. C. en el antiguo Egipto. Los romanos también lo usaban mucho en su cocina, de hecho, dicen que el emperador Nerón era un apasionado de las sopas de puerros.
+            \n\n\u2023Tiene un alto contenido en vitamina C, B9 y ácido fólico, potasio y calcio.
+        </item>
+        <item>@drawable/puerro</item>
+        <item>3</item>
+    </array>
+
+    <array name="remolacha">
+        <item>162</item>
+        <item>Remolacha</item>
+        <item>\u2023Entre sus minerales están: calcio, hierro, magnesio, fósforo, potasio, sodio, zinc y cobre.
+            \n\n\u2023En vitaminas: vitamina C, tiamina, Rivoflavina, niacina, vitamina B6, vitamina E, vitamina K.
+        </item>
+        <item>@drawable/remolacha</item>
+        <item>3</item>
+    </array>
+
+    <array name="berenjena">
+        <item>163</item>
+        <item>Berenjena</item>
+        <item>\u2023Contiene Vitamina A, B1, B2, C, ácido fólico y es rica en minerales como el potasio, calcio, magnesio, hierro y fósforo.
+            \n\n\u2023Es baja en calorías, libre de grasa y posee gran cantidad de agua.
+            \n\n\u2023La piel de la berenjena tiene nasunina, un antioxidante que sólo posee esta hortaliza que se encarga de retardar el envejecimiento.
+            \n\n\u2023Este alimento ha de ser consumido siempre cocinado y nunca crudo. Esto es debido a la solanina, una sustancia que contiene y que puede ser muy tóxica.
+        </item>
+        <item>@drawable/berenjena</item>
+        <item>3</item>
+    </array>
+
+    <array name="papa">
+        <item>164</item>
+        <item>Papa</item>
+        <item>\u2023Es un tipo de carbohidrato complejo, lo que la convierte en una fuente de energía 100% natural.
+            \n\n\u2023Tiene vitamina C, B6, B3 y B9. Contiene minerales como potasio, manganeso y magnesio.
+        </item>
+        <item>@drawable/papa</item>
+        <item>3</item>
+    </array>
+
+    <array name="morron">
+        <item>165</item>
+        <item>Morrón</item>
+        <item>\u2023Son ricos en provitamina A, C y E, en menor cantidad están presentes otras vitaminas del grupo B como la B6, B3, B2 y B1.
+            \n\n\u2023En minerales se destacan el potasio, magnesio, calcio y fósforo.
+        </item>
+        <item>@drawable/pimiento</item>
+        <item>3</item>
+    </array>
+
+    <array name="tomate">
+        <item>166</item>
+        <item>Tomate</item>
+        <item>\u2023El 94% de este fruto está compuesto por agua.
+            \n\n\u2023Es rico en vitaminas A, B, C, E y K; en minerales como fósforo, calcio, zinc, magnesio, potasio, sodio y manganeso; en bioflavonoides y en licopeno.
+        </item>
+        <item>@drawable/tomate</item>
+        <item>4</item>
+    </array>
+
+    <array name="zanahoria">
+        <item>167</item>
+        <item>Zanahoria</item>
+        <item>\u2023Es rica en varios nutrientes como Vitamina A y Carotenoides. También contiene Vitamina B3 (niacina), Vitamina E y K y folatos.
+            \n\n\u2023Son una fuente de minerales como potasio, fósforo, magnesio, yodo y calcio.
+        </item>
+        <item>@drawable/zanahoria</item>
+        <item>3</item>
+    </array>
+
+    <array name="ashwagandha">
+        <item>168</item>
+        <item>Ashwagandha</item>
+        <item>\u2023La palabra o término "Ashwagandha" proviene del sánscrito "olor a caballo", que se refiere tanto a su olor característico como a su capacidad para aumentar la fuerza.</item>
+        <item>@drawable/ashwagandha</item>
+        <item>2</item>
+    </array>
+
 </resources>

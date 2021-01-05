@@ -14,8 +14,8 @@
         <item>Diarrea</item>
         <item>Acidez</item>
         <item>Dolor de estómago</item>
-        <item>Arteriosclerosis</item>
-        <item>Tensión alta</item>
+        <item>Arterosclerosis</item>
+        <item>Presión alta</item>
         <item>Menopausia</item>
         <item>Indigestión</item>
         <item>Artritis</item>
@@ -176,7 +176,7 @@
         <item>Hiperazotemia</item>
         <item>Hiperuricemia</item>
         <item>Cálculos renales</item>
-        <item>Insuficiencias renales</item>
+        <item>Insuficiencia renal</item>
         <item>Pie de atleta</item>
         <item>Dolores musculares</item>
         <item>Sinusitis</item>
@@ -223,7 +223,6 @@
         <item>Esquizofrenia</item>
         <item>Discinesia tardía</item>
         <item>Vitiligo</item>
-
         <item>Fibromialgia</item>
         <item>Rinitis alérgica</item>
         <item>Blefaritis</item>
@@ -302,11 +301,40 @@
         <item>Hemoptisis</item>
         <item>Neuralgia dental</item>
         <item>Gastroenteritis</item>
-        <item>Envejecimiento cutáneo</item>
+        <item>Envejecimiento de la piel</item>
         <item>Caries</item>
         <item>Sordera</item>
         <item>Ictus isquémico</item>
         <item>Cáncer de esófago</item>
         <item>Deshidratación</item>
+        <item>Síndrome metabólico</item>
+        <item>Cáncer de estómago</item>
+        <item>Cáncer de páncreas</item>
+        <item>Aborto espontáneo</item>
+        <item>Tabaquismo</item>
+        <item>Enfermedades neurodegenerativas</item>
+        <item>Infartos</item>
+        <item>Ceguera nocturna</item>
+        <item>Hernia</item>
+        <item>Amenorrea</item>
+        <item>Trastornos neuromusculares</item>
+        <item>Hipotensión</item>
+        <item>Cáncer de riñón</item>
+        <item>Pérdida de memoria</item>
+        <item>Osteopenia</item>
+        <item>Leucemia</item>
+        <item>Dermatitis alérgica</item>
+        <item>Bocio</item>
+        <item>Dislipidemia</item>
+        <item>Hiperactividad</item>
+        <item>Pérdida de concentración</item>
+        <item>Pancreatitis</item>
+        <item>Fractura ósea</item>
+        <item>Fotofobia</item>
+        <item>ACV</item>
+        <item>Síndrome del intestino irritable</item>
+        <item>Sarampión</item>
+        <item>Insolación</item>
+        <item>Salmonella</item>
     </array>
 </resources>

@@ -1,4 +1,4 @@
-package com.lucaezc.cuidatutemplo;
+package com.holysoft.cuidatutemplo;
 
 import android.content.Context;
 import android.database.Cursor;
@@ -25,7 +25,6 @@ public class AlimentosListAdapter extends CursorAdapter {
         TextView tvAlimentoNombre = view.findViewById(R.id.tvAlimentoNombre);
         View layout = view.findViewById(R.id.layoutAlimentos);
         ImageView imagen = view.findViewById(R.id.ivAlimento);
-
 
         int alimentoId = cursor.getInt(0);
         String alimentoNombre = cursor.getString(1);

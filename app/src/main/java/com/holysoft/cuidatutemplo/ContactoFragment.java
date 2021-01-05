@@ -1,6 +1,5 @@
-package com.lucaezc.cuidatutemplo;
+package com.holysoft.cuidatutemplo;
 
-import android.content.ActivityNotFoundException;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
@@ -42,7 +41,7 @@ public class ContactoFragment extends Fragment {
                 }else{
                     String asunto = getResources().getString(R.string.app_name) + " - " + asuntos.getSelectedItem().toString();
                     String cuerpoMail = comentarios.getText().toString();
-                    String[] addresses = new String[]{"corbo.luca@gmail.com"};
+                    String[] addresses = new String[]{"it.holysoft@gmail.com"};
 
                     Intent intent = new Intent(Intent.ACTION_SENDTO);
                     intent.setData(Uri.parse("mailto:"));

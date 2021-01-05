@@ -1,4 +1,4 @@
-package com.lucaezc.cuidatutemplo;
+package com.holysoft.cuidatutemplo;
 
 import android.content.Context;
 import android.database.Cursor;
@@ -7,8 +7,8 @@ import android.database.sqlite.SQLiteOpenHelper;
 
 public class DbHelper extends SQLiteOpenHelper {
 
-    private static final String DATABASE_NAME = "CTT.db";
-    private static final int DATABASE_VERSION = 17;
+    private static final String DATABASE_NAME = "CuidaTuTemplo.db";
+    private static final int DATABASE_VERSION = 1;
 
     public DbHelper(Context context) {
         super(context, DATABASE_NAME, null, DATABASE_VERSION);
@@ -21,10 +21,9 @@ public class DbHelper extends SQLiteOpenHelper {
 
     @Override
     public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
-        switch (oldVersion) {
-            case 16:
-                scriptsDropVersion1(db);
-                scriptsVersion1(db);
+        if (oldVersion == 1) {
+            scriptsDropVersion1(db);
+            scriptsVersion1(db);
         }
     }
 
@@ -115,7 +114,7 @@ public class DbHelper extends SQLiteOpenHelper {
     public Cursor BusquedaAlimentos(String searchString) {
         SQLiteDatabase bd = this.getReadableDatabase();
         return bd.rawQuery("SELECT " + DataSource.Alimento_Campos.ALIMENTO_ID + ", " + DataSource.Alimento_Campos.ALIMENTO_NOMBRE + ", " + DataSource.Alimento_Campos.ALIMENTO_INFO + ", " +
-                                DataSource.Alimento_Campos.ALIMENTO_IMAGEN + ", " + DataSource.Alimento_Campos.ALIMENTO_TIPO + " FROM " + DataSource.ALIMENTO_TABLE_NAME + " WHERE " + DataSource.Alimento_Campos.ALIMENTO_NOMBRE + " LIKE '" + searchString + "%'", null);
+                                DataSource.Alimento_Campos.ALIMENTO_IMAGEN + ", " + DataSource.Alimento_Campos.ALIMENTO_TIPO + " FROM " + DataSource.ALIMENTO_TABLE_NAME + " WHERE " + DataSource.Alimento_Campos.ALIMENTO_NOMBRE + " LIKE '" + searchString + "%' ORDER BY " + DataSource.Alimento_Campos.ALIMENTO_NOMBRE + " ASC", null);
     }
 
     public Cursor BusquedaPropiedades(String searchString) {

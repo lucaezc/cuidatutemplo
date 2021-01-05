@@ -1,4 +1,4 @@
-package com.lucaezc.cuidatutemplo;
+package com.holysoft.cuidatutemplo;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -29,7 +29,7 @@ public class Splash extends Activity {
 
         barra = (ProgressBar) findViewById(R.id.barraProgreso);
         barra.setProgress(0);
-        final long intervalo = 10;
+        final long intervalo = 5;
         timer = new Timer();
         timer.schedule(new TimerTask() {
             @Override

@@ -5,7 +5,7 @@
         <item>Previene problemas digestivos</item>
         <item>Revitaliza el sistema inmune</item>
         <item>Reduce la presión sanguínea</item>
-        <item>Mejora salud ósea</item>
+        <item>Mejora la salud ósea</item>
         <item>Mejora el rendimiento físico</item>
         <item>Mejora la circulación sanguínea</item>
         <item>Estimula las defensas</item>
@@ -126,7 +126,7 @@
         <item>Robustece los glóbulos blancos</item>
         <item>Reduce en un 85% la probabilidad de contraer influenza</item>
         <item>Ayuda a adaptar el organismo para los cambios de estación</item>
-        <item>Reduce la aparición de arrugas en un 55%</item>
+        <item>Previene la formación de arrugas</item>
         <item>Aumenta la saciedad</item>
         <item>Regula el sistema nervioso</item>
         <item>Reduce los niveles de azúcar en sangre</item>
@@ -181,7 +181,7 @@
         <item>Ayuda a saciar la sed</item>
         <item>Ayuda a reducir los efectos secundarios de los antibióticos</item>
         <item>Ayuda en la coagulación de la sangre</item>
-        <item>Mejora la fertilidad humana</item>
+        <item>Mejora la fertilidad</item>
         <item>Incrementa el número y movilidad de los espermatozoides, el volumen seminal y la cantidad de esperma por eyaculación.</item>
         <item>Incrementa la actividad del páncreas</item>
         <item>Previene el envejecimiento</item>
@@ -223,7 +223,7 @@
         <item>Previene las infecciones posparto</item>
         <item>Facilita la asimilación del calcio</item>
         <item>Disminuye los movimientos del intestino y evita la formación de los gases</item>
-        <item>Impide defectos en el feto durante la formación</item>
+        <item>Durante el embarazo impide defectos en el feto durante la formación</item>
         <item>Proteje los ojos contra el daño de la luz ultravioleta</item>
         <item>Ayuda a mantener la salud de la córnea y los vasos sanguíneos de los ojos</item>
         <item>Aumenta el flujo sanguíneo en el corazón</item>
@@ -235,5 +235,73 @@
         <item>Mejora la absorción de nutrientes</item>
         <item>Facilita la absorción de hierro</item>
         <item>Ralentiza la absorsión del azúcar</item>
+        <item>Reduce la acumulación de grasa en las células grasas</item>
+        <item>Interviene en el proceso de eliminación de amoniaco del hígado</item>
+        <item>Durante el embarazo, ayuda en el desarrollo del cerebro del feto, nervios e incluso del sistema inmunitario</item>
+        <item>Mejora la flora intestinal</item>
+        <item>Mejora el sistema renal</item>
+        <item>Durante el embarazo, ayuda a la formación del colágeno del feto</item>
+        <item>Mejora la salud ocular</item>
+        <item>Facilita la digestión de las proteínas</item>
+        <item>Alimenta a aquellas bacterias que son esenciales para la salud gastrointestinal</item>
+        <item>Ayuda a regular el ritmo cardíaco</item>
+        <item>Ayuda a regular los ciclos de sueño del cuerpo</item>
+        <item>Acelera la recuperación muscular luego de una sesión de entrenamiento</item>
+        <item>Favorece la buena visión y el cuidado de los ojos</item>
+        <item>Previene la formación de coágulos en la sangre</item>
+        <item>Facilita la expulsión de mucosidades de los pulmones</item>
+        <item>Restaura y nutre las mucosas</item>
+        <item>Favorece la densidad ósea</item>
+        <item>Hidrata los ojos y mejora el mecanismo de visión</item>
+        <item>Mantiene el nivel de agua en todas las células del organismo</item>
+        <item>Aplaca la sed</item>
+        <item>Protege la membrana de la mucosa intestinal de sustancias tóxicas</item>
+        <item>Estimula la secreción de jugos gástricos y digestivos</item>
+        <item>Facilita el crecimiento óseo, de los tejidos y del sistema nervioso en los niños</item>
+        <item>Contribuye a descalcificar las arterias</item>
+        <item>Favorece el buen estado de las arterias y el corazón</item>
+        <item>Mejora la vasodilatación</item>
+        <item>Ayuda al crecimiento del cabello</item>
+        <item>Facilita el tránsito intestinal</item>
+        <item>Ayuda a una correcta ovulación pre embarazo</item>
+        <item>Ayuda al páncreas a procesar más fácilmente el azúcar</item>
+        <item>Favorece el buen estado de la microbiota</item>
+        <item>Aumenta la fertilidad masculina</item>
+        <item>Fortalece los dientes</item>
+        <item>Mejora el rendimiento sexual</item>
+        <item>Ayuda al buen funcionamiento de la tiroides</item>
+        <item>Ayuda a proteger el revestimiento del estómago</item>
+        <item>Ayuda a equilibrar los electrolitos del cuerpo</item>
+        <item>Durante el embarazo, favorece el desarrollo del bebé</item>
+        <item>Ayuda a la regeneración de colágeno</item>
+        <item>Facilita la digestión de alimentos fritos o grasos</item>
+        <item>Eleva la producción de bilis</item>
+        <item>Desintoxica la vesícula</item>
+        <item>Limpia el colon</item>
+        <item>Mantiene el buen aspecto de la piel</item>
+        <item>Favorece la expulsión de gases intestinales</item>
+        <item>Mejora la salud cerebral</item>
+        <item>Elimina las toxinas de la piel</item>
+        <item>Deshincha los ojos</item>
+        <item>Fortalece el cabello y le aporta salud</item>
+        <item>Favorece la conectividad neuronal</item>
+        <item>Fortalece las articulaciones</item>
+        <item>Repara la mucosa intestinal</item>
+        <item>Ayuda a eliminar las grasas saturadas</item>
+        <item>Contribuye al correcto funcionamiento del sistema muscular</item>
+        <item>Favorece el buen funcionamiento del sistema nervioso</item>
+        <item>Aumenta la sensibilidad a la insulina</item>
+        <item>Promueve el transporte y depósito de oxígeno en los tejidos</item>
+        <item>Aumenta la fuerza muscular</item>
+        <item>Fortalece los glóbulos rojos</item>
+        <item>Ayuda a que la irrigación del pene sea mejor</item>
+        <item>Protege las membranas celulares del cerebro</item>
+        <item>Favorece la digestión de las grasas</item>
+        <item>Reduce el cortisol</item>
+        <item>Favorece la relajación mental</item>
+        <item>Favorece la producción de hormonas tiroideas</item>
+        <item>Aumenta la resistencia ósea a las fracturas</item>
+        <item>Aumenta los niveles de testosterona</item>
+
     </array>
 </resources>

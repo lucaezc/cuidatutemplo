@@ -109,6 +109,8 @@
         <item>@array/demulcente</item>
         <item>@array/antipruriginoso</item>
         <item>@array/antimicrobiano</item>
+        <item>@array/depurativo_intestinal</item>
+        <item>@array/quelante</item>
 
     </array>
     '<!--'
@@ -163,7 +165,7 @@
     <array name="depurativo">
         <item>8</item>
         <item>Depurativo</item>
-        <item>Depura o purifica los líquidos del cuerpo, en especial la sangre.</item>
+        <item>Depura o purifica los líquidos del cuerpo.</item>
     </array>
 
     <array name="descongestivo">
@@ -764,6 +766,18 @@
         <item>108</item>
         <item>Antimicrobiano</item>
         <item>Combate e impide la formación o el desarrollo de los microbios.</item>
+    </array>
+
+    <array name="depurativo_intestinal">
+        <item>109</item>
+        <item>Depurativo intestinal</item>
+        <item>Limpia los intestinos.</item>
+    </array>
+
+    <array name="quelante">
+        <item>110</item>
+        <item>Quelante</item>
+        <item>Extrae metales tóxicos del cuerpo.</item>
     </array>
 
 </resources>

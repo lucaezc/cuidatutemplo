@@ -1,4 +1,4 @@
-package com.lucaezc.cuidatutemplo;
+package com.holysoft.cuidatutemplo;
 
 import android.database.Cursor;
 import android.os.Bundle;
@@ -7,19 +7,18 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ListView;
-import android.widget.TextView;
 
-public class TabPropiedadesFragment extends Fragment {
+public class TabBeneficiosFragment extends Fragment {
     Integer alimentoId;
     ListView lv;
 
-    public TabPropiedadesFragment() { }
+    public TabBeneficiosFragment() { }
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-        View v = inflater.inflate(R.layout.tab_propiedades, container, false);
+        View v = inflater.inflate(R.layout.tab_beneficios, container, false);
         alimentoId = getArguments().getInt("alimentoId");
-        lv = v.findViewById(R.id.lvPropAlimento);
+        lv = v.findViewById(R.id.lvBenAlimento);
         return v;
     }
 
@@ -28,8 +27,10 @@ public class TabPropiedadesFragment extends Fragment {
 
         DbHelper db = new DbHelper(getActivity());
 
-        Cursor cPropiedadesAlimento = db.queryListPropiedadesAlimento(alimentoId);
-        PropiedadesListAdapter propsAlimentoAdapter = new PropiedadesListAdapter(getActivity(), cPropiedadesAlimento);
-        lv.setAdapter(propsAlimentoAdapter);
+        Cursor cBeneficiosAlimento = db.queryListBeneficiosAlimento(alimentoId);
+        BeneficiosListAdapter beneficiosAlimentoAdapter = new BeneficiosListAdapter(getActivity(), cBeneficiosAlimento);
+        lv.setAdapter(beneficiosAlimentoAdapter);
+        lv.setDivider(null);
+        lv.setDividerHeight(0);
     }
 }

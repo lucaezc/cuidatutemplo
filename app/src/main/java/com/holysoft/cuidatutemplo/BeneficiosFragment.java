@@ -1,4 +1,4 @@
-package com.lucaezc.cuidatutemplo;
+package com.holysoft.cuidatutemplo;
 
 import android.database.Cursor;
 import android.os.Bundle;
@@ -8,11 +8,10 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ListView;
 
-public class PropiedadesFragment extends Fragment {
-
+public class BeneficiosFragment extends Fragment {
     ListView lv;
 
-    public PropiedadesFragment() { }
+    public BeneficiosFragment() { }
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
@@ -21,13 +20,14 @@ public class PropiedadesFragment extends Fragment {
         return rootView;
     }
 
+    @Override
     public void onActivityCreated(Bundle savedInstanceState) {
         super.onActivityCreated(savedInstanceState);
 
         DbHelper db = new DbHelper(getActivity());
 
-        Cursor cursorPropiedades = db.queryListPropiedades();
-        PropiedadesListAdapter propiedadAdapter = new PropiedadesListAdapter(getActivity(), cursorPropiedades);
-        lv.setAdapter(propiedadAdapter);
+        Cursor cursorBeneficios = db.queryListBeneficios();
+        BeneficiosListAdapter beneficioAdapter = new BeneficiosListAdapter(getActivity(), cursorBeneficios);
+        lv.setAdapter(beneficioAdapter);
     }
 }
