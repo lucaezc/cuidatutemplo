@@ -4,6 +4,7 @@ import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
+import java.text.Normalizer;
 
 public class DbHelper extends SQLiteOpenHelper {
 
@@ -83,50 +84,72 @@ public class DbHelper extends SQLiteOpenHelper {
 
     public Cursor queryListPropiedadesAlimento(Integer alimentoId) {
         SQLiteDatabase bd = this.getReadableDatabase();
-        return bd.rawQuery("SELECT P." + DataSource.Propiedad_Campos.PROPIEDAD_ID + ", P." + DataSource.Propiedad_Campos.PROPIEDAD_NOMBRE + ", P." + DataSource.Propiedad_Campos.PROPIEDAD_DESC + " FROM " + DataSource.PROPIEDAD_ALIMENTO_TABLE_NAME +
-                                " PA JOIN " + DataSource.PROPIEDAD_TABLE_NAME + " P ON PA." + DataSource.PropiedadAlimento_Campos.PROPIEDAD_ID + " = P." + DataSource.Propiedad_Campos.PROPIEDAD_ID + " WHERE PA." + DataSource.PropiedadAlimento_Campos.ALIMENTO_ID + " = " + alimentoId.toString() + " ORDER BY P." + DataSource.Propiedad_Campos.PROPIEDAD_NOMBRE + " ASC", null);
+        return bd.rawQuery("SELECT P." + DataSource.Propiedad_Campos.PROPIEDAD_ID + ", P." + DataSource.Propiedad_Campos.PROPIEDAD_NOMBRE + ", P." + DataSource.Propiedad_Campos.PROPIEDAD_DESC +
+                                " FROM " + DataSource.PROPIEDAD_ALIMENTO_TABLE_NAME + " PA JOIN " + DataSource.PROPIEDAD_TABLE_NAME + " P ON PA." + DataSource.PropiedadAlimento_Campos.PROPIEDAD_ID + " = P." + DataSource.Propiedad_Campos.PROPIEDAD_ID +
+                                " WHERE PA." + DataSource.PropiedadAlimento_Campos.ALIMENTO_ID + " = " + alimentoId.toString() +
+                                " ORDER BY P." + DataSource.Propiedad_Campos.PROPIEDAD_NOMBRE + " ASC", null);
     }
 
     public Cursor queryListBeneficiosAlimento(Integer alimentoId) {
         SQLiteDatabase bd = this.getReadableDatabase();
-        return bd.rawQuery("SELECT B." + DataSource.Beneficio_Campos.BENEFICIO_ID + ", B." + DataSource.Beneficio_Campos.BENEFICIO_NOMBRE + " FROM " + DataSource.BENEFICIO_ALIMENTO_TABLE_NAME +
-                                " BA JOIN " + DataSource.BENEFICIO_TABLE_NAME + " B ON BA." + DataSource.BeneficioAlimento_Campos.BENEFICIO_ID + " = B." + DataSource.Beneficio_Campos.BENEFICIO_ID + " WHERE BA." + DataSource.BeneficioAlimento_Campos.ALIMENTO_ID + " = " + alimentoId.toString() + " ORDER BY B." + DataSource.Beneficio_Campos.BENEFICIO_NOMBRE + " ASC", null);
+        return bd.rawQuery("SELECT B." + DataSource.Beneficio_Campos.BENEFICIO_ID + ", B." + DataSource.Beneficio_Campos.BENEFICIO_NOMBRE +
+                                " FROM " + DataSource.BENEFICIO_ALIMENTO_TABLE_NAME + " BA JOIN " + DataSource.BENEFICIO_TABLE_NAME + " B ON BA." + DataSource.BeneficioAlimento_Campos.BENEFICIO_ID + " = B." + DataSource.Beneficio_Campos.BENEFICIO_ID +
+                                " WHERE BA." + DataSource.BeneficioAlimento_Campos.ALIMENTO_ID + " = " + alimentoId.toString() +
+                                " ORDER BY B." + DataSource.Beneficio_Campos.BENEFICIO_NOMBRE + " ASC", null);
     }
 
     public Cursor queryListEnfermedadesAlimento(Integer alimentoId) {
         SQLiteDatabase bd = this.getReadableDatabase();
-        return bd.rawQuery("SELECT E." + DataSource.Enfermedad_Campos.ENFERMEDAD_ID + ", E." + DataSource.Enfermedad_Campos.ENFERMEDAD_NOMBRE + " FROM " + DataSource.ENFERMEDAD_ALIMENTO_TABLE_NAME +
-                                " EA JOIN " + DataSource.ENFERMEDAD_TABLE_NAME + " E ON EA." + DataSource.EnfermedadAlimento_Campos.ENFERMEDAD_ID + " = E." + DataSource.Enfermedad_Campos.ENFERMEDAD_ID + " WHERE EA." + DataSource.EnfermedadAlimento_Campos.ALIMENTO_ID + " = " + alimentoId.toString() + " ORDER BY E." + DataSource.Enfermedad_Campos.ENFERMEDAD_NOMBRE + " ASC", null);
+        return bd.rawQuery("SELECT E." + DataSource.Enfermedad_Campos.ENFERMEDAD_ID + ", E." + DataSource.Enfermedad_Campos.ENFERMEDAD_NOMBRE +
+                                " FROM " + DataSource.ENFERMEDAD_ALIMENTO_TABLE_NAME + " EA JOIN " + DataSource.ENFERMEDAD_TABLE_NAME + " E ON EA." + DataSource.EnfermedadAlimento_Campos.ENFERMEDAD_ID + " = E." + DataSource.Enfermedad_Campos.ENFERMEDAD_ID +
+                                " WHERE EA." + DataSource.EnfermedadAlimento_Campos.ALIMENTO_ID + " = " + alimentoId.toString() +
+                                " ORDER BY E." + DataSource.Enfermedad_Campos.ENFERMEDAD_NOMBRE + " ASC", null);
     }
 
     public Cursor queryListAlimentosEnfermedad(Integer enfermedadId) {
         SQLiteDatabase bd = this.getReadableDatabase();
-        return bd.rawQuery("SELECT A." + DataSource.Alimento_Campos.ALIMENTO_ID + ", A." + DataSource.Alimento_Campos.ALIMENTO_NOMBRE + " FROM " + DataSource.ENFERMEDAD_ALIMENTO_TABLE_NAME +
-                " EA JOIN " + DataSource.ALIMENTO_TABLE_NAME + " A ON EA." + DataSource.EnfermedadAlimento_Campos.ALIMENTO_ID + " = A." + DataSource.Alimento_Campos.ALIMENTO_ID + " WHERE EA." + DataSource.EnfermedadAlimento_Campos.ENFERMEDAD_ID + " = " + enfermedadId.toString(), null);
+        return bd.rawQuery("SELECT A." + DataSource.Alimento_Campos.ALIMENTO_ID + ", A." + DataSource.Alimento_Campos.ALIMENTO_NOMBRE +
+                                " FROM " + DataSource.ENFERMEDAD_ALIMENTO_TABLE_NAME + " EA JOIN " + DataSource.ALIMENTO_TABLE_NAME + " A ON EA." + DataSource.EnfermedadAlimento_Campos.ALIMENTO_ID + " = A." + DataSource.Alimento_Campos.ALIMENTO_ID +
+                                " WHERE EA." + DataSource.EnfermedadAlimento_Campos.ENFERMEDAD_ID + " = " + enfermedadId.toString() +
+                                " ORDER BY A." + DataSource.Alimento_Campos.ALIMENTO_NOMBRE + " ASC", null);
     }
 
     public Cursor queryListAlimentosPropiedad(Integer propiedadId) {
         SQLiteDatabase bd = this.getReadableDatabase();
-        return bd.rawQuery("SELECT A." + DataSource.Alimento_Campos.ALIMENTO_ID + ", A." + DataSource.Alimento_Campos.ALIMENTO_NOMBRE + " FROM " + DataSource.PROPIEDAD_ALIMENTO_TABLE_NAME +
-                " PA JOIN " + DataSource.ALIMENTO_TABLE_NAME + " A ON PA." + DataSource.PropiedadAlimento_Campos.ALIMENTO_ID + " = A." + DataSource.Alimento_Campos.ALIMENTO_ID + " WHERE PA." + DataSource.PropiedadAlimento_Campos.PROPIEDAD_ID + " = " + propiedadId.toString(), null);
+        return bd.rawQuery("SELECT A." + DataSource.Alimento_Campos.ALIMENTO_ID + ", A." + DataSource.Alimento_Campos.ALIMENTO_NOMBRE +
+                                " FROM " + DataSource.PROPIEDAD_ALIMENTO_TABLE_NAME + " PA JOIN " + DataSource.ALIMENTO_TABLE_NAME + " A ON PA." + DataSource.PropiedadAlimento_Campos.ALIMENTO_ID + " = A." + DataSource.Alimento_Campos.ALIMENTO_ID +
+                                " WHERE PA." + DataSource.PropiedadAlimento_Campos.PROPIEDAD_ID + " = " + propiedadId.toString() +
+                                " ORDER BY A." + DataSource.Alimento_Campos.ALIMENTO_NOMBRE + " ASC", null);
     }
 
     public Cursor BusquedaAlimentos(String searchString) {
         SQLiteDatabase bd = this.getReadableDatabase();
-        return bd.rawQuery("SELECT " + DataSource.Alimento_Campos.ALIMENTO_ID + ", " + DataSource.Alimento_Campos.ALIMENTO_NOMBRE + ", " + DataSource.Alimento_Campos.ALIMENTO_INFO + ", " +
-                                DataSource.Alimento_Campos.ALIMENTO_IMAGEN + ", " + DataSource.Alimento_Campos.ALIMENTO_TIPO + " FROM " + DataSource.ALIMENTO_TABLE_NAME + " WHERE " + DataSource.Alimento_Campos.ALIMENTO_NOMBRE + " LIKE '" + searchString + "%' ORDER BY " + DataSource.Alimento_Campos.ALIMENTO_NOMBRE + " ASC", null);
+        return bd.rawQuery("SELECT " + DataSource.Alimento_Campos.ALIMENTO_ID + ", " + DataSource.Alimento_Campos.ALIMENTO_NOMBRE + ", " + DataSource.Alimento_Campos.ALIMENTO_INFO + ", " + DataSource.Alimento_Campos.ALIMENTO_IMAGEN + ", " + DataSource.Alimento_Campos.ALIMENTO_TIPO +
+                                " FROM " + DataSource.ALIMENTO_TABLE_NAME +
+                                " WHERE REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(LOWER(" + DataSource.Alimento_Campos.ALIMENTO_NOMBRE + "), 'á','a'), 'ã','a'), 'â','a'), 'é','e'), 'ê','e'), 'í','i'),'ó','o') ,'õ','o') ,'ô','o'),'ú','u'), 'ç','c')"  + " LIKE '" + quitarAcentos(searchString.trim()) + "%'" +
+                                " ORDER BY " + DataSource.Alimento_Campos.ALIMENTO_NOMBRE + " ASC", null);
     }
 
     public Cursor BusquedaPropiedades(String searchString) {
         SQLiteDatabase bd = this.getReadableDatabase();
         return bd.rawQuery("SELECT " + DataSource.Propiedad_Campos.PROPIEDAD_ID + ", " + DataSource.Propiedad_Campos.PROPIEDAD_NOMBRE + ", " + DataSource.Propiedad_Campos.PROPIEDAD_DESC +
-                                " FROM " + DataSource.PROPIEDAD_TABLE_NAME + " WHERE " + DataSource.Propiedad_Campos.PROPIEDAD_NOMBRE + " LIKE '" + searchString + "%'", null);
+                                " FROM " + DataSource.PROPIEDAD_TABLE_NAME +
+                                " WHERE REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(LOWER(" + DataSource.Propiedad_Campos.PROPIEDAD_NOMBRE + "), 'á','a'), 'ã','a'), 'â','a'), 'é','e'), 'ê','e'), 'í','i'),'ó','o') ,'õ','o') ,'ô','o'),'ú','u'), 'ç','c')" + " LIKE '" + quitarAcentos(searchString.trim()) + "%'" +
+                                " ORDER BY " + DataSource.Propiedad_Campos.PROPIEDAD_NOMBRE + " ASC", null);
     }
 
     public Cursor BusquedaEnfermedades(String searchString) {
         SQLiteDatabase bd = this.getReadableDatabase();
         return bd.rawQuery("SELECT " + DataSource.Enfermedad_Campos.ENFERMEDAD_ID + ", " + DataSource.Enfermedad_Campos.ENFERMEDAD_NOMBRE +
-                                " FROM " + DataSource.ENFERMEDAD_TABLE_NAME + " WHERE " + DataSource.Enfermedad_Campos.ENFERMEDAD_NOMBRE + " LIKE '" + searchString + "%'", null);
+                                " FROM " + DataSource.ENFERMEDAD_TABLE_NAME +
+                                " WHERE REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(LOWER(" + DataSource.Enfermedad_Campos.ENFERMEDAD_NOMBRE + "), 'á','a'), 'ã','a'), 'â','a'), 'é','e'), 'ê','e'), 'í','i'),'ó','o') ,'õ','o') ,'ô','o'),'ú','u'), 'ç','c')" + " LIKE '" + quitarAcentos(searchString.trim()) + "%'" +
+                                " ORDER BY " + DataSource.Enfermedad_Campos.ENFERMEDAD_NOMBRE + " ASC", null);
     }
 
+    public String quitarAcentos(String s)
+    {
+        s = Normalizer.normalize(s, Normalizer.Form.NFD);
+        s = s.replaceAll("[\\p{InCombiningDiacriticalMarks}]", "");
+        return s;
+    }
 }

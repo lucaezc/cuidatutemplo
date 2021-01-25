@@ -37,6 +37,7 @@ public class AlimentosFragment extends Fragment {
         final Cursor cursorAlimentos = db.queryListAlimentos();
         final AlimentosListAdapter alimentosAdapter = new AlimentosListAdapter(getActivity(), cursorAlimentos);
         lv.setAdapter(alimentosAdapter);
+        lv.requestFocus();
 
         lv.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
@@ -73,6 +74,7 @@ public class AlimentosFragment extends Fragment {
                 return false;
             }
         });
+
     }
 
     @Override
